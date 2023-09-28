@@ -31,6 +31,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 📝 Publications 
 
+### Conference
 
 - **Divide and Adapt: Active Domain Adaptation via Customized Learning**  
 Duojun Huang, **Jichang Li**, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li    
@@ -57,7 +58,7 @@ Si Wu, Guangchang Deng, **Jichang Li**, Rui Li, Zhiwen Yu, and Hau-San Wong
 The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)  
 [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.pdf)  
 
-## Journal
+### Journal
 
 - **Inter-Domain Mixup for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
