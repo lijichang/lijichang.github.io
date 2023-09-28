@@ -164,10 +164,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     </div>
 </div>
 
-- Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss
-  Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei
-  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)
-  [PDF](https://ieeexplore.ieee.org/abstract/document/8733064)[PDF](https://ieeexplore.ieee.org/abstract/document/8733064)
+- Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss  
+  Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei  
+  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)  
+  [PDF](https://ieeexplore.ieee.org/abstract/document/8733064)[PDF](https://ieeexplore.ieee.org/abstract/document/8733064)  
 
 
 # Professional Service
