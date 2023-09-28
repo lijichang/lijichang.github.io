@@ -23,13 +23,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- [**2023/10**]  &nbsp;🎉🎉  One paper is accepted by **Pattern Recogintion**.
+- [**2023/09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**.
+- [**2023/03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun!
+- [**2022/07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022**.
+- [**2021/03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2021**.
+- [**2020/07**]  &nbsp;🎉🎉  I finished my study from South China University of Technology.
+- [**2019/07**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2019**.
+- [**2019/05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
+- [**2019/02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
