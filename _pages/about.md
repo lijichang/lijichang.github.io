@@ -12,9 +12,7 @@ redirect_from:
 
 I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong, supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow). I also work closely with [Prof. Guanbin LI](http://guanbinli.com/) from Sun Yat-sen University. Moreover, I received my master's degree in engineering in Computer Science at South China University of Technology in 2020, advised by [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en) and [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en).  
 
-<p>I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong, supervised by <a href="https://i.cs.hku.hk/~yzyu/">Prof. Yizhou YU</a> (IEEE/ACM Fellow). I also work with <a href="http://guanbinli.com/"> Prof. Guanbin LI</a> from Sun Yat-sen University. Moreover, I received my master's degree in engineering in Computer Science at South China University of Technology in 2020, advised by <a href="https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en">Prof.  Zhiwen YU</a> and <a href="https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en">Prof. Si WU</a>.</p> 
-
-<p>My research interests involve computer vision and deep learning with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.</p>
+My research interests involve computer vision and deep learning with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.
 
 
 
@@ -31,7 +29,7 @@ I am a Ph.D. candidate at the Department of Computer Science, the University of 
 - [**2019/05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
 - [**2019/02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
-# Publications 
+# 📝 Publications 
 
 
 You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vcMAAAAJ" target="_blank">Google Scholar</a> profile.
@@ -154,6 +152,11 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
 </div>
 
 
+# Professional Service
+
+- Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
+- Journal reviewer:  TVCJ2021, TIP2023.
+
 # Honors and Awards
 - *2020-2024*, HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
 - *2020*, National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
@@ -163,10 +166,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
 - *2020.09 - 2024.09 (expected)*, Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - *2017.09 - 2020.06*, Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
 
-# Professional Service
-
-- Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
-- Journal reviewer:  TVCJ2021, TIP2023.
 
 # Internships
 - *2023.07 - 2023.12*, Visiting scholar,  **Zhejiang Lab**, Hangzhou, China.
