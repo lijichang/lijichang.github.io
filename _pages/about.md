@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
-<p>I am a Ph.D candidate at the Department of Computer Science, the University of Hong Kong, supervised by <a href="https://i.cs.hku.hk/~yzyu/">Prof. Yizhou YU</a> (IEEE/ACM Fellow). I also work with <a href="http://guanbinli.com/"> Prof. Guanbin LI</a> from Sun Yat-sen University. Moreover, I received my master's degree in engineering in Computer Science at South China University of Technology in 2020, advised by <a href="https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en">Prof.  Zhiwen YU</a> and <a href="https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en">Prof. Si WU</a>.</p> 
+<p>I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong, supervised by <a href="https://i.cs.hku.hk/~yzyu/">Prof. Yizhou YU</a> (IEEE/ACM Fellow). I also work with <a href="http://guanbinli.com/"> Prof. Guanbin LI</a> from Sun Yat-sen University. Moreover, I received my master's degree in engineering in Computer Science at South China University of Technology in 2020, advised by <a href="https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en">Prof.  Zhiwen YU</a> and <a href="https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en">Prof. Si WU</a>.</p> 
 
 <p>My research interests involve computer vision and deep learning with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.</p>
 
