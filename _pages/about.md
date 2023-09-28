@@ -85,15 +85,16 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 - Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
 - Journal reviewer:  TVCJ2021, TIP2023.
 
-# Honors and Awards
-- [**2020-2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
-- [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
-- [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
+
   
 # Educations
 - [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
 
+# Honors and Awards
+- [**2020-2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
+- [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
+- [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
 # Internships
 - [**2023.07 - 2023.12**] Visiting scholar,  **Zhejiang Lab**, Hangzhou, China.
