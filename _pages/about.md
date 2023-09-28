@@ -70,104 +70,44 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
 
 
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation</strong><br />
-          <b>Jichang Li</b>, Guanbin Li, Yemin Shi, and Yizhou Yu<br />
-          The IEEE Conference on Computer Vision and Pattern Recognition, 2021 (CVPR2021)<br />
-          <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html">[PDF]</a>
-           <a href="https://arxiv.org/abs/2104.09415">[Arxiv]</a>
-           <a href="https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf">[SUPP]</a>
-           <a href="https://github.com/lijichang/CVPR2021-SSDA">[CODE]</a>
-           <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7HkvmWl_BDwJ:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHuHU:AFWwaeYAAAAAZQbBoHWzngs2cNsOBaM2CzZMVzY&scisig=AFWwaeYAAAAAZQbBoMLCQGXMPcRePWdK9P5D8oU&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
-
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification</strong><br />
-          Si Wu, <b>Jichang Li</b> (# major contribution), Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
-          The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019 <b>Oral</b>)<br />
-          <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.pdf">[PDF]</a>
-          <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:F5r1ohTJBbsJ:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHcPM:AFWwaeYAAAAAZQbBaPMMM8SXhaeK9NTwB65SWEE&scisig=AFWwaeYAAAAAZQbBaEjBs7I8SxpTnFl2DGaJwYQ&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification</strong><br />
-          Si Wu, Guangchang Deng, <b>Jichang Li</b>, Rui Li, Zhiwen Yu, and Hau-San Wong<br />
-          The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)<br />
-          <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.pdf">[PDF]</a>
-          <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NopnGpzu2EsJ:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHbVY:AFWwaeYAAAAAZQbBdVaZ1RTStrX1l4IrjZ_L9fQ&scisig=AFWwaeYAAAAAZQbBddml7s1pOfMc5aUSiGwAZKg&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
-
-<h3>
-    <a name='Journal'></a>Journal
-</h3>
+- **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation**
+Si Wu, **Jichang Li** (# major contribution), Cheng Liu, Zhiwen Yu, and Hau-San Wong  
+**Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu  
+[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[Arxiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)
 
 
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Inter-Domain Mixup for Semi-Supervised Domain Adaptation</strong><br />
-          <b>Jichang Li</b>, Guanbin Li, and Yizhou Yu<br />
-          To appear in Elsevier Pattern Recognition, 2023 (Elsevier PR2023)<br />
-           <a href="">[PDF]</a>
-          <a href="">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
+- **Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification**
+Si Wu, **Jichang Li** (# major contribution), Cheng Liu, Zhiwen Yu, and Hau-San Wong  
+The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019 **Oral**)  
+[[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.pdf)
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation</strong><br />
-          <b>Jichang Li</b>, Guanbin Li, and Yizhou Yu<br />
-          To appear in IEEE Transaction on Image Processing, 2023 (TIP2023)<br />
-           <a href="">[PDF]</a>
-          <a href="">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
+- **Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification**
+Si Wu, Guangchang Deng, **Jichang Li**, Rui Li, Zhiwen Yu, and Hau-San Wong  
+The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)  
+[[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.pdf)  
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration</strong><br />
-          <b>Jichang Li</b>, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
-          IEEE Transaction on Image Processing, 2019 (TIP2019)<br />
-           <a href="https://ieeexplore.ieee.org/abstract/document/8796363">[PDF]</a>
-          <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Wg_3tkGrm1UJ:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHQ7k:AFWwaeYAAAAAZQbBW7nHT1LSmCNFzfODiK_F0Js&scisig=AFWwaeYAAAAAZQbBW1L1oiZFMyWilclimge5EX8&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
+## Journal
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss</strong><br />
-          Luoqin Li, Jiabing Wang, <b>Jichang Li</b>, Qianli Ma, and Jia Wei<br />
-          IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)<br />
-          <a href="https://ieeexplore.ieee.org/abstract/document/8733064">[PDF]</a>
-                     <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Sma2ApeQ558J:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHmO0:AFWwaeYAAAAAZQbBgO394nkSqJxfvD-TRNzC2Ao&scisig=AFWwaeYAAAAAZQbBgIPFYmWLt84C5P1XHx4WK5g&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
-       </p>
-    </div>
-</div>
+- **Inter-Domain Mixup for Semi-Supervised Domain Adaptation**
+**Jichang Li**, Guanbin Li, and Yizhou Yu  
+To appear in Elsevier Pattern Recognition, 2023 (Elsevier PR2023)  
+[[PDF]]()  
+
+- **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**
+**Jichang Li**, Guanbin Li, and Yizhou Yu  
+To appear in IEEE Transaction on Image Processing, 2023 (TIP2023)  
+[[PDF]]()  
+
+- **Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration**
+**Jichang Li**, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
+IEEE Transaction on Image Processing, 2019 (TIP2019)  
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8796363)  
 
 - **Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss**  
 Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)  
-[PDF](https://ieeexplore.ieee.org/abstract/document/8733064)  
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8733064)  
 
 
 # Professional Service
