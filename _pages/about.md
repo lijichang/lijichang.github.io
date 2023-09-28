@@ -164,10 +164,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     </div>
 </div>
 
-- Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss  
-  Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei  
-  IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)  
-  [PDF](https://ieeexplore.ieee.org/abstract/document/8733064)[PDF](https://ieeexplore.ieee.org/abstract/document/8733064)  
+- **Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss**  
+Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)  
+[PDF](https://ieeexplore.ieee.org/abstract/document/8733064)  
 
 
 # Professional Service
@@ -176,26 +176,26 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
 - Journal reviewer:  TVCJ2021, TIP2023.
 
 # Honors and Awards
-- *2020-2024*, HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
-- *2020*, National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
-- *2016*, National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
+- [**2020-2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
+- [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
+- [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
   
 # Educations
-- *2020.09 - 2024.09 (expected)*, Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
-- *2017.09 - 2020.06*, Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
+- [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
+- [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
 
 
 # Internships
-- *2023.07 - 2023.12*, Visiting scholar,  **Zhejiang Lab**, Hangzhou, China.
-- *2016.03 - 2016.10*, Visiting student,  **BGI Research**, Shenzhen, China.
+- [**2023.07 - 2023.12**] Visiting scholar,  **Zhejiang Lab**, Hangzhou, China.
+- [**2016.03 - 2016.10**] Visiting student,  **BGI Research**, Shenzhen, China.
 
 # Others
 
 - Teaching Assistant (TA):  
-COMP8501, Advanced topics in computer graphics, HKUCS, Sem 2nd 2023-2024.  
-COMP3278B, Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.  
-COMP7404, Computational intelligence and machine learning [Section 1B, 2021], HKUCS, Sem 1st 2021-2022.  
-ENGG1330, Computer programming I, HKUCS, Sem 1st 2020-2021.
+**COMP8501**, Advanced topics in computer graphics, HKUCS, Sem 2nd 2023-2024.  
+**COMP3278B**, Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.  
+**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKUCS, Sem 1st 2021-2022.  
+**ENGG1330**, Computer programming I, HKUCS, Sem 1st 2020-2021.
 
 - Language skills:  
 Mandarin (native), Cantonese (native), English (acquired)
