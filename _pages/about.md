@@ -19,7 +19,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 🔥 News
 
-- [**2023/10**]  &nbsp;🎉🎉  One paper is accepted by **Elisevier PR2023**.
+- [**2023/10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023**.
 - [**2023/09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**.
 - [**2023/03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun!
 - [**2022/07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022**.
@@ -114,6 +114,19 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     <a name='Journal'></a>Journal
 </h3>
 
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Inter-Domain Mixup for Semi-Supervised Domain Adaptation</strong><br />
+          <b>Jichang Li</b>, Guanbin Li, and Yizhou Yu<br />
+          To appear in Elsevier Pattern Recognition, 2023 (Elsevier PR2023)<br />
+           <a href="">[PDF]</a>
+          <a href="">[BibTex]</a><br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
