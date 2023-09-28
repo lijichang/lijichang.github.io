@@ -19,7 +19,7 @@ redirect_from:
 
 # 🔥 News
 
-- [**2023/10**]  &nbsp;🎉🎉  One paper is accepted by **Pattern Recogintion**.
+- [**2023/10**]  &nbsp;🎉🎉  One paper is accepted by **Elisevier PR2023**.
 - [**2023/09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**.
 - [**2023/03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun!
 - [**2022/07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022**.
