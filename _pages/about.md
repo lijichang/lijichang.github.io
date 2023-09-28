@@ -34,11 +34,13 @@ My research interests involve computer vision and deep learning with an emphasis
 ### Conference
 
 - **Divide and Adapt: Active Domain Adaptation via Customized Learning**  
-Duojun Huang, **Jichang Li**, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li    
+Duojun Huang, **Jichang Li**, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li
+The IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CVPR2023 **Highlight**)    
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)[[Arxiv]](https://arxiv.org/abs/2307.11618)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Huang_Divide_and_Adapt_CVPR_2023_supplemental.pdf)[[CODE]](https://github.com/starchaser49/DiaNA-CVPR2023)  
 
 - **Neighborhood Collective Estimation for Noisy Label Identification and Correction**  
-**Jichang Li**, Guanbin Li, Feng Li, and Yizhou Yu  
+**Jichang Li**, Guanbin Li, Feng Li, and Yizhou Yu
+European Conference on Computer Vision, 2022 (ECCV2022)
 [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)[[Arxiv]](https://arxiv.org/abs/2208.03207)[[SUPP]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)[[CODE]](https://github.com/lijichang/LNL-NCE)  
 
 
