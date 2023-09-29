@@ -46,7 +46,9 @@ European Conference on Computer Vision, 2022 (ECCV2022)
 
 - **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu  
-[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[Arxiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)  
+[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[Arxiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/_pages/CVPR2021_SSDA_CDAC.bib)
+
+  
 
 
 
