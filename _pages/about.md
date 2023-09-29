@@ -19,15 +19,15 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 🔥 News
 
-- [**2023/10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023**.
-- [**2023/09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**.
-- [**2023/03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun!
-- [**2022/07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022**.
-- [**2021/03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2021**.
-- [**2020/07**]  &nbsp;🎉🎉  I finished my study from South China University of Technology.
-- [**2019/07**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2019**.
-- [**2019/05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
-- [**2019/02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
+- [**2023.10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023**.
+- [**2023.09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**.
+- [**2023.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun!
+- [**2022.07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022**.
+- [**2021.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2021**.
+- [**2020.07**]  &nbsp;🎉🎉  I finished my study from South China University of Technology.
+- [**2019.07**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2019**.
+- [**2019.05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
+- [**2019.02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
 # 📝 Publications 
 
@@ -95,7 +95,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 - [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
 
 # Honors and Awards
-- [**2020-2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
+- [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
 - [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
