@@ -43,14 +43,9 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CVPR2023 *
 European Conference on Computer Vision, 2022 (ECCV2022)  
 [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)[[Arxiv]](https://arxiv.org/abs/2208.03207)[[SUPP]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)[[CODE]](https://github.com/lijichang/LNL-NCE)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/ECCV2022_LNL_NCE.bib)  
 
-
 - **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[Arxiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/CVPR2021_SSDA_CDAC.bib)
-
-  
-
-
 
 - **Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification**  
 Si Wu, **Jichang Li** (# major contribution), Cheng Liu, Zhiwen Yu, and Hau-San Wong  
@@ -90,8 +85,6 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 - Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
 - Journal reviewer:  TVCJ2021, TIP2023.
 
-
-  
 # Educations
 - [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
@@ -102,7 +95,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
 # Internships
-- [**2023.07 - 2023.12**] Visiting scholar,  **Zhejiang Lab**, Hangzhou, China.
+- [**2023.07 - 2023.12**] Visiting student,  **Zhejiang Lab**, Hangzhou, China.
 - [**2016.03 - 2016.10**] Visiting student,  **BGI Research**, Shenzhen, China.
 
 # Others
