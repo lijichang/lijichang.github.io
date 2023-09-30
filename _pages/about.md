@@ -44,7 +44,7 @@ European Conference on Computer Vision, 2022 (ECCV2022)
 [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)[[Arxiv]](https://arxiv.org/abs/2208.03207)[[SUPP]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)[[CODE]](https://github.com/lijichang/LNL-NCE)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/ECCV2022_LNL_NCE.bib)  
 
 - **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation**  
-**Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu
+**Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2021 (CVPR2021)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[Arxiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/CVPR2021_SSDA_CDAC.bib)
 
