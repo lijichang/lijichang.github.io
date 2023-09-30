@@ -95,9 +95,9 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 - [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
-# Internships
-- [**2023.07 - 2023.12**] Visiting student,  **Zhejiang Lab**, Hangzhou, China.
-- [**2016.03 - 2016.10**] Visiting student,  **BGI Research**, Shenzhen, China.
+# Work Experiments
+- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou, China.
+- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen, China.
 
 # Others
 
