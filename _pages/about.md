@@ -101,10 +101,10 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 # Others
 
 - Teaching Assistant (TA):  
-**COMP8501**, Advanced topics in computer graphics, HKUCS, Sem 2nd 2023-2024.  
-**COMP3278B**, Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.  
-**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKUCS, Sem 1st 2021-2022.  
-**ENGG1330**, Computer programming I, HKUCS, Sem 1st 2020-2021.
+**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024.  
+**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023.  
+**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022.  
+**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021.
 
 - Language skills:  
 Mandarin (native), Cantonese (native), English (acquired)
