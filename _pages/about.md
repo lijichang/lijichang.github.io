@@ -68,7 +68,7 @@ To appear in Elsevier Pattern Recognition, 2023 (Elsevier PR2023)
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
 To appear in IEEE Transaction on Image Processing, 2023 (TIP2023)  
-[[PDF]]()[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TIP2023_SSDA.bib)  
+[[PDF]](https://ieeexplore.ieee.org/document/10269065)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TIP2023_SSDA.bib)  
 
 - **Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration**  
 **Jichang Li**, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
