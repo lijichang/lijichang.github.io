@@ -63,7 +63,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)
 - **Inter-Domain Mixup for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
 To appear in Elsevier Pattern Recognition, 2023 (Elsevier PR2023)  
-[[PDF]]()[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/PR2023_SSDA.bib)  
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/PR2023_SSDA.bib)  
 
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
