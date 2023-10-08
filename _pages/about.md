@@ -29,6 +29,39 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2019.05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
 - [**2019.02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
+
+# Educations
+- [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
+- [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
+
+# Honors and Awards
+- [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
+- [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
+- [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
+
+# Work Experiments
+- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou, China.
+- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen, China.
+
+
+# Professional Service
+
+- Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
+- Journal reviewer:  TVCJ2021, TIP2023.
+
+
+# Others
+
+- Teaching Assistant (TA):  
+**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024.  
+**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023.  
+**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022.  
+**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021.
+
+- Language skills:  
+Mandarin (native), Cantonese (native), English (acquired)
+
+
 # 📝 Publications 
 
 ### Conference
@@ -80,34 +113,5 @@ Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei
 IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8733064)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TALSP2019_Relation.bib)  
 
-
-# Professional Service
-
-- Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
-- Journal reviewer:  TVCJ2021, TIP2023.
-
-# Educations
-- [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
-- [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
-
-# Honors and Awards
-- [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
-- [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
-- [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
-
-# Work Experiments
-- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou, China.
-- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen, China.
-
-# Others
-
-- Teaching Assistant (TA):  
-**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024.  
-**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023.  
-**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022.  
-**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021.
-
-- Language skills:  
-Mandarin (native), Cantonese (native), English (acquired)
 
   
