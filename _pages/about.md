@@ -31,8 +31,8 @@ My research interests involve computer vision and deep learning with an emphasis
 
 
 # Educations
-- [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy, Department of Computer Science, The University of Hong Kong, Hong Kong. 
-- [**2017.09 - 2020.06**] Master of Engineering, School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
+- [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy (Ph.D.), Department of Computer Science, The University of Hong Kong, Hong Kong. 
+- [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
 
 # Honors and Awards
 - [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
