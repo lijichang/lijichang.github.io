@@ -40,6 +40,7 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
 # Work Experiments
+- [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou, China.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen, China.
 
