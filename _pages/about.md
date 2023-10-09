@@ -32,7 +32,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # Educations
 - [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy (Ph.D.), Department of Computer Science, The University of Hong Kong, Hong Kong. 
-- [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou, China.
+- [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 # Honors and Awards
 - [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
@@ -41,8 +41,8 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # Work Experiments
 - [**2020.09 - 2024.08**] Teaching Assistant (TA),  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
-- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou, China.
-- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen, China.
+- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
+- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
 
 
 # Professional Service
