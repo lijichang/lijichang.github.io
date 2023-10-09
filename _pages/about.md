@@ -40,7 +40,7 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
 # Work Experiments
-- [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
+- [**2020.09 - 2024.08**] Teaching Assistant (TA),  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou, China.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen, China.
 
@@ -53,7 +53,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # Others
 
-- Teaching Assistant (TA):  
+- Assisted with courses as a TA in HKU-CS:  
 **COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024.  
 **COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023.  
 **COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022.  
