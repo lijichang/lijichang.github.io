@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong, supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow). I also work closely with [Prof. Guanbin LI](http://guanbinli.com/) from Sun Yat-sen University. Prior to HKU, I received my master's degree of engineering in Computer Science at South China University of Technology in 2020, advised by [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en) and [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en).  
+I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong, supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow). I also work closely with [Prof. Guanbin LI](http://guanbinli.com/) from Sun Yat-sen University. Prior to HKU, I received the master's degree of engineering in Computer Science at South China University of Technology in 2020, advised by [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en) and [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en).  
 
 My research interests involve computer vision and deep learning with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.
 
@@ -35,7 +35,7 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 
-# Experience
+# Experiences
 - [**2020.09 - 2024.08**] Teaching Assistant (TA),  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
@@ -100,7 +100,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 
 
   
-# Professional Service
+# Academic Services
 
 - Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
 - Journal reviewer:  TVCJ2021, TIP2023.
