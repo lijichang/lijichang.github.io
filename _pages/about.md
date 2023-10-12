@@ -40,7 +40,7 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
 
-# Honors and Awards
+# Selected Honors and Awards
 - [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
 - [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
@@ -100,7 +100,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 
 
   
-# Academic Services
+# Professional Services
 
 - Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
 - Journal reviewer:  TVCJ2021, TIP2023.
