@@ -30,7 +30,7 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2019.02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
 
-# Educations
+# :blue_book: Educations
 - [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy (Ph.D.), Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
