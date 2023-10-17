@@ -35,7 +35,7 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 
-# :pencil: Experiences
+# :computer: Experiences
 - [**2020.09 - 2024.08**] Teaching Assistant (TA),  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
