@@ -80,7 +80,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)
 - **Inter-Domain Mixup for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
 Elsevier Pattern Recognition, 2023 (Elsevier PR2023)  
-[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/PR2023_SSDA.bib)  
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)[[ResearchGate]](https://www.researchgate.net/publication/374499122_Inter-domain_mixup_for_semi-supervised_domain_adaptation?_sg%5B0%5D=zzywj_gvTMrmgA3QRML2HMiJDw-jig0axvbl8pjjhrSEy4VvAgM6yR7qZlD5S-3E1CPr95dUdnZ78zs_MCtOFntrzXk_HOHRfoLUa2a1.5GGPId_ByFFEb2-VSSI50j0XQ2Aj_VJbPwHE6cR2bV46ojkz3o7aczdFnCaE_i1QTEi8769pg79X3eGHQZYlvA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/PR2023_SSDA.bib)  
 
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
