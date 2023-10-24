@@ -30,17 +30,17 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2019.02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
 
-# :blue_book: Educations
+# Educations
 - [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy (Ph.D.), Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - [**2017.09 - 2020.06**] Master of Engineering (M.Eng.), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 
-# :computer: Experiences
+# Experiences
 - [**2020.09 - 2024.08**] Teaching Assistant (TA),  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
 
-# :beers: Selected Honors and Awards
+# Selected Honors and Awards
 - [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
 - [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
@@ -102,7 +102,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019
 
 
   
-# :beers: Professional Services
+# Professional Services
 
 - Conference reviewer:  BMVC2022, CVPR2023, ICCV2023.
 - Journal reviewer:  TVCJ2021, TIP2023.
