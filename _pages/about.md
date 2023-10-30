@@ -84,19 +84,19 @@ Elsevier Pattern Recognition, 2023 (Elsevier PR2023)
 
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
-IEEE Transaction on Image Processing, 2023 (TIP2023)  
+IEEE Transaction on Image Processing, 2023 (IEEE TIP2023)  
 [[PDF]](https://ieeexplore.ieee.org/document/10269065)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TIP2023_SSDA.bib)
 
 
 
 - **Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration**  
 **Jichang Li**, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
-IEEE Transaction on Image Processing, 2019 (TIP2019)  
+IEEE Transaction on Image Processing, 2019 (IEEE TIP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8796363)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TIP2019_SSL.bib)  
 
 - **Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss**  
 Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (TASLP2019)  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (IEEE/ACM TASLP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8733064)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TALSP2019_Relation.bib)  
 
 
