@@ -104,8 +104,8 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (IEEE/ACM 
   
 # Professional Services
 
-- Conference reviewers:  BMVC'22, CVPR'23/'24, ICCV'23.
-- Journal reviewers:  TVCJ'21, TIP'23.
+- Conference reviewers:  BMVC2022, CVPR2023/2024, ICCV2023.
+- Journal reviewers:  TVCJ2021, TIP2023.
 
 
 # Others
