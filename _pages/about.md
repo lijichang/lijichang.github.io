@@ -42,7 +42,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # Selected Honors and Awards
 - [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
-- [**2020**] National Scholarship for Postgraduates (top 1%), Ministry of Education, China.
+- [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China.
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
 
