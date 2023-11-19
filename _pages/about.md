@@ -46,6 +46,27 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
 
+
+  
+# Professional Services
+
+- Conference reviewers:  BMVC2022, CVPR2023/2024, ICCV2023.
+- Journal reviewers:  TVCJ2021, TIP2023.
+
+
+# Others
+
+- Assisted with courses as a TA in HKU-CS:  
+**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024.  
+**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023.  
+**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022.  
+**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021.
+
+- Language skills:  
+Mandarin (native), Cantonese (native), English (acquired)
+
+
+
 # 📝 Publications 
 
 ### Conference
@@ -99,24 +120,5 @@ Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei
 IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (IEEE/ACM TASLP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8733064)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/9bea6c236ab6a0ffc08abcd1e826c8cfe9789921/bibtex/TALSP2019_Relation.bib)  
 
-
-
-  
-# Professional Services
-
-- Conference reviewers:  BMVC2022, CVPR2023/2024, ICCV2023.
-- Journal reviewers:  TVCJ2021, TIP2023.
-
-
-# Others
-
-- Assisted with courses as a TA in HKU-CS:  
-**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024.  
-**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023.  
-**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022.  
-**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021.
-
-- Language skills:  
-Mandarin (native), Cantonese (native), English (acquired)
 
 
