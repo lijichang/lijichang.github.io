@@ -19,7 +19,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 🔥 News
 
-- [**2023.12**]  &nbsp;🎉🎉  One paper is accepted by **AAAI2023**.
+- [**2023.12**]  &nbsp;🎉🎉  One paper is accepted by **AAAI2024**.
 - [**2023.10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023**.
 - [**2023.09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**.
 - [**2023.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun!
