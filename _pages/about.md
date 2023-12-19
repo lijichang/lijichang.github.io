@@ -75,6 +75,8 @@ Mandarin (native), Cantonese (native), English (acquired)
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
 **Jichang Li**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
 To appear in Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 (AAAI2024)
+[[FULL]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)[[SUPP]](https://github.com/lijichang/FLNL-FedDiv/blob/main/supp.pdf)[[CODE]](https://github.com/lijichang/FLNL-FedDiv)
+
 
 - **Divide and Adapt: Active Domain Adaptation via Customized Learning**  
 Duojun Huang, **Jichang Li**, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li  
