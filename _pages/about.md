@@ -19,14 +19,14 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 🔥 News
 
-- [**2023.12**]  &nbsp;🎉🎉  One paper is accepted by **AAAI2024**. The task topic is Federated Learning with Noisy Labels (F-LNL).
-- [**2023.10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023**. The task topic is Semi-supervised Domain Adaptation (SSDA).
-- [**2023.09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023**. The task topic is Semi-supervised Domain Adaptation (SSDA).
-- [**2023.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023**. Congratulations to Duojun! The task topic is Active Domain Adaptation (ADA).
-- [**2022.07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022**. The task topic is Learning with Noisy Labels (LNL).
-- [**2021.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2021**. The task topic is Semi-supervised Domain Adaptation (SSDA).
+- [**2023.12**]  &nbsp;🎉🎉  One paper is accepted by **AAAI2024** on Federated Learning with Noisy Labels (F-LNL).
+- [**2023.10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023** on Semi-supervised Domain Adaptation (SSDA).
+- [**2023.09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023** on Semi-supervised Domain Adaptation (SSDA).
+- [**2023.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023** on  Active Domain Adaptation (ADA). Congratulations to Duojun!
+- [**2022.07**]  &nbsp;🎉🎉  One paper is accepted by **ECCV2022** on Learning with Noisy Labels (LNL).
+- [**2021.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2021** on Semi-supervised Domain Adaptation (SSDA).
 - [**2020.07**]  &nbsp;🎉🎉  I finished my study from South China University of Technology.
-- [**2019.07**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2019**, whose task topic is Semi-supervised Learning (SSL).
+- [**2019.07**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2019** on Semi-supervised Learning (SSL).
 - [**2019.05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
 - [**2019.02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
 
