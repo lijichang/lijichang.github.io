@@ -52,7 +52,7 @@ My research interests involve computer vision and deep learning with an emphasis
 # Professional Services
 
 - Conference reviewers:  BMVC2022, CVPR2023/2024, ICCV2023.
-- Journal reviewers:  TVCJ2021, TIP2023, TPAMI2023.
+- Journal reviewers:  TVCJ2021, TIP2023, TPAMI2023, Information Sciences.
 
 
 # Others
