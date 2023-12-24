@@ -51,9 +51,19 @@ My research interests involve computer vision and deep learning with an emphasis
   
 # Professional Services
 
-- Conference reviewers:  BMVC2022, CVPR2023/2024, ICCV2023.
-- Journal reviewers:  TVCJ2021, TIP2023, TPAMI2023, Information Sciences.
-
+- Conference reviewers:
+  The British Machine Vision Conference (BMVC), 2022
+  The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024
+  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+  
+- Journal reviewers:
+  The Visual Computer, 2021
+  IEEE Transactions on Image Processing, 2023
+  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023
+  Information Sciences, 2023
+  
+  
+  
 
 # Others
 
@@ -112,14 +122,14 @@ Elsevier Pattern Recognition, 2023 (Elsevier PR2023)
 
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, and Yizhou Yu  
-IEEE Transaction on Image Processing, 2023 (IEEE TIP2023)  
+IEEE Transactions on Image Processing, 2023 (IEEE TIP2023)  
 [[PDF]](https://ieeexplore.ieee.org/document/10269065)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TIP2023_SSDA.bib)
 
 
 
 - **Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration**  
 **Jichang Li**, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
-IEEE Transaction on Image Processing, 2019 (IEEE TIP2019)  
+IEEE Transactions on Image Processing, 2019 (IEEE TIP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8796363)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TIP2019_SSL.bib)  
 
 - **Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss**  
