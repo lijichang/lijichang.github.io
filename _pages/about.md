@@ -71,10 +71,10 @@ My research interests involve computer vision and deep learning with an emphasis
 # Others
 
 - Assisted with courses as a Teaching Assistant (TA) in HKU-CS:  
-**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024 (Spring 2024).  
-**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023 (Spring 2023).  
-**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022  (Fall 2021).  
-**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021  (Fall 2020).
+**COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024 (2024Spring).  
+**COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023 (2023Spring).  
+**COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022  (2021Fall).  
+**ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021  (2020Fall).
 
 - Language skills:  
 Mandarin (native), Cantonese (native), English (acquired)
