@@ -19,7 +19,7 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 🔥 News
 
-- [**2023.12**]  &nbsp;🎉🎉  One paper is accepted by **AAAI2024** on federated learning with noisy labels (F-LNL).
+- [**2023.12**]  &nbsp;🎉🎉  One paper on federated learning with noisy labels, [FedDiv](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf), is accepted by **AAAI2024**.
 - [**2023.10**]  &nbsp;🎉🎉  One paper is accepted by **Elsevier PR2023** on semi-supervised domain adaptation (SSDA).
 - [**2023.09**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2023** on semi-supervised domain adaptation (SSDA).
 - [**2023.03**]  &nbsp;🎉🎉  One paper is accepted by **CVPR2023** on  active domain adaptation (ADA). Congratulations to Duojun!
@@ -46,9 +46,6 @@ My research interests involve computer vision and deep learning with an emphasis
 - [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China.
 - [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
-
-
-  
 # Professional Services
 
 - Conference reviewers:  
