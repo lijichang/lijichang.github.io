@@ -19,16 +19,16 @@ My research interests involve computer vision and deep learning with an emphasis
 
 # 🔥 News
 
-- [**2023.12**]  &nbsp;🎉🎉  One paper [FedDiv](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **AAAI2024**.
-- [**2023.10**]  &nbsp;🎉🎉  One paper [IDM](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **Elsevier PR2023**.
-- [**2023.09**]  &nbsp;🎉🎉  One paper [G-ABC](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **IEEE TIP2023**.
-- [**2023.03**]  &nbsp;🎉🎉  One paper [DiaNa](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **CVPR2023**. Congratulations to Duojun!
-- [**2022.07**]  &nbsp;🎉🎉  One paper [NCE](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **ECCV2022**.
-- [**2021.03**]  &nbsp;🎉🎉  One paper [CDAC](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **CVPR2021**.
+- [**2023.12**]  &nbsp;🎉🎉  One of our work [FedDiv](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **AAAI2024**.
+- [**2023.10**]  &nbsp;🎉🎉  One of our work [IDM](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **Elsevier PR2023**.
+- [**2023.09**]  &nbsp;🎉🎉  One of our work [G-ABC](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **IEEE TIP2023**.
+- [**2023.03**]  &nbsp;🎉🎉  One of our work [DiaNa](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **CVPR2023**. Congratulations to Duojun!
+- [**2022.07**]  &nbsp;🎉🎉  One of our work [NCE](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **ECCV2022**.
+- [**2021.03**]  &nbsp;🎉🎉  One of our work [CDAC](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **CVPR2021**.
 - [**2020.07**]  &nbsp;🎉🎉  I finished my study from South China University of Technology.
-- [**2019.07**]  &nbsp;🎉🎉  One paper is accepted by **IEEE TIP2019**.
-- [**2019.05**]  &nbsp;🎉🎉  One paper is accepted by **IEEE/ACM TASLP2019**.
-- [**2019.02**]  &nbsp;🎉🎉  Two papers are accepted by **CVPR2019**.
+- [**2019.07**]  &nbsp;🎉🎉  One of our work is accepted by **IEEE TIP2019**.
+- [**2019.05**]  &nbsp;🎉🎉  One of our work is accepted by **IEEE/ACM TASLP2019**.
+- [**2019.02**]  &nbsp;🎉🎉  Two of our work are accepted by **CVPR2019**.
 
 
 # Educations
