@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong (HKU), supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof. Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, I received the degree of Master of Engineering in Computer Science at South China University of Technology in 2020, under the supervision of [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
+I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong (HKU), supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and [Prof. Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, I received the degree of Master of Engineering in Computer Science at South China University of Technology in 2020, under the supervision of [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 
 My research interests involve computer vision and deep learning with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.
 
