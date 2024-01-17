@@ -50,7 +50,7 @@ My research interests involve computer vision and deep learning, with an emphasi
 
 - Conference reviewers:  
   The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024  
-  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023  
   The European Conference on Computer Vision (ECCV), 2024  
   The British Machine Vision Conference (BMVC), 2022  
   
