@@ -19,7 +19,7 @@ My research interests involve computer vision and deep learning, with an emphasi
 
 # 🔥 News
 
-- [**2024.02**]  &nbsp;🎉🎉  Two of our work [[LBP](https://github.com/lijichang/)[AlignSAM](https://github.com/lijichang/)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
+- [**2024.02**]  &nbsp;🎉🎉  Two of our work [[LBP](https://github.com/lijichang/) & [AlignSAM](https://github.com/lijichang/)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
 - [**2023.12**]  &nbsp;🎉🎉  One of our work [[FedDiv]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf) is accepted by **AAAI2024**.
 - [**2023.10**]  &nbsp;🎉🎉  One of our work [[IDM]](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub) is accepted by **Elsevier PR2023**.
 - [**2023.09**]  &nbsp;🎉🎉  One of our work [[G-ABC]](https://ieeexplore.ieee.org/document/10269065) is accepted by **IEEE TIP2023**.
