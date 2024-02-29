@@ -85,6 +85,14 @@ Mandarin (native), Cantonese (native), English (acquired)
 
 ### Conference
 
+- **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
+Jiaming Li, Jiacheng Zhang, **Jichang Li**, Ge Li, Si Liu, Liang Lin, Guanbin Li  
+To appear in The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
+
+- **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**  
+Duojun Huang, Xinyu Xiong, Jie Ma, **Jichang Li**, ZEQUN JIE, Lin Ma, Guanbin Li  
+To appear in The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
+
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
 **Jichang Li**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
 The Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 (AAAI2024)  
