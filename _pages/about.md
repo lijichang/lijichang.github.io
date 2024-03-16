@@ -90,7 +90,7 @@ Jiaming Li, Jiacheng Zhang, **Jichang Li**, Ge Li, Si Liu, Liang Lin, Guanbin Li
 To appear in The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 
 - **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**  
-Duojun Huang, Xinyu Xiong, Jie Ma, **Jichang Li**, ZEQUN JIE, Lin Ma, Guanbin Li  
+Duojun Huang, Xinyu Xiong, Jie Ma, **Jichang Li**, Zequn Jie, Lin Ma, Guanbin Li  
 To appear in The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
