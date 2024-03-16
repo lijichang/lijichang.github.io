@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong (HKU), supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and [Prof. Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, I received the degree of Master of Engineering in Computer Technology at South China University of Technology in 2020, under the supervision of [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
+Jichang is a Ph.D. candidate at the Department of Computer Science, the University of Hong Kong (HKU), supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and [Prof. Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received the degree of Master of Engineering in Computer Technology at South China University of Technology in 2020, under the supervision of [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 
 My research interests involve computer vision and deep learning, with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.
 
@@ -26,7 +26,7 @@ My research interests involve computer vision and deep learning, with an emphasi
 - [**2023.03**]  &nbsp;🎉🎉  One of our work [[DiaNA](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)] is accepted by **CVPR2023**. Congratulations to Duojun!
 - [**2022.07**]  &nbsp;🎉🎉  One of our work [[NCE](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)] is accepted by **ECCV2022**.
 - [**2021.03**]  &nbsp;🎉🎉  One of our work [[CDAC](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)] is accepted by **CVPR2021**.
-- [**2020.07**]  &nbsp;🎉🎉  I finished my study at South China University of Technology.
+- [**2020.07**]  &nbsp;🎉🎉  Graduated from South China University of Technology. Congratulations to Jichang!
 - [**2019.07**]  &nbsp;🎉🎉  One of our work is accepted by **IEEE TIP2019**.
 - [**2019.05**]  &nbsp;🎉🎉  One of our work is accepted by **IEEE/ACM TASLP2019**.
 - [**2019.02**]  &nbsp;🎉🎉  Two of our work are accepted by **CVPR2019**.
