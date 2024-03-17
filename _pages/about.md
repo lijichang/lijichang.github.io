@@ -42,10 +42,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
 
-# Selected Honors and Awards
-- [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
-- [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China.
-- [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
+
 
 # Professional Services
 
@@ -70,6 +67,12 @@ Research interests involve computer vision and deep learning, with an emphasis o
 
 # Others
 
+
+- Selected Honors and Awards
+[**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
+[**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China.  
+[**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
+
 - Assisted with courses as a Teaching Assistant (TA) in HKU-CS:  
 **COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024 (2024Spring).  
 **COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023 (2023Spring).  
@@ -78,7 +81,6 @@ Research interests involve computer vision and deep learning, with an emphasis o
 
 - Language skills:  
 Mandarin (native), Cantonese (native), English (acquired)
-
 
 
 # 📝 Publications 
