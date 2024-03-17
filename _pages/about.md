@@ -68,18 +68,18 @@ Research interests involve computer vision and deep learning, with an emphasis o
 # Others
 
 
-- Selected Honors and Awards
+- **Selected Honors and Awards:**  
 [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong. 
 [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China.  
 [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.
 
-- Assisted with courses as a Teaching Assistant (TA) in HKU-CS:  
+- **Assisted with courses as a Teaching Assistant (TA) in HKU-CS:**  
 **COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024 (2024Spring).  
 **COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023 (2023Spring).  
 **COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022  (2021Fall).  
 **ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021  (2020Fall).
 
-- Language skills:  
+- **Language skills:**  
 Mandarin (native), Cantonese (native), English (acquired)
 
 
