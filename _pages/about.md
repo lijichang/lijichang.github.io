@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and [Prof. Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, I received the degree of Master of Engineering in Computer Technology at South China University of Technology, under the supervision of [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
+I am currently a Ph.D. candidate at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and [Prof. Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, I received the degree of Master of Engineering in Computer Technology at South China University of Technology, under the supervision of [Prof. Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof.  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 
 Research interests involve computer vision and deep learning, with an emphasis on weakly supervised learning, such as semi-supervised learning, domain adaptation, learning with noisy labels, etc.
 
@@ -98,7 +98,7 @@ To appear in The IEEE Conference on Computer Vision and Pattern Recognition, 202
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
 **Jichang Li**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
 The Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 (AAAI2024)  
-[[FULL]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)[[Arxiv]](http://arxiv.org/abs/2312.12263)[[SUPP]](https://github.com/lijichang/FLNL-FedDiv/blob/main/supp.pdf)[[CODE]](https://github.com/lijichang/FLNL-FedDiv)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/AAAI2024_FLNL.bib)  
+[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28095/28195)[[Arxiv]](http://arxiv.org/abs/2312.12263)[[FULL]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)[[SUPP]](https://github.com/lijichang/FLNL-FedDiv/blob/main/supp.pdf)[[CODE]](https://github.com/lijichang/FLNL-FedDiv)[[OFFICIAL]](https://ojs.aaai.org/index.php/AAAI/article/view/28095)[[CODE]](https://github.com/lijichang/FLNL-FedDiv)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/AAAI2024_FLNL.bib)  
 
 
 - **Divide and Adapt: Active Domain Adaptation via Customized Learning**  
