@@ -109,7 +109,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CVPR2023 *
 - **Neighborhood Collective Estimation for Noisy Label Identification and Correction**  
 **Jichang Li**, Guanbin Li, Feng Li, and Yizhou Yu  
 European Conference on Computer Vision, 2022 (ECCV2022)  
-[[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)[[ArXiv]](https://arxiv.org/abs/2208.03207)[[SUPP]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)[[CODE]](https://github.com/lijichang/LNL-NCE)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/ECCV2022_LNL_NCE.bib)  
+[[OFFICIAL]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1005_ECCV_2022_paper.php)[[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)[[ArXiv]](https://arxiv.org/abs/2208.03207)[[SUPP]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)[[CODE]](https://github.com/lijichang/LNL-NCE)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/ECCV2022_LNL_NCE.bib)  
 
 - **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation**  
 **Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu  
