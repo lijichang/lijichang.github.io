@@ -19,7 +19,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 
 # 🔥 News
 
-- [**2024.02**]  &nbsp;🎉🎉  Two of our conference work [[LBP](https://github.com/lijichang/) & [AlignSAM](https://github.com/lijichang/)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
+- [**2024.02**]  &nbsp;🎉🎉  Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
 - [**2023.12**]  &nbsp;🎉🎉  One of our conference work [[FedDiv](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)] is accepted by **AAAI2024**.
 - [**2023.10**]  &nbsp;🎉🎉  One of our journal work [[IDM](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)] is accepted by **Elsevier PR2023**.
 - [**2023.09**]  &nbsp;🎉🎉  One of our journal work [[G-ABC](https://ieeexplore.ieee.org/document/10269065)] is accepted by **IEEE TIP2023**.
@@ -89,7 +89,7 @@ Mandarin (native), Cantonese (native), English (acquired)
 
 - **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
 Jiaming Li, Jiacheng Zhang, **Jichang Li**, Ge Li, Si Liu, Liang Lin, Guanbin Li  
-The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
+The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00510)
 [[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Learning_Background_Prompts_CVPR_2024_supplemental.pdf)
@@ -97,7 +97,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
 
 - **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**  
 Duojun Huang, Xinyu Xiong, Jie Ma, **Jichang Li**, Zequn Jie, Lin Ma, Guanbin Li  
-The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
+The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00480)
 [[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Huang_AlignSAM_Aligning_Segment_CVPR_2024_supplemental.pdf)
