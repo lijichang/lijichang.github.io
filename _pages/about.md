@@ -79,7 +79,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 **COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022  (2021Fall).  
 **ENGG1330**, Computer programming I, HKU-CS, Sem 1st 2020-2021  (2020Fall).
 
-- **Language skills:**  
+- **Language Skills:**  
 Mandarin (native), Cantonese (native), English (acquired)
 
 
