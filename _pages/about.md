@@ -54,8 +54,9 @@ Research interests involve computer vision and deep learning, with an emphasis o
   The British Machine Vision Conference (BMVC), 2022  
   
 - **Journal reviewers:**  
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023  
-  IEEE Transactions on Image Processing (TIP), 2023  
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024  
+  IEEE Transactions on Image Processing (TIP), 2023
+  IEEE Transactions on Multimedia (TMM), 2024  
   Information Sciences, 2023  
   The Visual Computer, 2021  
   
