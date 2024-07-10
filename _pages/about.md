@@ -20,11 +20,11 @@ Research interests involve computer vision and deep learning, with an emphasis o
 # 🔥 News
 
 - [**2024.02**]  &nbsp;🎉🎉  Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
-- [**2023.12**]  &nbsp;🎉🎉  One of our conference work [[FedDiv](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)] is accepted by **AAAI2024**.
+- [**2023.12**]  &nbsp;🎉🎉  One of our conference work [[FedDiv](https://ojs.aaai.org/index.php/AAAI/article/view/28095)] is accepted by **AAAI2024**.
 - [**2023.10**]  &nbsp;🎉🎉  One of our journal work [[IDM](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)] is accepted by **Elsevier PR2023**.
 - [**2023.09**]  &nbsp;🎉🎉  One of our journal work [[G-ABC](https://ieeexplore.ieee.org/document/10269065)] is accepted by **IEEE TIP2023**.
 - [**2023.03**]  &nbsp;🎉🎉  One of our conference work [[DiaNA](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)] is accepted by **CVPR2023**. Congratulations to Duojun!
-- [**2022.07**]  &nbsp;🎉🎉  One of our conference work [[NCE](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)] is accepted by **ECCV2022**.
+- [**2022.07**]  &nbsp;🎉🎉  One of our conference work [[NCE](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1005_ECCV_2022_paper.php)] is accepted by **ECCV2022**.
 - [**2021.03**]  &nbsp;🎉🎉  One of our conference work [[CDAC](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)] is accepted by **CVPR2021**.
 - [**2020.07**]  &nbsp;🎉🎉  Graduated from South China University of Technology. Congratulations to Jichang!
 - [**2019.07**]  &nbsp;🎉🎉  One of our journal work is accepted by **IEEE TIP2019**.
