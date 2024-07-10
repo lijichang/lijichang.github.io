@@ -93,7 +93,7 @@ Jiaming Li, Jiacheng Zhang, **Jichang Li**, Ge Li, Si Liu, Liang Lin, Guanbin Li
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00510)
-[[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Learning_Background_Prompts_CVPR_2024_supplemental.pdf)
+[[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Learning_Background_Prompts_CVPR_2024_supplemental.pdf)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2024_LBP.bib)
 
 
 - **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**  
@@ -102,7 +102,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00480)
 [[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Huang_AlignSAM_Aligning_Segment_CVPR_2024_supplemental.pdf)
-[[CODE]](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)
+[[CODE]](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2024_AlignSAM.bib)
 
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
 **Jichang Li**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
