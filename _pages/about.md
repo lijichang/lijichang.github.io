@@ -74,7 +74,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China.  
 [**2016**] National Encouragement Scholarship for Undergraduates, Ministry of Education, China.  
 
-- **Assisted with courses as a Teaching Assistant (TA) in HKU-CS:**  
+- **Courses Handled as a Teaching Assistant (TA) in HKU-CS:**  
 **COMP8501**, Advanced topics in computer graphics, HKU-CS, Sem 2nd 2023-2024 (2024Spring).  
 **COMP3278B**, Introduction to database management systems (BBA IS), HKU-CS, Sem 2nd 2022-2023 (2023Spring).  
 **COMP7404**, Computational intelligence and machine learning [Section 1B, 2021], HKU-CS, Sem 1st 2021-2022  (2021Fall).  
@@ -126,7 +126,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2021 (CVPR2021)
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[ArXiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2021_SSDA_CDAC.bib)
 
 - **Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification**  
-Si Wu, **Jichang Li**, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
+Si Wu (MS Advisor), **Jichang Li**, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019 **Oral**)  
 [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.pdf)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2019_SSL_ML.bib)  
 
