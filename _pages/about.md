@@ -89,7 +89,7 @@ Mandarin (native), Cantonese (native), English (acquired)
 ### Conference
 
 - **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
-Jiaming Li, Jiacheng Zhang, **Jichang Li**, Ge Li, Si Liu, Liang Lin, Guanbin Li  
+Jiaming Li, Jiacheng Zhang, <u>**Jichang Li**</u>, Ge Li, Si Liu, Liang Lin, Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00510)
