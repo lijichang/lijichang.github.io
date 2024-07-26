@@ -89,7 +89,7 @@ Mandarin (native), Cantonese (native), English (acquired)
 ### Conference
 
 - **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
-Jiaming Li, Jiacheng Zhang, <u>**Jichang Li**</u>, Ge Li, Si Liu, Liang Lin, Guanbin Li  
+Jiaming Li, Jiacheng Zhang, **<u>Jichang Li</u>**, Ge Li, Si Liu, Liang Lin, Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00510)
@@ -97,7 +97,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
 
 
 - **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**  
-Duojun Huang, Xinyu Xiong, Jie Ma, **Jichang Li**, Zequn Jie, Lin Ma, Guanbin Li  
+Duojun Huang, Xinyu Xiong, Jie Ma, **<u>Jichang Li</u>**, Zequn Jie, Lin Ma, Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
 [[ArXiv]](https://arxiv.org/abs/2406.00480)
@@ -105,57 +105,57 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
 [[CODE]](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2024_AlignSAM.bib)
 
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
-**Jichang Li**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
+**<u>Jichang Li</u>**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
 The Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 (AAAI2024)  
 [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28095/28195)[[ArXiv]](http://arxiv.org/abs/2312.12263)[[FULL]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)[[SUPP]](https://github.com/lijichang/FLNL-FedDiv/blob/main/supp.pdf)[[CODE]](https://github.com/lijichang/FLNL-FedDiv)[[OFFICIAL]](https://ojs.aaai.org/index.php/AAAI/article/view/28095)[[CODE]](https://github.com/lijichang/FLNL-FedDiv)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/AAAI2024_FLNL.bib)  
 
 
 - **Divide and Adapt: Active Domain Adaptation via Customized Learning**  
-Duojun Huang, **Jichang Li**, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li  
+Duojun Huang, **<u>Jichang Li</u>**, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CVPR2023 **Highlight**)    
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)[[ArXiv]](https://arxiv.org/abs/2307.11618)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Huang_Divide_and_Adapt_CVPR_2023_supplemental.pdf)[[CODE]](https://github.com/starchaser49/DiaNA-CVPR2023)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2023_ADA.bib)  
 
 - **Neighborhood Collective Estimation for Noisy Label Identification and Correction**  
-**Jichang Li**, Guanbin Li, Feng Li, and Yizhou Yu  
+**<u>Jichang Li</u>**, Guanbin Li, Feng Li, and Yizhou Yu  
 European Conference on Computer Vision, 2022 (ECCV2022)  
 [[OFFICIAL]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1005_ECCV_2022_paper.php)[[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf)[[ArXiv]](https://arxiv.org/abs/2208.03207)[[SUPP]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)[[CODE]](https://github.com/lijichang/LNL-NCE)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/ECCV2022_LNL_NCE.bib)  
 
 - **Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation**  
-**Jichang Li**, Guanbin Li, Yemin Shi, and Yizhou Yu  
+**<u>Jichang Li</u>**, Guanbin Li, Yemin Shi, and Yizhou Yu  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2021 (CVPR2021)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)[[ArXiv]](https://arxiv.org/abs/2104.09415)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf)[[CODE]](https://github.com/lijichang/CVPR2021-SSDA)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2021_SSDA_CDAC.bib)
 
 - **Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification**  
-Si Wu (Master Advisor), **Jichang Li**, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
+Si Wu (Master Advisor), **<u>Jichang Li</u>**, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019 **Oral**)  
 [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.pdf)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2019_SSL_ML.bib)  
 
 - **Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification**  
-Si Wu, Guangchang Deng, **Jichang Li**, Rui Li, Zhiwen Yu, and Hau-San Wong  
+Si Wu, Guangchang Deng, **<u>Jichang Li</u>**, Rui Li, Zhiwen Yu, and Hau-San Wong  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)  
 [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.pdf)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/CVPR2019_SS_Synthesis.bib)  
 
 ### Journal
 
 - **Inter-Domain Mixup for Semi-Supervised Domain Adaptation**  
-**Jichang Li**, Guanbin Li, and Yizhou Yu  
+**<u>Jichang Li</u>**, Guanbin Li, and Yizhou Yu  
 Elsevier Pattern Recognition, 2023 (Elsevier PR2023)  
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)[[ArXiv]](https://arxiv.org/abs/2401.11453)[[ResearchGate]](https://www.researchgate.net/publication/374499122_Inter-domain_mixup_for_semi-supervised_domain_adaptation?_sg%5B0%5D=zzywj_gvTMrmgA3QRML2HMiJDw-jig0axvbl8pjjhrSEy4VvAgM6yR7qZlD5S-3E1CPr95dUdnZ78zs_MCtOFntrzXk_HOHRfoLUa2a1.5GGPId_ByFFEb2-VSSI50j0XQ2Aj_VJbPwHE6cR2bV46ojkz3o7aczdFnCaE_i1QTEi8769pg79X3eGHQZYlvA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/PR2023_SSDA.bib)  
 
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
-**Jichang Li**, Guanbin Li, and Yizhou Yu  
+**<u>Jichang Li</u>**, Guanbin Li, and Yizhou Yu  
 IEEE Transactions on Image Processing, 2023 (IEEE TIP2023)  
 [[PDF]](https://ieeexplore.ieee.org/document/10269065)[[ArXiv]](https://arxiv.org/abs/2401.11448)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TIP2023_SSDA.bib)
 
 
 
 - **Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration**  
-**Jichang Li**, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
+**<u>Jichang Li</u>**, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong  
 IEEE Transactions on Image Processing, 2019 (IEEE TIP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8796363)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TIP2019_SSL.bib)  
 
 - **Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss**  
-Luoqin Li, Jiabing Wang, **Jichang Li**, Qianli Ma, and Jia Wei  
+Luoqin Li, Jiabing Wang, **<u>Jichang Li</u>**, Qianli Ma, and Jia Wei  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (IEEE/ACM TASLP2019)  
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8733064)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TALSP2019_Relation.bib)  
 
