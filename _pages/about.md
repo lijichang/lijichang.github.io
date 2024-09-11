@@ -19,6 +19,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 
 # 🔥 News
 
+- [**2024.08**] I have passed the PhD Dissertation Defense and become Dr. Li!
 - [**2024.02**] Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
 - [**2023.12**] One of our conference work [[FedDiv](https://ojs.aaai.org/index.php/AAAI/article/view/28095)] is accepted by **AAAI2024**.
 - [**2023.10**] One of our journal work [[IDM](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)] is accepted by **Elsevier PR2023**.
