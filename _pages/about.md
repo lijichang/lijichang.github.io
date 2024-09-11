@@ -34,7 +34,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 
 
 # Educations
-- [**2020.09 - 2024.09 (expected)**] Doctor of Philosophy (PhD), Department of Computer Science, The University of Hong Kong, Hong Kong. 
+- [**2020.09 - 2024.09**] Doctor of Philosophy (PhD), Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - [**2017.09 - 2020.06**] Master of Engineering (MEng), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 
