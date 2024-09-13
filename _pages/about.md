@@ -161,4 +161,10 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (IEEE/ACM 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8733064)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TALSP2019_Relation.bib)  
 
 
+### Preprint
+
+- **Style-Preserving Lip Sync via Audio-Aware Style Reference**  
+Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li  
+[[ArXiv]](https://arxiv.org/abs/2408.05412)
+
 
