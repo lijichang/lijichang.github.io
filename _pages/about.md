@@ -172,6 +172,6 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li
 
 - **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**  
 **<u>Jichang Li</u>**  
-[[PDF]](https://github.com/lijichang/jcli.github.io/blob/c88a3e8008c11f341bb42b68a761bedb7b38c371/docs/PhD%20Thesis.pdf)
+[[PDF]](blob:https://github.com/19d114e0-a5b7-4afd-a4d7-aed0b17a5878)
 
 
