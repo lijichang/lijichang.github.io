@@ -27,7 +27,7 @@ Research interests involve computer vision and deep learning, with an emphasis o
 - [**2023.03**] One of our conference work [[DiaNA](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)] is accepted by **CVPR2023**. Congratulations to Duojun!
 - [**2022.07**] One of our conference work [[NCE](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1005_ECCV_2022_paper.php)] is accepted by **ECCV2022**.
 - [**2021.03**] One of our conference work [[CDAC](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)] is accepted by **CVPR2021**.
-- [**2020.07**] Graduated from South China University of Technology. Congratulations to Jichang!
+- [**2020.07**] I have graduated from South China University of Technology. Congratulations to Jichang!
 - [**2019.07**] One of our journal work is accepted by **IEEE TIP2019**.
 - [**2019.05**] One of our journal work is accepted by **IEEE/ACM TASLP2019**.
 - [**2019.02**] Two of our conference work are accepted by **CVPR2019**.
