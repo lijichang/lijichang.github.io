@@ -27,7 +27,7 @@ I obtained my PhD degree at the [Department of Computer Science (CS)](https://ww
 
 
 # Educations
-- [**2020.09 - 2024.09**] Doctor of Philosophy (PhD), Department of Computer Science, The University of Hong Kong, Hong Kong. 
+- [**2020.09 - 2024.11**] Doctor of Philosophy (PhD), Department of Computer Science, The University of Hong Kong, Hong Kong. 
 - [**2017.09 - 2020.06**] Master of Engineering (MEng), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 
@@ -139,8 +139,9 @@ Elsevier Pattern Recognition, 2023 (Elsevier PR2023)
 
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **<u>Jichang Li</u>**, Guanbin Li, and Yizhou Yu  
-IEEE Transactions on Image Processing, 2023 (IEEE TIP2023)  
-[[PDF]](https://ieeexplore.ieee.org/document/10269065)[[ArXiv]](https://arxiv.org/abs/2401.11448)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TIP2023_SSDA.bib)
+IEEE Transactions on Image Processing, 2023 (IEEE TIP2023)
+[[OFFICIAL]](https://ieeexplore.ieee.org/document/10269065)  
+[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269065)[[ArXiv]](https://arxiv.org/abs/2401.11448)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/lijichang.github.io/blob/main/bibtex/TIP2023_SSDA.bib)
 
 
 
