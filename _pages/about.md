@@ -32,7 +32,7 @@ I obtained my PhD degree at the [Department of Computer Science (CS)](https://ww
 
 
 # Experiences
-- [**2024.04 - 2024.11**] Research intern,  **Pencheng Lab**, Shenzhen.
+- [**2024.04 - 2024.11**] Research intern,  **Pengcheng National Laboratory**, Shenzhen.
 - [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
