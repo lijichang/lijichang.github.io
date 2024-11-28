@@ -50,7 +50,7 @@ I obtained my PhD degree at the [Department of Computer Science (CS)](https://ww
   
 - **Journal reviewers:**  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024  
-  IEEE Transactions on Image Processing (TIP), 2023  
+  IEEE Transactions on Image Processing (TIP), 2023/2024  
   IEEE Transactions on Multimedia (TMM), 2024  
   Information Sciences, 2023  
   The Visual Computer, 2021  
