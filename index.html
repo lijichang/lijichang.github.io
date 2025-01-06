@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>Leaderboard</title>
+
+  <!-- DataTables CSS（CDN）-->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <!-- js-yaml（用于在浏览器中解析 YAML）-->
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .maintable {
+      width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<section>
+  <h2>Leaderboard</h2>
+  <table id="maintable" class="display maintable">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Model Name</th>
+        <th>Score</th>
+        <th>Comment</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- 待会用 JavaScript 动态插入 -->
+    </tbody>
+  </table>
+</section>
+
+<!-- jQuery + DataTables JS -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<script>
+  // 1. 使用 fetch() 加载同目录下的 leaderboard.yml
+  fetch('leaderboard.yml')
+    .then(response => response.text())
+    .then(yamlText => {
+      // 2. 用 js-yaml 解析 YAML 内容
+      const data = jsyaml.load(yamlText); // data.records 应该是一个数组
+
+      // 3. 将数据插入表格
+      const tableBody = document.querySelector('#maintable tbody');
+      data.records.forEach(item => {
+        const row = document.createElement('tr');
+
+        // Rank
+        const rankCell = document.createElement('td');
+        rankCell.textContent = (item.rank === '-') ? '-' : item.rank;
+        row.appendChild(rankCell);
+
+        // Model Name
+        const nameCell = document.createElement('td');
+        if (item.link) {
+          const linkEl = document.createElement('a');
+          linkEl.href = item.link;
+          linkEl.textContent = item.title;
+          nameCell.appendChild(linkEl);
+        } else {
+          nameCell.textContent = item.title;
+        }
+        row.appendChild(nameCell);
+
+        // Score
+        const scoreCell = document.createElement('td');
+        scoreCell.textContent = item.score;
+        row.appendChild(scoreCell);
+
+        // Comment
+        const commentCell = document.createElement('td');
+        commentCell.textContent = item.comment ? item.comment : '-';
+        row.appendChild(commentCell);
+
+        // Link
+        const externalLinkCell = document.createElement('td');
+        if (item.link) {
+          const openLinkEl = document.createElement('a');
+          openLinkEl.href = item.link;
+          openLinkEl.target = '_blank';
+          openLinkEl.textContent = 'Open';
+          externalLinkCell.appendChild(openLinkEl);
+        } else {
+          externalLinkCell.textContent = '-';
+        }
+        row.appendChild(externalLinkCell);
+
+        tableBody.appendChild(row);
+      });
+
+      // 4. 数据插入后，再初始化 DataTables
+      $('#maintable').DataTable({
+        "order": [],
+        "pageLength": 30,
+        "lengthMenu": [10, 20, 30, 50, 100]
+      });
+    })
+    .catch(err => {
+      console.error('Error loading leaderboard.yml:', err);
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,153 @@
+---
+layout: default
+title: Leaderboard
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Leaderboard</title>
+
+  <!-- DataTables CSS（CDN）-->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .maintable {
+      width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Leaderboard</h2>
+      </div>
+    </div>
+  </div>
+
+  <br>
+
+  <div class="container is-max-desktop has-text-justified">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div>
+          <img src="static/images/all_results.png" alt="All Results">
+        </div>
+        <p>Each point corresponds to an open-source model, with error bars for those smaller than 30B. Each dotted segment corresponds to an MoE model. Proprietary models shown as lines with uncertainty ranges.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="cover" id="contentCover">
+    <div class="container-t">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="infoCard">
+            <div class="infoBody">
+              <p align="left">
+                <div class="left">
+                  <b>Notice</b>: We set max tokens to 1024, which provides enough wiggle room for generative models.
+                </div>
+              </p>
+              <p align="left">
+                <div class="left">
+                  For models with more than 30B parameters, we evaluate once. Otherwise, we evaluate three times and report the mean.
+                </div>
+              </p>
+              <p align="left">
+                <div class="left"><i class="fa fa-lock"></i> stands for proprietary models.</div>
+              </p>
+              <br>
+
+              <!-- Start Leaderboard Table -->
+              <table class="table maintable stripe hover row-border order-column" id="maintable">
+                <thead>
+                  <tr>
+                    <th>Rank</th>
+                    <th>Model Name</th>
+                    <th>Score</th>
+                    <th>Comment</th>
+                    <th>Link</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for item in site.data.leaderboard.records %}
+                  <tr>
+                    <!-- Rank -->
+                    <td>
+                      {% if item.rank == "-" %}
+                        -
+                      {% else %}
+                        {{ item.rank }}
+                      {% endif %}
+                    </td>
+
+                    <!-- Model Name -->
+                    <td>
+                      {% if item.link %}
+                        <a href="{{ item.link }}">{{ item.title }}</a>
+                      {% else %}
+                        {{ item.title }}
+                      {% endif %}
+                    </td>
+
+                    <!-- Score -->
+                    <td>{{ item.score }}</td>
+
+                    <!-- Comment -->
+                    <td>
+                      {% if item.comment %}
+                        {{ item.comment }}
+                      {% else %}
+                        -
+                      {% endif %}
+                    </td>
+
+                    <!-- Link -->
+                    <td>
+                      {% if item.link %}
+                        <a href="{{ item.link }}" target="_blank">Open</a>
+                      {% else %}
+                        -
+                      {% endif %}
+                    </td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+              <!-- End Leaderboard Table -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- jQuery（DataTables需要）-->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- DataTables JS（CDN）-->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+    $('#maintable').DataTable({
+      "order": [],            // 不预设排序
+      "pageLength": 30,       // 每页显示 30 行
+      "lengthMenu": [10, 20, 30, 50, 100]
+    });
+  });
+</script>
+
+</body>
+</html>
