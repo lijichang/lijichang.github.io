@@ -358,7 +358,7 @@ layout: mydefault
                       <th>Rank</th>
                       <th>Model Name</th>
                       <th># Params. (in B)</th>
-<!--                       <th>Context Length</th> -->
+                      <th>Context Length</th>
                       <th>Full Set Score</th>
                       <th>Full Set Std</th>
                       <th></th>
@@ -378,7 +378,7 @@ layout: mydefault
                       {% else %}
                         <td>/</td>
                       {% endif %}
-<!--                       <td>{{ item.ctx_length }}</td> -->
+                      <td>{{ item.ctx_length }}</td>
                       <td>{{ item.score }}</td>
                       {% if item.score_std != null %}
                         <td>{{ item.score_std }}</td>
