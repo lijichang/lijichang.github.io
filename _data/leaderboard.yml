@@ -1,166 +1,100 @@
 records:
-- comment: null
-  link: null
-  rank: 30
+- rank: 30
   score: 0.041
   title: "MiniGPT4 + CoT"
-- comment: null
-  link: null
-  rank: 29
+- rank: 29
   score: 0.043
   title: "MiniGPT4"
-- comment: null
-  link: null
-  rank: 28
+- rank: 28
   score: 0.048
   title: "Otter"
-- comment: null
-  link: null
-  rank: 27
+- rank: 27
   score: 0.058
   title: "mPLUG-OWL2"
-- comment: null
-  link: null
-  rank: 26
+- rank: 26
   score: 0.058
   title: "MiniCPM-v2.5"
-- comment: null
-  link: null
-  rank: "-"
+- rank: "-"
   score: 0.062
   title: "Human (low)"
-- comment: null
-  link: null
-  rank: 25
+- rank: 25
   score: 0.062
   title: "MiniCPM-V"
-- comment: null
-  link: null
-  rank: 24
+- rank: 24
   score: 0.062
   title: "Yi-VL-6B"
-- comment: null
-  link: null
-  rank: 23
+- rank: 23
   score: 0.064
   title: "LLaVA-mistral-7B"
-- comment: null
-  link: null
-  rank: 22
+- rank: 22
   score: 0.065
   title: "Gemini 1.5 Flash"
-- comment: null
-  link: null
-  rank: 21
+- rank: 21
   score: 0.066
   title: "Qwen-VL + CoT"
-- comment: null
-  link: null
-  rank: 20
+- rank: 20
   score: 0.067
   title: "InternVL-v1.2"
-- comment: null
-  link: null
-  rank: 19
+- rank: 19
   score: 0.067
   title: "MiniCPM-v2.6"
-- comment: null
-  link: null
-  rank: 18
+- rank: 18
   score: 0.067
   title: "InternVL-v1.1"
-- comment: null
-  link: null
-  rank: 17
+- rank: 17
   score: 0.068
   title: "Yi-VL-34B"
-- comment: null
-  link: null
-  rank: 16
+- rank: 16
   score: 0.069
   title: "InternVL2-76B"
-- comment: null
-  link: null
-  rank: 15
+- rank: 15
   score: 0.071
   title: "LLaVA-onevision-7B"
-- comment: null
-  link: null
-  rank: 14
+- rank: 14
   score: 0.073
   title: "MiniCPM-v2"
-- comment: null
-  link: null
-  rank: 13
+- rank: 13
   score: 0.074
   title: "Qwen-VL"
-- comment: null
-  link: null
-  rank: 12
+- rank: 12
   score: 0.079
   title: "InternVL2-8B"
-- comment: null
-  link: null
-  rank: 11
+- rank: 11
   score: 0.082
   title: "Qwen-VL-plus"
-- comment: null
-  link: null
-  rank: 10
+- rank: 10
   score: 0.083
   title: "GPT-4o mini"
-- comment: null
-  link: null
-  rank: 9
+- rank: 9
   score: 0.084
   title: "InternVL2-40B"
-- comment: null
-  link: null
-  rank: 8
+- rank: 8
   score: 0.091
   title: "LLaVA-next-72B"
-- comment: null
-  link: null
-  rank: 7
+- rank: 7
   score: 0.095
   title: "GPT-4o + CoT"
-- comment: null
-  link: null
-  rank: 6
+- rank: 6
   score: 0.096
   title: "Claude 3 Opus"
-- comment: null
-  link: null
-  rank: "-"
+- rank: "-"
   score: 0.099
   title: "Human (medium)"
-- comment: null
-  link: null
-  rank: 5
+- rank: 5
   score: 0.105
   title: "GPT-4o"
-- comment: null
-  link: null
-  rank: 4
+- rank: 4
   score: 0.105
   title: "Claude 3.5 Sonnent"
-- comment: null
-  link: null
-  rank: 3
+- rank: 3
   score: 0.107
   title: "Qwen2-VL-72B"
-- comment: null
-  link: null
-  rank: 2
+- rank: 2
   score: 0.111
   title: "Qwen-VL-max"
-- comment: null
-  link: null
-  rank: 1
+- rank: 1
   score: 0.128
   title: "Gemini 1.5 Pro"
-- comment: null
-  link: null
-  rank: "-"
+- rank: "-"
   score: 0.135
   title: "Human (high)"
