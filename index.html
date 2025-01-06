@@ -15,7 +15,7 @@
       margin: 20px;
     }
     .maintable {
-      width: 100%;
+      width: 75%;
       margin-top: 20px;
     }
   </style>
@@ -79,26 +79,6 @@
         scoreCell.textContent = item.score;
         row.appendChild(scoreCell);
 
-        // Comment
-        const commentCell = document.createElement('td');
-        commentCell.textContent = item.comment ? item.comment : '-';
-        row.appendChild(commentCell);
-
-        // Link
-        const externalLinkCell = document.createElement('td');
-        if (item.link) {
-          const openLinkEl = document.createElement('a');
-          openLinkEl.href = item.link;
-          openLinkEl.target = '_blank';
-          openLinkEl.textContent = 'Open';
-          externalLinkCell.appendChild(openLinkEl);
-        } else {
-          externalLinkCell.textContent = '-';
-        }
-        row.appendChild(externalLinkCell);
-
-        tableBody.appendChild(row);
-      });
 
       // 4. 数据插入后，再初始化 DataTables
       $('#maintable').DataTable({
