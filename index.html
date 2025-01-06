@@ -22,21 +22,103 @@
 </head>
 <body>
 
-<section>
-  <h2>Leaderboard</h2>
-  <table id="maintable" class="display maintable">
-    <thead>
-      <tr>
-        <th>Rank</th>
-        <th>Model Name</th>
-        <th>Score</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- 待会用 JavaScript 动态插入 -->
-    </tbody>
-  </table>
-</section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Leaderboard</h2>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="container is-max-desktop has-text-justified">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div>
+            <img src="static/images/all_results.png">
+          </div>
+          <p>Each point corresponds to an open-source model, with error bars for those smaller than 30B. Each dotted segment corresponds to an MoE model. Proprietary models shown as lines with uncertainty ranges.</p>
+        </div>
+      </div>
+    </div>
+    <div class="cover" id="contentCover">
+      <!-- Baseline. -->
+      <div class="container-t">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="infoCard">
+              <div class="infoBody">
+                <p align="left">
+                  <div class="left"><b>Notice</b>: we set the max tokens to generate=1024 (since GPT4 generates 662 tokens without the constraint, we provide some wiggle room by setting to 1024 tokens)
+                  </div>
+                </p>
+                <p align="left">
+                  <div class="left">For models with >30B parameters, we evaluate once due to resource limit, otherwise we evaluate three times and report the mean and standard deviation.
+                  </div>
+                </p>
+                <p align="left">
+                  <div class="left"><i class="fa fa-lock"></i> stands for proprietary models.</div>
+                </p>
+                <br>
+
+                    <!-- jQuery + DataTables JS -->
+                    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+                    
+                    <script>
+                      // 1. 使用 fetch() 加载同目录下的 leaderboard.yml
+                      fetch('leaderboard.yml')
+                        .then(response => response.text())
+                        .then(yamlText => {
+                          // 2. 用 js-yaml 解析 YAML 内容
+                          const data = jsyaml.load(yamlText); // data.records 应该是一个数组
+                    
+                          // 3. 将数据插入表格
+                          const tableBody = document.querySelector('#maintable tbody');
+                          data.records.forEach(item => {
+                            const row = document.createElement('tr');
+                    
+                            // Rank
+                            const rankCell = document.createElement('td');
+                            rankCell.textContent = (item.rank === '-') ? '-' : item.rank;
+                            row.appendChild(rankCell);
+                    
+                            // Model Name
+                            const nameCell = document.createElement('td');
+                            // 如果想保持原链接跳转逻辑，可在此判断并创建 a 标签
+                            // 也可以直接使用 textContent
+                            nameCell.textContent = item.title;
+                            row.appendChild(nameCell);
+                    
+                            // Score
+                            const scoreCell = document.createElement('td');
+                            scoreCell.textContent = item.score;
+                            row.appendChild(scoreCell);
+                    
+                            tableBody.appendChild(row);
+                          });
+                    
+                          // 4. 数据插入后，再初始化 DataTables
+                          $('#maintable').DataTable({
+                            "order": [],
+                            "pageLength": 30,
+                            "lengthMenu": [10, 20, 30, 50, 100]
+                          });
+                        })
+                        .catch(err => {
+                          console.error('Error loading leaderboard.yml:', err);
+                        });
+                    </script>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 <!-- jQuery + DataTables JS -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
