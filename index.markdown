@@ -404,7 +404,7 @@ layout: mydefault
     <div class="container is-max-desktop">
         <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3">Leaderboard</h2>
+          <h2 class="title is-3">Leaderboard V2</h2>
         </div>
       </div>
     </div>
