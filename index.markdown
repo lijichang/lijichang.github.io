@@ -378,7 +378,7 @@ layout: mydefault
                       {% else %}
                         <td>/</td>
                       {% endif %}
-                      <td>{{ item.ctx_length }}</td>
+<!--                       <td>{{ item.ctx_length }}</td> -->
                       <td>{{ item.score }}</td>
                       {% if item.score_std != null %}
                         <td>{{ item.score_std }}</td>
