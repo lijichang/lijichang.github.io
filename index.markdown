@@ -358,7 +358,7 @@ layout: mydefault
                       <th>Rank</th>
                       <th>Model Name</th>
                       <th># Params. (in B)</th>
-<!--                       <th>Context Length</th> -->
+                      <th>Context Length</th>
                       <th>Full Set Score</th>
                       <th>Full Set Std</th>
                       <th></th>
@@ -378,7 +378,7 @@ layout: mydefault
                       {% else %}
                         <td>/</td>
                       {% endif %}
-<!--                       <td>{{ item.ctx_length }}</td> -->
+                      <td>{{ item.ctx_length }}</td>
                       <td>{{ item.score }}</td>
                       {% if item.score_std != null %}
                         <td>{{ item.score_std }}</td>
@@ -399,6 +399,90 @@ layout: mydefault
     </div>
   </section>
 
+
+  <section class="section">
+    <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Leaderboard</h2>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="container is-max-desktop has-text-justified">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div>
+            <img src="static/images/all_results.png">
+          </div>
+          <p>Each point corresponds to an open-source model, with error bars for those smaller than 30B. Each dotted segment corresponds to an MoE model. Proprietary models shown as lines with uncertainty ranges.</p>
+        </div>
+      </div>
+    </div>
+    <div class="cover" id="contentCover">
+      <!-- Baseline. -->
+      <div class="container-t">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="infoCard">
+              <div class="infoBody">
+                <p align="left">
+                  <div class="left"><b>Notice</b>: we set the max tokens to generate=1024 (since GPT4 generates 662 tokens without the constraint, we provide some wiggle room by setting to 1024 tokens)
+                  </div>
+                </p>
+                <p align="left">
+                  <div class="left">For models with >30B parameters, we evaluate once due to resource limit, otherwise we evaluate three times and report the mean and standard deviation.
+                  </div>
+                </p>
+                <p align="left">
+                  <div class="left"><i class="fa fa-lock"></i> stands for proprietary models.</div>
+                </p>
+                <br>
+                <table class="table maintable stripe hover row-border order-column" id="maintable">
+                  <thead>
+                    <tr>
+                      <th>Rank</th>
+                      <th>Model Name</th>
+                      <th># Params. (in B)</th>
+                      <th>Full Set Score</th>
+                      <th>Full Set Std</th>
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {% for item in site.data.leaderboard.records %}
+                    <tr>
+                      <td>{{ item.rank }}</td>
+                      {% if item.link != null %}
+                        <td>{% if item.locked %}<i class="fa fa-lock"></i>{% endif %}<a href="{{ item.link }}">{{ item.title }}</a></td>
+                      {% else %}
+                        <td>{% if item.locked %}<i class="fa fa-lock"></i>{% endif %}{{ item.title }}</td>
+                      {% endif %}
+                      {% if item.size != null %}
+                        <td>{{ item.size }}</td>
+                      {% else %}
+                        <td>/</td>
+                      {% endif %}
+                      <td>{{ item.score }}</td>
+                      {% if item.score_std != null %}
+                        <td>{{ item.score_std }}</td>
+                      {% else %}
+                        <td></td>
+                      {% endif %}
+                      <td>{{ item.comment }}</td>
+                    </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+  
 <section class="section">
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
