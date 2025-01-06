@@ -15,7 +15,7 @@
       margin: 20px;
     }
     .maintable {
-      width: 75%;
+      width: 100%;
       margin-top: 20px;
     }
   </style>
@@ -62,14 +62,9 @@
 
         // Model Name
         const nameCell = document.createElement('td');
-        if (item.link) {
-          const linkEl = document.createElement('a');
-          linkEl.href = item.link;
-          linkEl.textContent = item.title;
-          nameCell.appendChild(linkEl);
-        } else {
-          nameCell.textContent = item.title;
-        }
+        // 如果想保持原链接跳转逻辑，可在此判断并创建 a 标签
+        // 也可以直接使用 textContent
+        nameCell.textContent = item.title;
         row.appendChild(nameCell);
 
         // Score
@@ -77,12 +72,14 @@
         scoreCell.textContent = item.score;
         row.appendChild(scoreCell);
 
+        tableBody.appendChild(row);
+      });
 
       // 4. 数据插入后，再初始化 DataTables
       $('#maintable').DataTable({
         "order": [],
         "pageLength": 30,
-        "lengthMenu": [10, 20, 30]
+        "lengthMenu": [10, 20, 30, 50, 100]
       });
     })
     .catch(err => {
