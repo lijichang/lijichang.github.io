@@ -631,115 +631,12 @@
       </div>
     </section> -->
 
-    
-    <section class="section">
-      <div class="container is-max-desktop">
-          <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Leaderboard</h2>
-          </div>
-        </div>
-      </div>
-      <br>
-      <!-- <div class="container is-max-desktop has-text-justified">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <div>
-              <img src="static/images/all_results.png">
-            </div>
-            <p>Each point corresponds to an open-source model, with error bars for those smaller than 30B. Each dotted segment corresponds to an MoE model. Proprietary models shown as lines with uncertainty ranges.</p>
-          </div>
-        </div>
-      </div> -->
-      <div class="content has-text-centered">
-        <!-- <img src="static/images/comparison results.png" alt="algebraic reasoning" class="center">
-        <p> Sampled MMMU examples from each discipline. The questions and images need expert-level knowledge to understand and reason.</p> -->
-
-        <figure style="text-align: center;"> 
-          <img src="static/images/ranking_by_LoTbench.Jpeg" alt="The ranking results of LLM’s creativity by LoTbench." class="center" style="width: 75%;">
-          <figcaption style="font-style: normal;">
-            The ranking results of LLM’s creativity by LoTbench. Most LLMs do not exhibit high creativity in the LoTbench scenario, but the gap between their creativity and the average level of human participants is not particularly large. 
-          </figcaption>
-        </figure>
-
-        <!-- <figure style="text-align: center;"> 
-          <img src="static/images/mutilmodal non-multilingual models.png" alt="Evaluation on multimodal non-multilingual LLMs" class="center" style="width: 100%;">
-          <figcaption style="font-style: normal;">
-            The accuracy (%) of choice questions and the NDCG(%) of ranking questions on mutilmodal multilingual models.
-          </figcaption>
-        </figure> -->
-
-      </div>
 
 
       
 
       
     
-    <!-- RESULTS SECTION -->
-    <section class="hero is-light is-small">
-      <div class="hero-body has-text-centered">
-        <h1 class="title is-1 mmmu">Leaderboard</h1>
-      </div>
-    </section>
-    <section class="section">
-      <div class="container">
-        <!-------------------------------------------------------------------- RESULTS SECTION -------------------------------------------------------------------->
-        <div class="columns is-centered m-6">
-          <div class="column is-full has-text-centered content">
-            <!-- <h2 class="title is-3" id="leaderboard">Leaderboard</h2> -->
-            <div class="content has-text-justified">
-              <p>
-                We evaluate various models including LLMs and LMMs.
-                In each type, we consider both closed- and open-source models.
-                Our evaluation is conducted under a zero-shot setting to assess the capability of models to generate accurate answers without fine-tuning or few-shot demonstrations on our benchmark.
-                For all models, we use the default prompt provided by each model for multi-choice or open QA, if available.
-                If models do not provide prompts for task types in MMMU, we conduct prompt engineering on the validation set and use the most effective prompt for the later zero-shot experiment.
-              </p>
-            </div>
-            <br>
-            <div class="model-labels-container">
-              <span class="leaderboard-label human_expert">Human Expert</span>
-              <span class="leaderboard-label open_source">Open-Source</span>
-              <span class="leaderboard-label proprietary">Proprietary</span>
-            </div>
-            <br>
-            <div class="content has-text-centered">
-              <p>
-                Click on MMMU-Pro, MMMU (Val) or MMMU (Test) to expand detailed results.
-              </p>
-            </div>
-            <div class="leaderboard-container">
-              <div class="table-wrapper">
-                  <table class="table maintable stripe hover row-border order-column" id="maintable">
-                    <thead>
-                      <tr>
-                        <th>Rank</th>
-                        <th>Model Name</th>
-                        <th>Score</th>
-                        <th>Comment</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {% for item in site.data.leaderboard.records %}
-                      <tr>
-                        <td>{{ item.rank }}</td>
-                        {% if item.link %}
-                          <td><a href="{{ item.link }}">{{ item.title }}</a></td>
-                        {% else %}
-                          <td>{{ item.title }}</td>
-                        {% endif %}
-                        <td>{{ item.score }}</td>
-                        <td>{{ item.comment }}</td>
-                      </tr>
-                      {% endfor %}
-                    </tbody>
-                  </table>
-                <p class="test-desc"> Overall results of different models on the MMMU leaderboard. The best-performing model in each category is <b>in-bold</b>, and the second best is <u>underlined</u>. *: results provided by the authors.</p>
-              </div>
-            </div>
-          </div>
-        </div>
         <!-------------------------------------------------------------------- Image Type SECTION -------------------------------------------------------------------->
         <div class="columns is-centered m-6">
           <div class="column is-full has-text-centered content">
