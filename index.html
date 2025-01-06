@@ -294,6 +294,38 @@
     </div>
     </section>
 
+
+        <!-- RESULTS SECTION -->
+    <section class="hero is-light is-small">
+      <div class="hero-body has-text-centered">
+        <h1 class="title is-1 mmmu">Leaderboard</h1>
+      </div>
+    </section>
+    
+    <section class="section">
+      <div class="container" style="margin-bottom: 2vh;">
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <div class="content has-text-justified">
+                        <table id="maintable" class="display maintable">
+                        <thead>
+                          <tr>
+                            <th>Rank</th>
+                            <th>Model Name</th>
+                            <th>Score</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <!-- 数据将由脚本自动插入 -->
+                        </tbody>
+                      </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
     <!-- DATASET SECTION -->
     <!-- <section class="hero is-light is-small">
       <div class="hero-body has-text-centered">
@@ -303,6 +335,8 @@
         </h1>
       </div>
     </section> -->
+
+
 
     <!-- RESULTS SECTION -->
     <section class="hero is-light is-small">
@@ -639,158 +673,8 @@
 
 
       
-        <!-- RESULTS SECTION -->
-        <section class="hero is-light is-small">
-          <div class="hero-body has-text-centered">
-            <h1 class="title is-1 mmmu">Experiment Results</h1>
-          </div>
-        </section>
 
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Experiments under Standard Evaluation</h2>
-            <div class="content has-text-justified">
-              <p>
-                In this work, we explore the creativity of different LLMs through standard evaluation. Following the popular standard LLM benchmark paradigm, we establish a series of standard LLM evaluations by Oogiri-GO, such as ranking and selection. We find that even advanced LLMs and reasoning frameworks, including GPT-4 and CoT, despite their exceptional reasoning capabilities and extensive prior knowledge of various forms of humor, still struggle to demonstrate adequate LoT ability for creative humor generation. Moreover, while standard evaluations offer simplicity and low assessment costs, we identify inherent risks associated with their use in assessing creativity, such as information leakage and limited interpretability.
-              </p>
-              <table id="maintable" class="display maintable">
-                <thead>
-                  <tr>
-                    <th>Rank</th>
-                    <th>Model Name</th>
-                    <th>Score</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <!-- 数据将由脚本自动插入 -->
-                </tbody>
-              </table>
-              
-            </div>
-          </div>
-        </div>
       
-      <div class="cover" id="contentCover">
-        <!-- Baseline. -->
-        <div class="container-t">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="infoCard">
-                <div class="infoBody">
-                  <p align="left">
-                    <div class="left"><b>Notice</b>: we set the max tokens to generate=1024 (since GPT4 generates 662 tokens without the constraint, we provide some wiggle room by setting to 1024 tokens)
-                    </div>
-                  </p>
-                  <p align="left">
-                    <div class="left">For models with >30B parameters, we evaluate once due to resource limit, otherwise we evaluate three times and report the mean and standard deviation.
-                    </div>
-                  </p>
-                  <p align="left">
-                    <div class="left"><i class="fa fa-lock"></i> stands for proprietary models.</div>
-                  </p>
-                  <br>
-                    <table id="maintable" class="display maintable">
-                      <thead>
-                        <tr>
-                          <th>Rank</th>
-                          <th>Model Name</th>
-                          <th>Score</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <!-- 数据将由脚本自动插入 -->
-                      </tbody>
-                    </table>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- <section class="section">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Leaderboard</h2>
-          </div>
-        </div>
-      </div>
-      <br>
-      <div class="container is-max-desktop has-text-justified">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <table class="table maintable stripe hover row-border order-column" id="maintable">
-              <thead>
-                <tr>
-                  <th>Rank</th>
-                  <th>Model Name</th>
-                  <th>Score</th>
-                  <th>Comment</th>
-                </tr>
-              </thead>
-              <tbody>
-                {% for item in site.data.leaderboard.records %}
-                <tr>
-                  <td>{{ item.rank }}</td>
-                  {% if item.link %}
-                    <td><a href="{{ item.link }}">{{ item.title }}</a></td>
-                  {% else %}
-                    <td>{{ item.title }}</td>
-                  {% endif %}
-                  <td>{{ item.score }}</td>
-                  <td>{{ item.comment }}</td>
-                </tr>
-                {% endfor %}
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-    </section> -->
-
-    <section class="section">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <h2 class="title is-3">Leaderboard</h2>
-          </div>
-        </div>
-      </div>
-      <br>
-      <div class="container is-max-desktop has-text-justified">
-        <div class="columns is-centered has-text-centered">
-          <div class="column is-four-fifths">
-            <table class="table maintable stripe hover row-border order-column" id="maintable">
-              <thead>
-                <tr>
-                  <th>Rank</th>
-                  <th>Model Name</th>
-                  <th>Score</th>
-                  <th>Comment</th>
-                </tr>
-              </thead>
-              <tbody>
-                {% for item in site.data.leaderboard.records %}
-                <tr>
-                  <td>{{ item.rank }}</td>
-                  {% if item.link %}
-                    <td><a href="{{ item.link }}">{{ item.title }}</a></td>
-                  {% else %}
-                    <td>{{ item.title }}</td>
-                  {% endif %}
-                  <td>{{ item.score }}</td>
-                  <td>{{ item.comment }}</td>
-                </tr>
-                {% endfor %}
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-    </section>
-    
     
     <!-- RESULTS SECTION -->
     <section class="hero is-light is-small">
