@@ -358,7 +358,7 @@ layout: mydefault
                       <th>Rank</th>
                       <th>Model Name</th>
                       <th># Params. (in B)</th>
-                      <th>Context Length</th>
+<!--                       <th>Context Length</th> -->
                       <th>Full Set Score</th>
                       <th>Full Set Std</th>
                       <th></th>
