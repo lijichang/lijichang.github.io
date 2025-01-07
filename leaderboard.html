@@ -116,108 +116,6 @@
         $('#maintable').DataTable({
           "order": [],
           "pageLength": 30,
-          "lengthMenu": [10, 20, 30, 50, 100]
-        });
-      })
-      .catch(err => {
-        console.error('Error loading leaderboard.yml:', err);
-      });
-  </script>
-</body>
-</html>
-
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>LLM's Creativity Leaderboard</title>
-  <!-- Bulma & DataTables & 其他必要资源 -->
-  <link rel="stylesheet" href="./static/css/bulma.min.css" />
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .maintable {
-      width: 100%;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <!-- Leaderboard 部分开始 -->
-  <section class="hero is-light is-small">
-    <div class="hero-body has-text-centered">
-      <h1 class="title is-1 mmmu">LLM's Creativity Leaderboard</h1>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container" style="margin-bottom: 2vh;">
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          <br>
-            <div class="model-labels-container">
-              <span class="leaderboard-label human_expert">Human Expert</span>
-              <span class="leaderboard-label open_source">Open-Source</span>
-              <span class="leaderboard-label proprietary">Proprietary</span>
-            </div>
-          <br>
-          
-          <div class="content has-text-justified">
-            <table id="maintable" class="display maintable">
-              <thead>
-                <tr>
-                  <th>Rank</th>
-                  <th>Model Name</th>
-                  <th>Score</th>
-                </tr>
-              </thead>
-              <tbody></tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Leaderboard 部分结束 -->
-
-  <!-- jQuery + DataTables + js-yaml（根据需求添加） -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
-
-  <script>
-    // 读取并渲染 leaderboard.yml 的示例
-    fetch('leaderboard.yml')
-      .then(response => response.text())
-      .then(yamlText => {
-        const data = jsyaml.load(yamlText);
-        const tableBody = document.querySelector('#maintable tbody');
-        data.records.forEach(item => {
-          const row = document.createElement('tr');
-          // rank
-          const rankCell = document.createElement('td');
-          rankCell.textContent = (item.rank === '-') ? '-' : item.rank;
-          row.appendChild(rankCell);
-          // model name
-          const nameCell = document.createElement('td');
-          nameCell.textContent = item.title;
-          row.appendChild(nameCell);
-          // score
-          const scoreCell = document.createElement('td');
-          scoreCell.textContent = item.score;
-          row.appendChild(scoreCell);
-
-          tableBody.appendChild(row);
-        });
-
-        // 初始化 DataTable
-        $('#maintable').DataTable({
-          "order": [],
-          "pageLength": 30,
           "lengthMenu": [10, 20, 30, 50]
         });
       })
@@ -226,4 +124,4 @@
       });
   </script>
 </body>
-</html> -->
+</html>
