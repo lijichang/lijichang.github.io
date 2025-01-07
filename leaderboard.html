@@ -34,6 +34,16 @@
       width: 100%;
       margin-top: 20px;
     }
+    /* 根据 type 对每行添加的类名，可自行根据需求修改颜色或背景色 */
+    tr.proprietary {
+      background-color: #ffe6e6; /* 示例：淡红色背景 */
+    }
+    tr.open_source {
+      background-color: #e6ffe6; /* 示例：淡绿色背景 */
+    }
+    tr.human_expert {
+      background-color: #e6f0ff; /* 示例：淡蓝色背景 */
+    }
   </style>
 
   <script src="https://kit.fontawesome.com/fff5b27ec1.js" crossorigin="anonymous"></script>
@@ -70,7 +80,9 @@
                 <tr>
                   <th>Rank</th>
                   <th>Model Name</th>
+                  <th>Size</th>
                   <th>Score</th>
+                  <th>Date</th>
                 </tr>
               </thead>
               <tbody></tbody>
@@ -94,27 +106,58 @@
       .then(yamlText => {
         const data = jsyaml.load(yamlText);
         const tableBody = document.querySelector('#maintable tbody');
+
         data.records.forEach(item => {
           const row = document.createElement('tr');
+
+          // 根据 type 给整行添加不同的类名（以实现不同的颜色或其他视觉区别）
+          if (item.type === 'proprietary') {
+            row.classList.add('proprietary');
+          } else if (item.type === 'open_source') {
+            row.classList.add('open_source');
+          } else if (item.type === 'human_expert') {
+            row.classList.add('human_expert');
+          }
+
           // rank
           const rankCell = document.createElement('td');
           rankCell.textContent = (item.rank === '-') ? '-' : item.rank;
           row.appendChild(rankCell);
-          // model name
+
+          // model name，如果 link 存在且不是 N/A，则加超链接
           const nameCell = document.createElement('td');
-          nameCell.textContent = item.title;
+          if (item.link && item.link !== 'N/A') {
+            const link = document.createElement('a');
+            link.href = item.link;
+            link.target = '_blank';
+            link.textContent = item.title;
+            nameCell.appendChild(link);
+          } else {
+            nameCell.textContent = item.title;
+          }
           row.appendChild(nameCell);
+
+          // size
+          const sizeCell = document.createElement('td');
+          sizeCell.textContent = item.size;
+          row.appendChild(sizeCell);
+
           // score
           const scoreCell = document.createElement('td');
           scoreCell.textContent = item.score;
           row.appendChild(scoreCell);
 
+          // date
+          const dateCell = document.createElement('td');
+          dateCell.textContent = item.date;
+          row.appendChild(dateCell);
+
           tableBody.appendChild(row);
         });
 
-        // 初始化 DataTable
+        // 初始化 DataTable，默认根据第 4 列（下标 3）的 Score 降序排序
         $('#maintable').DataTable({
-          "order": [],
+          "order": [[3, "desc"]], // 第4列下标是3
           "pageLength": 30,
           "lengthMenu": [10, 20, 30, 50]
         });
