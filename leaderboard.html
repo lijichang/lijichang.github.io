@@ -2,6 +2,134 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <title>LoTbench</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://kit.fontawesome.com/f8ddf9854a.js" crossorigin="anonymous"></script>
+  <meta name="description" content="A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models" />
+  <meta name="keywords" content="Creativity, Multimodal Large Language Models, Benchmark, Causal Intervention" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models</title>
+  <link rel="icon" href="./static/images/mmmu_icon2.png" />
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
+  <link rel="stylesheet" href="./static/css/bulma.min.css" />
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css" />
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css" />
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css" />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
+  />
+  <link rel="stylesheet" href="./static/css/index.css" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+  <!-- js-yaml（用于在浏览器中解析 YAML）-->
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .maintable {
+      width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+
+  <script src="https://kit.fontawesome.com/fff5b27ec1.js" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  <!-- Leaderboard 部分开始 -->
+  <section class="hero is-light is-small">
+    <div class="hero-body has-text-centered">
+      <h1 class="title is-1 mmmu">LLM's Creativity Leaderboard</h1>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container" style="margin-bottom: 2vh;">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <br>
+            <div class="model-labels-container">
+              <span class="leaderboard-label human_expert">Human Expert</span>
+              <span class="leaderboard-label open_source">Open-Source</span>
+              <span class="leaderboard-label proprietary">Proprietary</span>
+            </div>
+          <br>
+          
+          <div class="content has-text-justified">
+            <table id="maintable" class="display maintable">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Model Name</th>
+                  <th>Score</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Leaderboard 部分结束 -->
+
+  <!-- jQuery + DataTables + js-yaml（根据需求添加） -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+  <script>
+    // 读取并渲染 leaderboard.yml 的示例
+    fetch('leaderboard.yml')
+      .then(response => response.text())
+      .then(yamlText => {
+        const data = jsyaml.load(yamlText);
+        const tableBody = document.querySelector('#maintable tbody');
+        data.records.forEach(item => {
+          const row = document.createElement('tr');
+          // rank
+          const rankCell = document.createElement('td');
+          rankCell.textContent = (item.rank === '-') ? '-' : item.rank;
+          row.appendChild(rankCell);
+          // model name
+          const nameCell = document.createElement('td');
+          nameCell.textContent = item.title;
+          row.appendChild(nameCell);
+          // score
+          const scoreCell = document.createElement('td');
+          scoreCell.textContent = item.score;
+          row.appendChild(scoreCell);
+
+          tableBody.appendChild(row);
+        });
+
+        // 初始化 DataTable
+        $('#maintable').DataTable({
+          "order": [],
+          "pageLength": 30,
+          "lengthMenu": [10, 20, 30, 50, 100]
+        });
+      })
+      .catch(err => {
+        console.error('Error loading leaderboard.yml:', err);
+      });
+  </script>
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
   <title>LLM's Creativity Leaderboard</title>
   <!-- Bulma & DataTables & 其他必要资源 -->
   <link rel="stylesheet" href="./static/css/bulma.min.css" />
@@ -98,4 +226,4 @@
       });
   </script>
 </body>
-</html>
+</html> -->
