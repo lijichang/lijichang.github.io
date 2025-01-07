@@ -51,7 +51,6 @@
       text-align: center !important;
     }
 
-
     /*
       设置第1列（Rank）、第3列（Size）、第5列（Date）的数据内容居中
       其中 nth-child() 的参数是从1开始计数
@@ -60,6 +59,24 @@
     tbody td:nth-child(3),
     tbody td:nth-child(5) {
       text-align: center;
+    }
+
+    /* 新增：为“图例”添加同样的背景色，并增加一些视觉样式 */
+    .leaderboard-label {
+      display: inline-block;
+      padding: 4px 8px;
+      margin-right: 6px;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    .leaderboard-label.proprietary {
+      background-color: #ffe6e6 !important; /* 与 tr.proprietary 相同 */
+    }
+    .leaderboard-label.open_source {
+      background-color: #e6ffe6 !important; /* 与 tr.open_source 相同 */
+    }
+    .leaderboard-label.human_expert {
+      background-color: #e6f0ff !important; /* 与 tr.human_expert 相同 */
     }
   </style>
 
@@ -84,13 +101,14 @@
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
           <br>
-            <div class="model-labels-container">
-              <span class="leaderboard-label human_expert">Human Expert</span>
-              <span class="leaderboard-label open_source">Open-Source</span>
-              <span class="leaderboard-label proprietary">Proprietary</span>
-            </div>
+          <!-- 这里是图例部分 -->
+          <div class="model-labels-container">
+            <span class="leaderboard-label human_expert">Human Expert</span>
+            <span class="leaderboard-label open_source">Open-Source</span>
+            <span class="leaderboard-label proprietary">Proprietary</span>
+          </div>
           <br>
-          
+
           <div class="content has-text-justified">
             <table id="maintable" class="display maintable">
               <thead>
