@@ -12,12 +12,12 @@ body {
   margin-bottom: 5px;
 }
 
-.mmmu-logo {
+.lotbench-logo {
   width: 1em;
   vertical-align: middle;
 }
 
-.mmmu {
+.lotbench {
   font-variant: small-caps;
   font-weight: bold;
 }
@@ -290,17 +290,17 @@ td:hover {
   }
 }
 
-#mmmu-table {
+#lotbench-table {
   table-layout: auto;
   width: 100%;
 }
 
-#mmmu-table th:not(:first-child),
-#mmmu-table td:not(:first-child) {
+#lotbench-table th:not(:first-child),
+#lotbench-table td:not(:first-child) {
   width: auto;
 }
 
-#mmmu-table tbody td:first-child {
+#lotbench-table tbody td:first-child {
   text-align: left !important;
 }
 

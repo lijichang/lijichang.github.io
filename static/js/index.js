@@ -30,7 +30,7 @@ function loadTableData() {
         })
         .then(data => {
           console.log('Data loaded successfully:', data);
-          const tbody = document.querySelector('#mmmu-table tbody');
+          const tbody = document.querySelector('#lotbench-table tbody');
 
           // Prepare data for styling
           const proScores = prepareScoresForStyling(data.leaderboardData, 'pro');
@@ -87,7 +87,7 @@ function loadTableData() {
         })
         .catch(error => {
           console.error('Error loading table data:', error);
-          document.querySelector('#mmmu-table tbody').innerHTML = `
+          document.querySelector('#lotbench-table tbody').innerHTML = `
             <tr>
                 <td colspan="21"> Error loading data: ${error.message}<br> Please ensure you're accessing this page through a web server (http://localhost:8000) and not directly from the file system. </td>
             </tr>
@@ -110,7 +110,7 @@ function setupEventListeners() {
     toggleDetails('test');
   });
 
-  var headers = document.querySelectorAll('#mmmu-table thead tr:last-child th.sortable');
+  var headers = document.querySelectorAll('#lotbench-table thead tr:last-child th.sortable');
   headers.forEach(function(header) {
     header.addEventListener('click', function() {
       sortTable(this);
@@ -150,14 +150,14 @@ function resetTable() {
   document.querySelector('.val-details-cell').setAttribute('colspan', '1');
   document.querySelector('.test-details-cell').setAttribute('colspan', '1');
 
-  var valOverallHeader = document.querySelector('#mmmu-table thead tr:last-child th.val-overall');
+  var valOverallHeader = document.querySelector('#lotbench-table thead tr:last-child th.val-overall');
   sortTable(valOverallHeader, true);
 
   setTimeout(adjustNameColumnWidth, 0);
 }
 
 function sortTable(header, forceDescending = false, maintainOrder = false) {
-  var table = document.getElementById('mmmu-table');
+  var table = document.getElementById('lotbench-table');
   var tbody = table.querySelector('tbody');
   var rows = Array.from(tbody.querySelectorAll('tr'));
   var headers = Array.from(header.parentNode.children);
@@ -214,12 +214,12 @@ function getCellValue(row, index) {
 }
 
 function initializeSorting() {
-  var valOverallHeader = document.querySelector('#mmmu-table thead tr:last-child th.val-overall');
+  var valOverallHeader = document.querySelector('#lotbench-table thead tr:last-child th.val-overall');
   sortTable(valOverallHeader, true);
 }
 
 function adjustNameColumnWidth() {
-  const nameColumn = document.querySelectorAll('#mmmu-table td:first-child, #mmmu-table th:first-child');
+  const nameColumn = document.querySelectorAll('#lotbench-table td:first-child, #lotbench-table th:first-child');
   let maxWidth = 0;
 
   const span = document.createElement('span');
