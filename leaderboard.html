@@ -102,6 +102,15 @@
     <div class="container" style="margin-bottom: 2vh;">
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
+            <div class="content has-text-justified">
+              <p>
+                We evaluate various LLM models.
+                In each type, we consider both closed- and open-source models.
+                Our evaluation is conducted under a zero-shot setting to assess the capability of models to generate accurate answers without fine-tuning or few-shot demonstrations on our benchmark.
+                For all models, we use the default prompt provided by each model for multi-choice or open QA, if available.
+                If models do not provide prompts for task types in LoTbench, we conduct prompt engineering on the validation set and use the most effective prompt for the later zero-shot experiment.
+              </p>
+            </div>
           <br>
           <!-- 这里是图例部分 -->
           <div class="model-labels-container">
