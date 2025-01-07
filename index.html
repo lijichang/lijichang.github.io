@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>LoTbench</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://kit.fontawesome.com/f8ddf9854a.js" crossorigin="anonymous"></script>
+  <meta name="description" content="A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models" />
+  <meta name="keywords" content="Creativity, Multimodal Large Language Models, Benchmark, Causal Intervention" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models</title>
+  <link rel="icon" href="./static/images/LoTbench_icon.png" />
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
+  <link rel="stylesheet" href="./static/css/bulma.min.css" />
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css" />
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css" />
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css" />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
+  />
+  <link rel="stylesheet" href="./static/css/index.css" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+  <!-- js-yaml（用于在浏览器中解析 YAML）-->
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .maintable {
+      width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+
+  <script src="https://kit.fontawesome.com/fff5b27ec1.js" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a
+        role="button"
+        class="navbar-burger"
+        aria-label="menu"
+        aria-expanded="false"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-menu">
+      <div
+        class="navbar-start"
+        style="flex-grow: 1; justify-content: center;"
+      >
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">LLM's Creativity LeaderBoard</a>
+          <div class="navbar-dropdown">
+            <a
+              class="navbar-item"
+              href="./leaderboard.html"
+            >
+              <b>LLM's Creativity LeaderBoard</b>
+              <span style="font-size:18px; display: inline; margin-left: 5px;"
+                >🔥</span
+              >
+            </a>
+            <!-- <a
+              class="navbar-item"
+              href="https://github.com/sail-sg/CLoT"
+              >Code</a
+            >
+            <a
+              class="navbar-item"
+              href="https://arxiv.org/abs/2312.02439"
+              >ArXiv</a
+            >
+            <a
+              class="navbar-item"
+              href="https://huggingface.co/datasets/zhongshsh/CLoT-Oogiri-GO"
+              >Dataset</a
+            > -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title is-bold">
+              <img
+                src="static/images/LoTbench_icon.png"
+                style="width:1em;vertical-align: middle"
+                alt="Logo"
+              />
+              <span class="lotbench" style="vertical-align: middle">LoTbench</span>
+            </h1>
+            <h2 class="subtitle is-3 publication-subtitle">
+              A Causality-aware Paradigm for Evaluating Creativity of Multimodal
+              Large Language Models
+            </h2>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a
+                  href="https://dedekinds.github.io/"
+                  style="text-decoration: none; color: inherit;"
+                  >Zhongzhan Huang*</a
+                >,
+              </span>
+              <span class="author-block">
+                <a
+                  href="https://zhongshsh.github.io/"
+                  style="text-decoration: none; color: inherit;"
+                  >Shanshan Zhong*</a
+                >,
+              </span>
+              <span class="author-block">
+                <a
+                  href="https://panzhous.github.io/"
+                  style="text-decoration: none; color: inherit;"
+                  >Pan Zhou*</a
+                >,
+              </span>
+              <span class="author-block">
+                <a
+                  href="https://shgao.site/"
+                  style="text-decoration: none; color: inherit;"
+                  >Shanghua Gao</a
+                >,
+              </span>
+              <span class="author-block">
+                <a
+                  href="https://zitniklab.hms.harvard.edu/bio/"
+                  style="text-decoration: none; color: inherit;"
+                  >Marinka Zitnik</a
+                >,
+              </span>
+              <span class="author-block">
+                <a
+                  href="http://www.linliang.net/"
+                  style="text-decoration: none; color: inherit;"
+                  >Liang Lin†</a
+                >
+              </span>
+            </div>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">*Equal Contributors</span><br />
+              <span class="author-block">†Corresponding to:</span>
+              <span class="author-block"
+                ><a href="mailto: linliang@ieee.org.com"
+                  > linliang@ieee.org</a
+                ></span
+              >
+            </div>
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a
+                    href="https://arxiv.org/abs/2312.02439"
+                    class="external-link button is-normal is-rounded is-dark"
+                  >
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a
+                    href="https://github.com/sail-sg/CLoT"
+                    class="external-link button is-normal is-rounded is-dark"
+                  >
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                
+              <span class="link-block">
+                <a
+                  href="./leaderboard.html"
+                  class="external-link button is-normal is-rounded is-dark"
+                >
+                  <span class="icon has-text-white">
+                    <i class="fa-solid fa-trophy"></i>
+                  </span>
+                  <span>Leaderboard</span>
+                </a>
+              </span>
+
+                <span class="link-block">
+                  <a
+                    href="https://huggingface.co/datasets/zhongshsh/CLoT-Oogiri-GO"
+                    class="external-link button is-normal is-rounded is-dark"
+                  >
+                    <span class="icon">
+                      <i class="fa fa-database"></i>
+                    </span>
+                    <span>Dataset</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero is-light is-small">
+    <div class="hero-body has-text-centered">
+      <h1 class="title is-1 lotbench">Abstract</h1>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container" style="margin-bottom: 2vh;">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div class="content has-text-justified">
+            <p>
+              Recently, numerous benchmarks have been developed to evaluate the
+              logical reasoning abilities of large language models (LLMs).
+              However, assessing the equally important creative capabilities of
+              LLMs is challenging due to the subjective, diverse, and
+              data-scarce nature of creativity, especially in multimodal
+              scenarios. In this paper, we consider the comprehensive pipeline
+              for evaluating the creativity of multimodal LLMs, with a focus on
+              suitable evaluation platforms and methodologies. First, we find
+              the Oogiri game—a creativity-driven task requiring humor,
+              associative thinking, and the ability to produce unexpected
+              responses to text, images, or both. This game aligns well with the
+              input-output structure of modern multimodal LLMs and benefits
+              from a rich repository of high-quality, human-annotated creative
+              responses, making it an ideal platform for studying LLM
+              creativity. Next, beyond using the Oogiri game for standard
+              evaluations like ranking and selection, we propose LoTbench, an
+              interactive, causality-aware evaluation framework, to further
+              address some intrinsic risks in standard evaluations, such as
+              information leakage and limited interpretability. The proposed
+              LoTbench not only quantifies LLM creativity more effectively but
+              also visualizes the underlying creative thought processes. Our
+              results show that while most LLMs exhibit constrained creativity,
+              the performance gap between LLMs and humans is not insurmountable.
+              Furthermore, we observe a strong correlation between results from
+              the multimodal cognition benchmark MMMU and LoTbench, but only a
+              weak connection with traditional creativity metrics. This suggests
+              that LoTbench better aligns with human cognitive theories,
+              highlighting cognition as a critical foundation in the early
+              stages of creativity and enabling the bridging of diverse
+              concepts.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!--   <section
+    class="hero is-light is-small"
+    id="leaderboard"
+    style="scroll-margin-top: 6em;"
+  >
+    <div class="hero-body has-text-centered">
+      <h1 class="title is-1 lotbench">Leaderboard</h1>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container" style="margin-bottom: 2vh;">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div class="content has-text-justified">
+            <table id="maintable" class="display maintable">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Model Name</th>
+                  <th>Score</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <section class="hero is-light is-small">
+    <div class="hero-body has-text-centered">
+      <h1 class="title is-1 lotbench">Summary of Contributions</h1>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <div class="content has-text-justified">
+            <li>
+              <strong>(i)</strong> We discover the ideal platform for studying
+              the LLMs’ creativity, the <strong>Oogiri game</strong>, and
+              develop a comprehensive standard evaluation pipeline to analyze
+              and discuss how to stimulate LLM creativity.
+            </li>
+            <li>
+              <strong>(ii)</strong> Due to the inherent risks in standard
+              creativity evaluations, such as information leakage and limited
+              interpretability, we further propose an interactive,
+              causality-aware benchmark called <strong>LoTbench</strong>. We
+              find that LoTbench aligns with human cognitive theories and
+              reveals that while the current LLMs’ creativity is not very high,
+              it’s close to human levels and has the potential to surpass human
+              creativity.
+            </li>
+
+            <ul>
+              <p>
+                <strong>Oogiri game:</strong> Thoroughly assessing LoT is
+                challenging due to the complexity of measuring creative thinking
+                and the difficulty in gathering pertinent data, since generating
+                novel ideas is challenging, even for humans. Given these
+                constraints, we propose studying LoT in MLLMs through the lens
+                of Oogiri-style humor generation. Oogiri, a traditional Japanese
+                creative game, requires participants to provide unexpected and
+                humorous responses to prompts in the form of images, text, or a
+                combination of both. This game challenges MLLMs to demonstrate a
+                sudden burst of insight and strong associative thinking,
+                presenting a unique challenge for CoT-based methods. Moreover,
+                the Oogiri game aligns with the input-output paradigm of current
+                MLLMs and, due to its popularity, offers a wealth of
+                high-quality, human-annotated creative responses, making it an
+                ideal platform for exploring LoT ability of MLLMs. Moreover, to
+                investigate the LoT ability of LLMs in the Oogiri game, we
+                initially present the multilingual and multimodal
+                <strong>Oogiri-GO</strong> dataset which comprises more than
+                130,000 high-quality Oogiri samples in English, Chinese, and
+                Japanese, and curated to prompt textual humor in response to
+                inputs that can be images, text, or both.
+              </p>
+              <figure style="text-align: center;">
+                <img
+                  src="static/images/Oogiri_GO.Jpeg"
+                  alt="Oogiri-GO dataset"
+                  class="center"
+                  style="width: 50%;"
+                />
+                <figcaption style="font-style: normal;">
+                  Oogiri-GO contains three types of Oogiri games according to
+                  the input that can be images, text, or both, and are
+                  respectively called “Text to Text” (T2T), “Image to Text”
+                  (I2T), and “Image &amp; Text to Text” (IT2T) for brevity
+                </figcaption>
+              </figure>
+            </ul>
+
+            <ul>
+              <p>
+                <strong>LoTbench:</strong> First, following the popular standard
+                LLM benchmark paradigm, we also establish a series of standard
+                LLM evaluations by Oogiri-GO, such as ranking and selection,
+                with higher accuracy indicating greater creativity. We find that
+                even advanced LLMs and reasoning frameworks, including GPT-4 and
+                CoT, despite their exceptional reasoning capabilities and
+                extensive prior knowledge of various forms of humor, still
+                struggle to demonstrate adequate LoT ability for creative humor
+                generation. Moreover, while standard evaluations offer
+                simplicity and low assessment costs, we identify inherent risks
+                associated with their use in assessing creativity, such as
+                <em>information leakage</em> and <em>limited interpretability</em>.
+                To address these issues, we first propose training LLMs to
+                assist in generating specific high-quality human-level creative
+                responses (HHCRs). Additionally, we introduce a multi-round
+                interactive evaluation paradigm, <strong>LoTbench</strong>. With
+                causal reasoning techniques, LoTbench measures creativity by
+                analyzing the average number of rounds required for an LLM to
+                reach HHCRs. Fewer required rounds indicate higher human-level
+                creativity. LoTbench not only effectively evaluates LLM
+                creativity but also provides interpretable visualizations of the
+                LLM’s innovative thought process during interactions.
+              </p>
+              <figure style="text-align: center;">
+                <img
+                  src="static/images/creativity_evalutation.Jpeg"
+                  alt="Different paradigms to measure creativity"
+                  class="center"
+                  style="width: 75%;"
+                />
+                <figcaption style="font-style: normal;">
+                  Different paradigms to measure creativity, including Standard
+                  Evaluation (Left) and the proposed LoTbench (Right)
+                </figcaption>
+              </figure>
+              <figure style="text-align: center;">
+                <img
+                  src="static/images/LoTbench.Jpeg"
+                  alt="Different paradigms to measure creativity"
+                  class="center"
+                  style="width: 75%;"
+                />
+                <figcaption style="font-style: normal;">
+                  The overview of proposed interactive creativity evaluation
+                  LoTbench for LLM. The main task in LoTbench is masked language
+                  modeling (MLM) task. The LLMs are required to fill in the
+                  &lt;MASK&gt; in the sentence to make it a creative response
+                  relative to the provided image. DAESO denotes “different
+                  approach but equally satisfactory outcome”, where \( E_1 \) is
+                  the causal evaluator to check whether \( R_t \) and \( R \)
+                  are DAESO.
+                </figcaption>
+              </figure>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <section class="hero is-light is-small">
+        <div class="hero-body has-text-centered">
+          <h1 class="title is-1 lotbench">Experiment Results</h1>
+        </div>
+      </section>
+
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Experiments under Standard Evaluation</h2>
+          <div class="content has-text-justified">
+            <p>
+              In this work, we explore the creativity of different LLMs through
+              standard evaluation. Following the popular standard LLM benchmark
+              paradigm, we establish a series of standard LLM evaluations by
+              Oogiri-GO, such as ranking and selection. We find that even
+              advanced LLMs and reasoning frameworks, including GPT-4 and CoT,
+              despite their exceptional reasoning capabilities and extensive
+              prior knowledge of various forms of humor, still struggle to
+              demonstrate adequate LoT ability for creative humor generation.
+              Moreover, while standard evaluations offer simplicity and low
+              assessment costs, we identify inherent risks associated with their
+              use in assessing creativity, such as information leakage and
+              limited interpretability.
+            </p>
+            <div class="content has-text-centered">
+              <figure style="text-align: center;">
+                <img
+                  src="static/images/mutilmodal_multilingual_models.Jpeg"
+                  alt="Evaluation on multimodal multilingual LLMs"
+                  class="center"
+                  style="width: 100%;"
+                />
+                <figcaption style="font-style: normal;">
+                  Evaluation of multimodal multilingual LLMs by measuring their
+                  accuracy (%) on choice questions and their NDCG (%) on ranking
+                  questions. \( m \)T\( n \) choice question selects \( n \)
+                  correct answers from \( m \) options.
+                </figcaption>
+              </figure>
+              <figure style="text-align: center;">
+                <img
+                  src="static/images/mutilmodal_non_multilingual_models.Jpeg"
+                  alt="Evaluation on multimodal non-multilingual LLMs"
+                  class="center"
+                  style="width: 100%;"
+                />
+                <figcaption style="font-style: normal;">
+                  Evaluation of multimodal non-multilingual LLMs by measuring
+                  their accuracy (%) on choice questions and their NDCG (%) on
+                  ranking questions.
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Experiments under LoTbench</h2>
+          <div class="content has-text-justified">
+            <p>
+              In this work, we assess the creativity of various multimodal LLMs
+              using LoTbench. The results of LoTbench demonstrate that while
+              most MLLMs exhibit limited creativity, the gap between their
+              creativity and human creativity is not substantial. Current MLLMs
+              show the potential to surpass human creativity. Furthermore, we
+              observe a strong positive correlation between the results of the
+              well-known multimodal LLM cognition benchmark MMMU and LoTbench,
+              but a low correlation with standard creativity evaluation.
+            </p>
+            <p>
+              This indicates that LoTbench’s creativity measurements align more
+              closely with <strong>human cognitive theories</strong>,
+              suggesting that cognition serves as a critical foundation in the
+              early stages of creativity, enabling leaps across diverse
+              conceptual spaces.
+            </p>
+            <div class="content has-text-centered">
+              <figure style="text-align: center;">
+                <img
+                  src="static/images/ranking_by_LoTbench.Jpeg"
+                  alt="The ranking results of LLM’s creativity by LoTbench."
+                  class="center"
+                  style="width: 100%;"
+                />
+                <figcaption style="font-style: normal;">
+                  The ranking results of LLM’s creativity by LoTbench. Most LLMs
+                  do not exhibit high creativity in the LoTbench scenario, but
+                  the gap between their creativity and the average level of
+                  human participants is not particularly large.
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title is-3 has-text-centered">BibTeX</h2>
+      <pre><code>
+@article{lotbench,
+  title={A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models},
+  author={Huang Zhongzhan and Zhong Shanshan and Zhou Pan and Gao Shanghua and Zitnik Marinka and Lin Liang
+},
+  journal={IEEE Transactions on XXX},
+  year={2025},
+}
+        
+</code></pre>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is adapted from
+            <a href="https://nerfies.github.io/">Nerfies</a> and
+            <a href="https://mathvista.github.io/">MathVista</a>, licensed under
+            a
+            <a
+              rel="license"
+              href="http://creativecommons.org/licenses/by-sa/4.0/"
+              >Creative Commons Attribution-ShareAlike 4.0 International
+              License</a
+            >.
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    $(document).ready(function () {
+      $(".mainTable").DataTable({
+        ordering: true,
+        order: [[4, "desc"]],
+        columns: [
+          { type: "num" },
+          { type: "html" },
+          { type: "num" },
+          { type: "num-fmt" },
+          { type: "num-fmt" },
+          { type: "num-fmt" },
+          { type: "html", orderable: false }
+        ]
+      });
+    });
+  </script>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <script>
+    fetch("leaderboard.yml")
+      .then((response) => response.text())
+      .then((yamlText) => {
+        const data = jsyaml.load(yamlText);
+        const tableBody = document.querySelector("#maintable tbody");
+        data.records.forEach((item) => {
+          const row = document.createElement("tr");
+          const rankCell = document.createElement("td");
+          rankCell.textContent = item.rank === "-" ? "-" : item.rank;
+          row.appendChild(rankCell);
+          const nameCell = document.createElement("td");
+          nameCell.textContent = item.title;
+          row.appendChild(nameCell);
+          const scoreCell = document.createElement("td");
+          scoreCell.textContent = item.score;
+          row.appendChild(scoreCell);
+          tableBody.appendChild(row);
+        });
+        $("#maintable").DataTable({
+          order: [],
+          pageLength: 30,
+          lengthMenu: [10, 20, 30, 50, 100]
+        });
+      })
+      .catch((err) => {
+        console.error("Error loading leaderboard.yml:", err);
+      });
+  </script>
+</body>
+</html>
