@@ -131,20 +131,53 @@
                 <a href="https://huggingface.co/datasets/zhongshsh/CLoT-Oogiri-GO" target="_blank">Oogiri game</a>, 
                 a creativity-driven task requiring humor, associative thinking, and the ability to generate unexpected 
                 responses to text, images, or their combination. The evaluation is further supported by 
-                <a href="https://lijichang.github.io/" target="_blank">LoTbench</a>, an interactive, causality-aware framework 
-                tailored to assess creativity in this context.
+                <a href="https://lijichang.github.io/" target="_blank">LoTbench</a>, an interactive, causality-aware Leap-of-Thought (LoT) framework 
+                tailored to assess creativity of multimodal LLMs.
             </p>
+            
+            <figure style="text-align: center;">
+              <img
+                src="static/images/leaderboard.png"
+                alt="The overview of LoTbench"
+                class="center"
+                style="width: 75%;"
+              />
+              <figcaption style="font-style: normal;">
+                <!-- The overview of proposed interactive creativity evaluation LoTbench for LLM.  (Left) Standard Evaluation: Assess LLMs by designing selection and ranking -->
+                <!-- tasks. Higher accuracy indicates greater creativity. (Right) LoTbench: LLMs generate multi-round responses, evaluated by a causal evaluator to -->
+                <!-- determine whether they approach high-quality human-level creative responses (HHCRs). If not, the model enters a rethinking phase for the next -->
+                <!-- round. Creativity is inversely proportional to the number of response rounds (# Round). -->
+                As illustrated in (a) and (b), LoTbench enhances standard evaluations, which ultize higher accuracy in selection and ranking tasks to asscess LLM's creativity, by enabling LLMs to generate multi-round responses, evaluated by a causal evaluator  to
+                determine whether they approach high-quality human-level creative responses (HHCRs). If not, the model enters a rethinking phase for the next
+                round, as shown in (c). 
+              </figcaption>
+            </figure>
+
+            Compared with standard evaluations for assessing creativity in multimodal LLMs, LoTbench offers several key advantages as follows.
+            <ul>
+            
+              <li>
+                <strong>(1)</strong> To address information leakage and limited interpretability for standard evaluations, LoTbench trains LLMs to assist in generating specific high-quality human-level creative responses (HHCRs).
+              </li>
+              <li>
+                <strong>(2)</strong> With causal reasoning techniques, LoTbench measures creativity by analyzing the average number of rounds required for an LLM to reach HHCRs. Fewer required rounds indicate higher human-level creativity.
+              </li>
+
+              <li>
+                <strong>(3)</strong> It can be found that LoTbench aligns with human cognitive theories and reveals that while the current LLMs’ creativity is not very high, it’s close to human levels and has the potential to surpass human creativity.
+              </li>
+            </ul>
+
             <p>
                 The leaderboard currently evaluates a variety of multimodal LLMs, encompassing both closed-source 
                 and open-source models. The evaluation is conducted in a zero-shot setting to determine whether these 
                 models can produce high-quality, human-level creative outputs without fine-tuning on the benchmark. 
                 Each model undergoes multiple rounds of generation, with the final creativity score derived from these iterations.
-            </p>
-            <p>
                 Notably, LoTbench provides three reference levels of human creativity—“Human (high)”, “Human (medium)”, 
                 and “Human (low)”—which represent the creativity performance tiers of human participants and serve 
                 as comparative benchmarks.
             </p>
+
               
             </div>
           <br>
