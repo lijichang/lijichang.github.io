@@ -151,9 +151,10 @@
             Compared with standard evaluations for assessing creativity in multimodal LLMs, LoTbench offers several key advantages as follows.
             <ul>
             
-              <li>
-                <strong>(1)</strong> To address information leakage and limited interpretability for standard evaluations, LoTbench trains LLMs to assist in generating specific high-quality human-level creative responses (HHCRs).
+              <li style="background-color: #e8ffe8; padding: 10px; margin-bottom: 5px; border-radius: 5px;">
+                <span style="font-family: 'Times New Roman', Times, serif;"><strong>(1)</strong> To address information leakage and limited interpretability for standard evaluations, LoTbench trains LLMs to assist in generating specific high-quality human-level creative responses (HHCRs).</span>
               </li>
+
               <li>
                 <strong>(2)</strong> With causal reasoning techniques, LoTbench measures creativity by analyzing the average number of rounds required for an LLM to reach HHCRs. Fewer required rounds indicate higher human-level creativity.
               </li>
@@ -162,7 +163,7 @@
                 <strong>(3)</strong> It is demonstrated that LoTbench aligns with human cognitive theories and reveals that while the current LLMs’ creativity is not very high, it’s close to human levels and has the potential to surpass human creativity.
               </li>
             </ul> -->
-          <figure style="text-align: center;">
+<!--           <figure style="text-align: center;">
             <img
               src="static/images/leaderboard.png"
               alt="The overview of LoTbench"
@@ -174,8 +175,21 @@
                   determine whether they approach high-quality human-level creative responses (HHCRs). If not, the model enters a rethinking phase for the next
                   round, as shown in (c).
               </figcaption>
+          </figure> -->
+
+          <!-- 图像模块 -->
+          <figure style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+            <img
+              src="static/images/leaderboard.png"
+              alt="The overview of LoTbench"
+              class="center"
+              style="width: 75%; border: 2px solid #d0e0f0; border-radius: 5px;"
+            />
+            <figcaption style="font-family: 'Times New Roman', Times, serif; font-size: 16px; color: #333; margin-top: 10px;">
+              As illustrated in (a) and (b), LoTbench enhances standard evaluations, which utilize higher accuracy in selection and ranking tasks to assess LLM's creativity, by enabling LLMs to generate multi-round responses, evaluated by a causal evaluator to determine whether they approach high-quality human-level creative responses (HHCRs). If not, the model enters a rethinking phase for the next round, as shown in (c).
+            </figcaption>
           </figure>
-          
+              
           <p>
             Compared with standard evaluations for assessing creativity in multimodal LLMs, LoTbench offers several key advantages as follows.
           </p>
