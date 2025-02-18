@@ -11,7 +11,7 @@ Jichang is currently working as an assistant researcher at Pengcheng National La
 Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 
 # 🔥 News
-
+- [**2025.02**] One of our journal work [[DECO](https://ieeexplore.ieee.org/abstract/document/10871924)] is accepted by **IEEE TIP2025**. Congratulations to Junye!
 - [**2024.08**] Jichang has passed the PhD Dissertation Defense.  Congratulations to Dr. LI!
 - [**2024.02**] Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
 - [**2023.12**] One of our conference work [[FedDiv](https://ojs.aaai.org/index.php/AAAI/article/view/28095)] is accepted by **AAAI2024**.
@@ -168,7 +168,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li
 
 - **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**  
 **<u>Jichang Li</u>**
-[[OFFICIAL]](https://ieeexplore.ieee.org/document/10269065)[[PDF]](https://github.com/lijichang/website/blob/5675e43999738f15e57194dab8da4e09645038f9/docs/PhD%20Thesis.pdf)
+[[OFFICIAL]](https://hub.hku.hk/handle/10722/352677)
 
 
 
