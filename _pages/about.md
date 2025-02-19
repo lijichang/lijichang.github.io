@@ -136,8 +136,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)
 - **Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal**  
 Junye Chen, Chaowei Fang, **<u>Jichang Li</u>**, Yicheng Leng, and Guanbin Li  
 IEEE Transactions on Image Processing, 2025 (IEEE TIP2025)  
-[[OFFICIAL]](https://ieeexplore.ieee.org/abstract/document/10871924)  
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10871924)  
+[[OFFICIAL]](https://ieeexplore.ieee.org/abstract/document/10871924)[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10871924)  
 
 
 - **Inter-Domain Mixup for Semi-Supervised Domain Adaptation**  
@@ -148,8 +147,7 @@ Elsevier Pattern Recognition, 2023 (Elsevier PR2023)
 - **Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation**  
 **<u>Jichang Li</u>**, Guanbin Li, and Yizhou Yu  
 IEEE Transactions on Image Processing, 2023 (IEEE TIP2023)  
-[[OFFICIAL]](https://ieeexplore.ieee.org/document/10269065)  
-[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269065)[[ArXiv]](https://arxiv.org/abs/2401.11448)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/TIP2023_SSDA.bib)
+[[OFFICIAL]](https://ieeexplore.ieee.org/document/10269065)[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269065)[[ArXiv]](https://arxiv.org/abs/2401.11448)[[ResearchGate]](https://www.researchgate.net/publication/374411722_Adaptive_Betweenness_Clustering_for_Semi-Supervised_Domain_Adaptation#fullTextFileContent)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/TIP2023_SSDA.bib)
 
 
 
