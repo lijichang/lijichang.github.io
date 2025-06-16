@@ -11,16 +11,16 @@ Jichang is currently working as an assistant researcher at Pengcheng National La
 Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 
 # 🔥 News
-- [**2025.02**] One of our journal work [[DECO](https://ieeexplore.ieee.org/abstract/document/10871924)] is accepted by **IEEE TIP2025**. Congratulations to Junye!
-- [**2024.08**] Jichang has passed the PhD Dissertation Defense.  Congratulations to Dr. LI!
-- [**2024.02**] Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congratulations to Jiaming and Duojun!
+- [**2025.02**] One of our journal work [[DECO](https://ieeexplore.ieee.org/abstract/document/10871924)] is accepted by **IEEE TIP2025**. Congrats to Junye!
+- [**2024.08**] Jichang has passed his PhD Dissertation Defense.  Congrats to Dr. LI!
+- [**2024.02**] Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congrats to Jiaming and Duojun!
 - [**2023.12**] One of our conference work [[FedDiv](https://ojs.aaai.org/index.php/AAAI/article/view/28095)] is accepted by **AAAI2024**.
 - [**2023.10**] One of our journal work [[IDM](https://www.sciencedirect.com/science/article/pii/S0031320323007203?via%3Dihub)] is accepted by **Elsevier PR2023**.
 - [**2023.09**] One of our journal work [[G-ABC](https://ieeexplore.ieee.org/document/10269065)] is accepted by **IEEE TIP2023**.
-- [**2023.03**] One of our conference work [[DiaNA](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)] is accepted by **CVPR2023**. Congratulations to Duojun!
+- [**2023.03**] One of our conference work [[DiaNA](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf)] is accepted by **CVPR2023**. Congrats to Duojun!
 - [**2022.07**] One of our conference work [[NCE](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1005_ECCV_2022_paper.php)] is accepted by **ECCV2022**.
 - [**2021.03**] One of our conference work [[CDAC](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html)] is accepted by **CVPR2021**.
-- [**2020.07**] Jichang has graduated from South China University of Technology. Congratulations to Jichang!
+- [**2020.07**] Jichang has graduated from South China University of Technology. Congrats to Jichang!
 - [**2019.07**] One of our journal work is accepted by **IEEE TIP2019**.
 - [**2019.05**] One of our journal work is accepted by **IEEE/ACM TASLP2019**.
 - [**2019.02**] Two of our conference work are accepted by **CVPR2019**.
