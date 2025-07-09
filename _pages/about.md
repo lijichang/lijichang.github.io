@@ -28,15 +28,15 @@ Previously, he obtained his PhD degree at the [Department of Computer Science (C
 
 
 # Educations
-- [**2020.09 - 2024.11**] PhD in Computer Science, The University of Hong Kong, Hong Kong. 
-- [**2017.09 - 2020.06**] MEng in Computer Science & Engineering, South China University of Technology, Guangzhou.
+- [**2020.09 - 2024.11**] PhD in Computer Science, The University of Hong Kong, Hong Kong  
+- [**2017.09 - 2020.06**] MEng in Computer Science & Engineering, South China University of Technology, Guangzhou  
 
 
 # Experiences
-- [**2024.04 - 2024.11**] Research intern,  **Pengcheng Laboratory**, Shenzhen.
-- [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
-- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
-- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
+- [**2024.04 - 2024.11**] Research intern,  **Pengcheng Laboratory**, Shenzhen  
+- [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong  
+- [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou  
+- [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen  
 
 
 
@@ -57,12 +57,6 @@ Previously, he obtained his PhD degree at the [Department of Computer Science (C
   Information Sciences, 2023  
   The Visual Computer, 2021  
   
-  
-  
-  
-  
-  
-
 # Others
 
 
