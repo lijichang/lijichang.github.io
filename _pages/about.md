@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jichang is currently working as an assistant researcher at Pengcheng National Laboratory (PCNL) in Shenzhen. 
+Jichang is currently working as an assistant researcher at Pengcheng Laboratory in Shenzhen. 
 Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 
 # 🔥 News
@@ -27,12 +27,12 @@ Previously, he obtained his PhD degree at the [Department of Computer Science (C
 
 
 # Educations
-- [**2020.09 - 2024.11**] Doctor of Philosophy (PhD), Department of Computer Science, The University of Hong Kong, Hong Kong. 
-- [**2017.09 - 2020.06**] Master of Engineering (MEng), School of Computer Science & Engineering, South China University of Technology, Guangzhou.
+- [**2020.09 - 2024.11**] PhD in Computer Science, The University of Hong Kong, Hong Kong. 
+- [**2017.09 - 2020.06**] MEng in Computer Science & Engineering, South China University of Technology, Guangzhou.
 
 
 # Experiences
-- [**2024.04 - 2024.11**] Research intern,  **Pengcheng National Laboratory**, Shenzhen.
+- [**2024.04 - 2024.11**] Research intern,  **Pengcheng Laboratory**, Shenzhen.
 - [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong.
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou.
 - [**2016.03 - 2016.10**] Exchange student,  **BGI Research**, Shenzhen.
@@ -43,14 +43,14 @@ Previously, he obtained his PhD degree at the [Department of Computer Science (C
 
 - **Conference reviewers:**  
   The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024  
-  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023  
+  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
   The European Conference on Computer Vision (ECCV), 2024  
   The Asian Conference on Computer Vision (ACCV), 2024  
   The British Machine Vision Conference (BMVC), 2022  
   
 - **Journal reviewers:**  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024  
-  IEEE Transactions on Image Processing (TIP), 2023/2024  
+  IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
   IEEE Transactions on Multimedia (TMM), 2024  
   IEEE/ASME Transactions on Mechatronics, 2024  
   Information Sciences, 2023  
