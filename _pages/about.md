@@ -85,6 +85,15 @@ Mandarin (native), Cantonese (native), English (acquired)
 
 ### Conference
 
+- **DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**  
+Yinqi Cai, **<u>Jichang Li</u>**, Zhaolun Li, Weikai Chen, Rushi Lan, xi xie, Xiaonan Luo, Guanbin Li    
+International Conference on Computer Vision, 2025 (ICCV2025)  
+
+- **FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**  
+Zhaolun Li, **<u>Jichang Li</u>**, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, Rushi Lan  
+International Conference on Computer Vision, 2025 (ICCV2025)  
+
+
 - **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
 Jiaming Li, Jiacheng Zhang, **<u>Jichang Li</u>**, Ge Li, Si Liu, Liang Lin, Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
