@@ -7,18 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 8px;">
-### Short Bio
-Jichang is currently working as an assistant researcher at Pengcheng Laboratory in Shenzhen. 
-Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), kindly supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
-
-### Research interests
-- Agentic Vision  
-- Embodied AI  
-- Visual Content Understanding  
-- Weakly-supervised Learning  
-</div>
-
+> ### Short Bio
+> Jichang is currently working as an assistant researcher at Pengcheng Laboratory in Shenzhen. 
+> Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), kindly supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
+> 
+> ### Research interests
+> - Agentic Vision  
+> - Embodied AI  
+> - Visual Content Understanding  
+> - Weakly-supervised Learning
 
 # 🔥 News
 - [**2025.06**] Two of our journal work [[DeepShield](https://ieeexplore.ieee.org) & [FakeRadar](https://openaccess.thecvf.com)] are accepted by **ICCV 2025**. Congrats to Yinqi and Zhaolun!
@@ -159,14 +156,14 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li
 
 # Professional Services
 
-- **Conference reviewers:**  
+- **Conference reviewers**  
   The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024  
   The IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
   The European Conference on Computer Vision (ECCV), 2024  
   The Asian Conference on Computer Vision (ACCV), 2024  
   The British Machine Vision Conference (BMVC), 2022  
   
-- **Journal reviewers:**  
+- **Journal reviewers**  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024  
   IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
   IEEE Transactions on Multimedia (TMM), 2024  
