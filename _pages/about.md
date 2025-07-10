@@ -33,6 +33,7 @@ Previously, he obtained his PhD degree at the [Department of Computer Science (C
 
 
 # Experiences
+- [**2024.11 - present**] Assistant Researcher,  **Pengcheng Laboratory**, Shenzhen  
 - [**2024.04 - 2024.11**] Research intern,  **Pengcheng Laboratory**, Shenzhen  
 - [**2020.09 - 2024.08**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong  
 - [**2023.07 - 2023.12**] Research intern,  **Zhejiang Lab**, Hangzhou  
