@@ -41,23 +41,6 @@ Previously, he obtained his PhD degree at the [Department of Computer Science (C
 
 
 
-# Professional Services
-
-- **Conference reviewers:**  
-  The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024  
-  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
-  The European Conference on Computer Vision (ECCV), 2024  
-  The Asian Conference on Computer Vision (ACCV), 2024  
-  The British Machine Vision Conference (BMVC), 2022  
-  
-- **Journal reviewers:**  
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024  
-  IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
-  IEEE Transactions on Multimedia (TMM), 2024  
-  IEEE/ASME Transactions on Mechatronics, 2024  
-  Information Sciences, 2023  
-  The Visual Computer, 2021  
-
 
 # 📝 Publications 
 
@@ -162,6 +145,25 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li
 - **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**  
 **<u>Jichang Li</u>**  
 [[OFFICIAL]](https://hub.hku.hk/handle/10722/352677)
+
+
+# Professional Services
+
+- **Conference reviewers:**  
+  The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024  
+  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
+  The European Conference on Computer Vision (ECCV), 2024  
+  The Asian Conference on Computer Vision (ACCV), 2024  
+  The British Machine Vision Conference (BMVC), 2022  
+  
+- **Journal reviewers:**  
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024  
+  IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
+  IEEE Transactions on Multimedia (TMM), 2024  
+  IEEE/ASME Transactions on Mechatronics, 2024  
+  Information Sciences, 2023  
+  The Visual Computer, 2021  
+
 
 # Selected Honors and Awards
 [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong  
