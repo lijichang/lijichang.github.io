@@ -166,7 +166,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li
 
 
 # Selected Honors and Awards
-[**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong  
-[**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China  
+- [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong  
+- [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China  
 
 
