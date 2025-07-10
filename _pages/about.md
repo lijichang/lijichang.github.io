@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 Jichang is currently working as an assistant researcher at Pengcheng Laboratory in Shenzhen. 
-Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
+Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), kindly supervised by [Prof Yizhou YU](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin LI](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in Computer Technology at South China University of Technology, advised by [Prof Si WU](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen YU](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
+
+- **Research interests**:
+- Agentic Vision  
+- Embodied AI  
+- Visual Content Understanding  
+- Weakly-supervised Learning  
+
 
 # 🔥 News
 - [**2025.06**] Two of our journal work [[DeepShield](https://ieeexplore.ieee.org) & [FakeRadar](https://openaccess.thecvf.com)] are accepted by **ICCV 2025**. Congrats to Yinqi and Zhaolun!
