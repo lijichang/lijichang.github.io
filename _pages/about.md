@@ -17,7 +17,7 @@ redirect_from:
 > - Weakly-supervised Learning
 
 # 🔥 News
-- [**2025.06**] Two of our journal work [[DeepShield](https://ieeexplore.ieee.org) & [FakeRadar](https://openaccess.thecvf.com)] are accepted by **ICCV 2025**. Congrats to Yinqi and Zhaolun!
+- [**2025.06**] Two of our conference work [[DeepShield](https://ieeexplore.ieee.org) & [FakeRadar](https://openaccess.thecvf.com)] are accepted by **ICCV 2025**. Congrats to Yinqi and Zhaolun!
 - [**2025.02**] One of our journal work [[DECO](https://ieeexplore.ieee.org/abstract/document/10871924)] is accepted by **IEEE TIP2025**. Congrats to Junye!
 - [**2024.08**] Jichang has passed his PhD dissertation defense.  Congrats to Dr. LI!
 - [**2024.02**] Two of our conference work [[LBP](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf) & [AlignSAM](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)] are accepted by **CVPR2024**.  Congrats to Jiaming and Duojun!
