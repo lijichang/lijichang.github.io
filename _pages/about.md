@@ -142,7 +142,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (IEEE/ACM 
 ### Preprint
 
 - **Style-Preserving Lip Sync via Audio-Aware Style Reference**  
-Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Liang Lin, and Guanbin Li  
+Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Guanbin Li  
 [[ArXiv]](https://arxiv.org/abs/2408.05412)
 
 
