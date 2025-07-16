@@ -35,7 +35,8 @@ redirect_from:
 
 # Educations
 - [**2020.09 - 2024.11**] PhD in computer science, The University of Hong Kong, Hong Kong  
-- [**2017.09 - 2020.06**] MEng in computer technology, South China University of Technology, Guangzhou  
+- [**2017.09 - 2020.06**] MEng in computer technology, South China University of Technology, Guangzhou
+- [**2013.09 - 2017.06**] BEng in communication engineering, South China Normal University, Guangzhou  
 
 
 # Experiences
