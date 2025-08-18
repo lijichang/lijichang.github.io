@@ -156,7 +156,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 # Professional Services
 
-- **Conference reviewers**  
+- **Conference program committee/reviewers**  
   The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024/2025  
   The IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
   The European Conference on Computer Vision (ECCV), 2024  
@@ -168,7 +168,8 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
   IEEE Transactions on Multimedia (TMM), 2024  
   IEEE/ASME Transactions on Mechatronics, 2024  
-  IEEE Transactions on Big Data (TBD), 2025  
+  IEEE Transactions on Big Data (TBD), 2025
+  IEEE Transactions on Mobile Computing (TMC), 2025  
   Information Sciences, 2023/2024    
   The Visual Computer, 2021  
 
