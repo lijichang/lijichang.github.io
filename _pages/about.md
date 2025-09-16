@@ -18,40 +18,15 @@ redirect_from:
  
 
 
-#### Experiences
+# Experiences
 - Assistant Researcher,  **Pengcheng Laboratory**, 2024-present  
 - Research intern,  **Pengcheng Laboratory**, 2024  
 - Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, 2020-2024  
 - Research intern,  **Zhejiang Lab**, 2023  
 - Exchange student,  **BGI Research**, 2016  
 
-#### Selected Honors and Awards
-- HKU Postgraduate Scholarship, 2020-2024    
-- National Scholarship for Postgraduates (top 1), 2020  
 
-#### Professional Services
-
-- **Conference program committee/reviewers**  
-  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024/2025  
-  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
-  European Conference on Computer Vision (ECCV), 2024  
-  AAAI Conference on Artificial Intelligence (AAAI), 2025  
-  Asian Conference on Computer Vision (ACCV), 2024  
-  British Machine Vision Conference (BMVC), 2022  
-  
-- **Journal reviewers**  
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024/2025  
-  IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
-  IEEE Transactions on Multimedia (TMM), 2024  
-  IEEE/ASME Transactions on Mechatronics, 2024  
-  IEEE Transactions on Big Data (TBD), 2025  
-  IEEE Transactions on Mobile Computing (TMC), 2025  
-  Information Sciences, 2023/2024    
-  The Visual Computer, 2021  
-
-
-
-## 📝 Publications 
+# 📝 Publications 
 
 ### Conference
 
@@ -154,6 +129,32 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 - **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**  
 **<u>Jichang Li</u>**  
 [[OFFICIAL]](https://hub.hku.hk/handle/10722/352677)
+
+
+
+# Selected Honors and Awards
+- HKU Postgraduate Scholarship, 2020-2024    
+- National Scholarship for Postgraduates (top 1), 2020  
+
+# Professional Services
+
+- **Conference program committee/reviewers**  
+  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024/2025  
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
+  European Conference on Computer Vision (ECCV), 2024  
+  AAAI Conference on Artificial Intelligence (AAAI), 2025  
+  Asian Conference on Computer Vision (ACCV), 2024  
+  British Machine Vision Conference (BMVC), 2022  
+  
+- **Journal reviewers**  
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024/2025  
+  IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
+  IEEE Transactions on Multimedia (TMM), 2024  
+  IEEE/ASME Transactions on Mechatronics, 2024  
+  IEEE Transactions on Big Data (TBD), 2025  
+  IEEE Transactions on Mobile Computing (TMC), 2025  
+  Information Sciences, 2023/2024    
+  The Visual Computer, 2021  
 
 
 
