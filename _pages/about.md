@@ -20,12 +20,8 @@ redirect_from:
 
 
 # Educations
-- [2020-2024], **Doctorate of Philosophy (PhD)**  
-  _Major in_ Computer Science  
-  The University of Hong Kong     
-- [2017-2020], **Master of Engineering (MEng)**  
-  _Major in_ Computer Technology  
-  South China University of Technology  
+- [2020-2024], **Doctorate of Philosophy (PhD)**, Computer Science, The University of Hong Kong     
+- [2017-2020], **Master of Engineering (MEng)**, Computer Technology, South China University of Technology  
 
 # Experiences
 - **Assistant Researcher**,  Pengcheng Laboratory, 2024-2025  
