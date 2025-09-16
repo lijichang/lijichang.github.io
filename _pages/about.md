@@ -132,9 +132,6 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 
 
-# Selected Honors and Awards
-- HKU Postgraduate Scholarship, 2020-2024    
-- National Scholarship for Postgraduates (top 1), 2020  
 
 # Professional Services
 
@@ -157,5 +154,8 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   The Visual Computer, 2021  
 
 
+# Selected Honors and Awards
+- HKU Postgraduate Scholarship, 2020-2024    
+- National Scholarship for Postgraduates (top 1), 2020  
 
 
