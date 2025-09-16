@@ -19,16 +19,15 @@ redirect_from:
 
 
 # Experiences
-- Assistant Researcher,  **Pengcheng Laboratory**, 2024-  
+- Assistant Researcher,  **Pengcheng Laboratory**, 2024-present  
 - Research intern,  **Pengcheng Laboratory**, 2024  
 - Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, 2020-2024  
 - Research intern,  **Zhejiang Lab**, 2023  
 - Exchange student,  **BGI Research**, 2016  
 
 # Selected Honors and Awards
-- [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong  
-- [**2020**] National Scholarship for Postgraduates (top 1), Ministry of Education, China  
-
+- HKU Postgraduate Scholarship, 2020-2024    
+- National Scholarship for Postgraduates (top 1), 2020  
 
 # Professional Services
 
