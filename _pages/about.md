@@ -135,11 +135,12 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 # Professional Services
 
 - **Conference program committee/reviewers**  
-  The IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024/2025  
-  The IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
-  The European Conference on Computer Vision (ECCV), 2024  
-  The Asian Conference on Computer Vision (ACCV), 2024  
-  The British Machine Vision Conference (BMVC), 2022  
+  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024/2025  
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
+  European Conference on Computer Vision (ECCV), 2024  
+  AAAI Conference on Artificial Intelligence (AAAI), 2025  
+  Asian Conference on Computer Vision (ACCV), 2024  
+  British Machine Vision Conference (BMVC), 2022  
   
 - **Journal reviewers**  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024/2025  
