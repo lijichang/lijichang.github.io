@@ -19,11 +19,11 @@ redirect_from:
 
 
 # Experiences
-- Assistant Researcher,  **Pengcheng Laboratory**, 2024-present  
-- Research intern,  **Pengcheng Laboratory**, 2024  
-- Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, 2020-2024  
-- Research intern,  **Zhejiang Lab**, 2023  
-- Exchange student,  **BGI Research**, 2016  
+- **Assistant Researcher**,  Pengcheng Laboratory, 2024-present  
+- **Research intern**,  Pengcheng Laboratory, 2024  
+- **Teaching Assistant**, The University of Hong Kong, 2020-2024  
+- **Research intern**,  Zhejiang Lab, 2023  
+- **Exchange student**,  BGI Research, 2016  
 
 
 # 📝 Publications 
