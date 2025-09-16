@@ -20,11 +20,11 @@ redirect_from:
 
 
 # Educations
-- [2020-2024], **Doctorate of Philosophy (PhD)**
-  Major in _Computer Science_  
+- [2020-2024], **Doctorate of Philosophy (PhD)**  
+  _Major in_ Computer Science  
   The University of Hong Kong     
-- [2017-2020], **Master of Engineering (MEng)**,
-  Major in _Computer Technology_
+- [2017-2020], **Master of Engineering (MEng)**  
+  _Major in_ Computer Technology  
   South China University of Technology  
 
 # Experiences
