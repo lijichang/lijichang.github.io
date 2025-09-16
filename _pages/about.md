@@ -19,7 +19,7 @@ redirect_from:
 
 
 # Experiences
-- **Assistant Researcher**,  Pengcheng Laboratory, 2024-present  
+- **Assistant Researcher**,  Pengcheng Laboratory, 2024-2025  
 - **Research intern**,  Pengcheng Laboratory, 2024  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 - **Research intern**,  Zhejiang Lab, 2023  
