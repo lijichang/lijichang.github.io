@@ -18,9 +18,9 @@ redirect_from:
 
 
 # Educations
-- [**2020 - 2024**] PhD in computer science, The University of Hong Kong, Hong Kong  
-- [**2017 - 2020**] MEng in computer technology, South China University of Technology, Guangzhou
-- [**2013 - 2017**] BEng in communication engineering, South China Normal University, Guangzhou  
+- **PhD** in computer science, The University of Hong Kong  
+- **MEng** in computer technology, South China University of Technology  
+- **BEng** in communication engineering, South China Normal University  
 
 
 # Experiences
@@ -152,7 +152,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
   IEEE Transactions on Multimedia (TMM), 2024  
   IEEE/ASME Transactions on Mechatronics, 2024  
-  IEEE Transactions on Big Data (TBD), 2025
+  IEEE Transactions on Big Data (TBD), 2025  
   IEEE Transactions on Mobile Computing (TMC), 2025  
   Information Sciences, 2023/2024    
   The Visual Computer, 2021  
