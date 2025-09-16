@@ -18,18 +18,18 @@ redirect_from:
  
 
 
-# Experiences
+### Experiences
 - Assistant Researcher,  **Pengcheng Laboratory**, 2024-present  
 - Research intern,  **Pengcheng Laboratory**, 2024  
 - Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, 2020-2024  
 - Research intern,  **Zhejiang Lab**, 2023  
 - Exchange student,  **BGI Research**, 2016  
 
-# Selected Honors and Awards
+### Selected Honors and Awards
 - HKU Postgraduate Scholarship, 2020-2024    
 - National Scholarship for Postgraduates (top 1), 2020  
 
-# Professional Services
+### Professional Services
 
 - **Conference program committee/reviewers**  
   IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023/2024/2025  
