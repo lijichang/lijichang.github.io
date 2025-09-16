@@ -17,12 +17,6 @@ redirect_from:
 > - Weakly-supervised Learning
  
 
-# Experiences
-- [**2024 - present**] Assistant Researcher,  **Pengcheng Laboratory**, Shenzhen  
-- [**2024 - 2024**] Research intern,  **Pengcheng Laboratory**, Shenzhen  
-- [**2020 - 2024**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong  
-- [**2023 - 2023**] Research intern,  **Zhejiang Lab**, Hangzhou  
-- [**2016 - 2016**] Exchange student,  **BGI Research**, Shenzhen  
 
 
 
@@ -152,6 +146,13 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   Information Sciences, 2023/2024    
   The Visual Computer, 2021  
 
+
+# Experiences
+- [**2024 - present**] Assistant Researcher,  **Pengcheng Laboratory**, Shenzhen  
+- [**2024**] Research intern,  **Pengcheng Laboratory**, Shenzhen  
+- [**2020 - 2024**] Teaching Assistant,  **Department of Computer Science, The University of Hong Kong**, Hong Kong  
+- [**2023**] Research intern,  **Zhejiang Lab**, Hangzhou  
+- [**2016**] Exchange student,  **BGI Research**, Shenzhen  
 
 # Selected Honors and Awards
 - [**2020 - 2024**] HKU Postgraduate Scholarship, The University of Hong Kong, Hong Kong  
