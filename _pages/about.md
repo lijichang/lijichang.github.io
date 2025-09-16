@@ -18,10 +18,10 @@ redirect_from:
 
 
 # Educations
-- **PhD** in computer science, The University of Hong Kong  
-- **MEng** in computer technology, South China University of Technology  
-- **BEng** in communication engineering, South China Normal University  
-
+- **PhD**  
+Computer Science, The University of Hong Kong  
+- **MEng**  
+Computer Technology, South China University of Technology  
 
 # Experiences
 - [**2024 - present**] Assistant Researcher,  **Pengcheng Laboratory**, Shenzhen  
