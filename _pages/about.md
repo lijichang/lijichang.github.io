@@ -15,13 +15,7 @@ redirect_from:
 > - Embodied AI  
 > - Visual Content Understanding  
 > - Weakly-supervised Learning
-
-
-# Educations
-- **PhD**  
-Computer Science, The University of Hong Kong  
-- **MEng**  
-Computer Technology, South China University of Technology  
+ 
 
 # Experiences
 - [**2024 - present**] Assistant Researcher,  **Pengcheng Laboratory**, Shenzhen  
