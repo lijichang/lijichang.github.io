@@ -35,13 +35,30 @@ redirect_from:
 
 ### Conference
 
+- **Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation**  
+Yuxiang_Zhou, **<u>Jichang Li</u>**, Yanhao Zhang, Haonan Lu, Guanbin Li  
+The Fortieth AAAI Conference on Artificial Intelligence, 2025 (AAAI2025)  
+
+
+
 - **DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**  
 Yinqi Cai, **<u>Jichang Li</u>**, Zhaolun Li, Weikai Chen, Rushi Lan, Xi Xie, Xiaonan Luo, Guanbin Li    
 International Conference on Computer Vision, 2025 (ICCV2025)  
+[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.html)
+[[ArXiv]](https://arxiv.org/abs/2510.25237)
+[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.pdf)
+[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Cai_DeepShield_Fortifying_Deepfake_ICCV_2025_supplemental.pdf)   
+
+
+
 
 - **FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**  
 Zhaolun Li, **<u>Jichang Li</u>**, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, Rushi Lan  
 International Conference on Computer Vision, 2025 (ICCV2025)  
+[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html)
+[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.pdf)
+[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FakeRadar_Probing_Forgery_ICCV_2025_supplemental.pdf)   
+
 
 
 - **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
