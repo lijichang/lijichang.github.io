@@ -38,8 +38,7 @@ redirect_from:
 - **Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation**  
 Yuxiang Zhou, **<u>Jichang Li</u>**, Yanhao Zhang, Haonan Lu, and Guanbin Li  
 The Fortieth AAAI Conference on Artificial Intelligence, 2026 (AAAI2026)   
-[[ArXiv]](https://arxiv.org/abs/2510.25237)[[CODE]](https://github.com/george13zyx/MAR/archive/refs/heads/main.zip)
-[[SUPP]](https://github.com/george13zyx/MAR/blob/main/Supplementary/supplementary.pdf)
+[[ArXiv]](https://arxiv.org/abs/2510.25237)[[CODE]](https://github.com/george13zyx/MAR/archive/refs/heads/main.zip)[[SUPP]](https://github.com/george13zyx/MAR/blob/main/Supplementary/supplementary.pdf)
 
 
 
@@ -48,10 +47,8 @@ The Fortieth AAAI Conference on Artificial Intelligence, 2026 (AAAI2026)
 - **DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**  
 Yinqi Cai, **<u>Jichang Li</u>**, Zhaolun Li, Weikai Chen, Rushi Lan, Xi Xie, Xiaonan Luo, and Guanbin Li    
 International Conference on Computer Vision, 2025 (ICCV2025)  
-[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.html)
-[[ArXiv]](https://arxiv.org/abs/2510.25237)
-[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.pdf)
-[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Cai_DeepShield_Fortifying_Deepfake_ICCV_2025_supplemental.pdf)   
+[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.html)[[ArXiv]](https://arxiv.org/abs/2510.25237)
+[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.pdf)[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Cai_DeepShield_Fortifying_Deepfake_ICCV_2025_supplemental.pdf)   
 
 
 
@@ -59,18 +56,14 @@ International Conference on Computer Vision, 2025 (ICCV2025)
 - **FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**  
 Zhaolun Li, **<u>Jichang Li</u>**, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, and Rushi Lan  
 International Conference on Computer Vision, 2025 (ICCV2025)  
-[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html)
-[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.pdf)
-[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FakeRadar_Probing_Forgery_ICCV_2025_supplemental.pdf)   
+[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html)[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.pdf)[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FakeRadar_Probing_Forgery_ICCV_2025_supplemental.pdf)   
 
 
 
 - **Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**  
 Jiaming Li, Jiacheng Zhang, **<u>Jichang Li</u>**, Ge Li, Si Liu, Liang Lin, and Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
-[[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf)
-[[ArXiv]](https://arxiv.org/abs/2406.00510)
-[[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Learning_Background_Prompts_CVPR_2024_supplemental.pdf)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/CVPR2024_LBP.bib)
+[[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Background_Prompts_to_Discover_Implicit_Knowledge_for_Open_Vocabulary_CVPR_2024_paper.pdf)[[ArXiv]](https://arxiv.org/abs/2406.00510)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Learning_Background_Prompts_CVPR_2024_supplemental.pdf)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/CVPR2024_LBP.bib)
 
 
 - **AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning**  
