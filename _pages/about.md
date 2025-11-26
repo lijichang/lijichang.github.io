@@ -44,8 +44,7 @@ The Fortieth AAAI Conference on Artificial Intelligence, 2026 (AAAI2026)
 - **DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**  
 Yinqi Cai, **<u>Jichang Li</u>**, Zhaolun Li, Weikai Chen, Rushi Lan, Xi Xie, Xiaonan Luo, and Guanbin Li    
 International Conference on Computer Vision, 2025 (ICCV2025)  
-[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.html)[[ArXiv]](https://arxiv.org/abs/2510.25237)
-[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.pdf)[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Cai_DeepShield_Fortifying_Deepfake_ICCV_2025_supplemental.pdf)   
+[[OFFICIAL]](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.html)[[ArXiv]](https://arxiv.org/abs/2510.25237)[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.pdf)[[SUPP]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Cai_DeepShield_Fortifying_Deepfake_ICCV_2025_supplemental.pdf)   
 
 
 
@@ -67,9 +66,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
 Duojun Huang, Xinyu Xiong, Jie Ma, **<u>Jichang Li</u>**, Zequn Jie, Lin Ma, and Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
-[[ArXiv]](https://arxiv.org/abs/2406.00480)
-[[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Huang_AlignSAM_Aligning_Segment_CVPR_2024_supplemental.pdf)
-[[CODE]](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/CVPR2024_AlignSAM.bib)
+[[ArXiv]](https://arxiv.org/abs/2406.00480)[[SUPP]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Huang_AlignSAM_Aligning_Segment_CVPR_2024_supplemental.pdf)[[CODE]](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/CVPR2024_AlignSAM.bib)
 
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
 **<u>Jichang Li</u>**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
