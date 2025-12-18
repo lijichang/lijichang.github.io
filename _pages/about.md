@@ -45,7 +45,7 @@ International Conference on Computer Vision, 2025 (ICCV2025)
 - **FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**  
 Zhaolun Li, **<u>Jichang Li</u>**, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, and Rushi Lan  
 International Conference on Computer Vision, 2025 (ICCV2025)  
-[[Official]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html)[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.pdf)[[Supp]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FakeRadar_Probing_Forgery_ICCV_2025_supplemental.pdf)   
+[[Official]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html)[[ArXiv]](https://arxiv.org/abs/2512.14601)[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.pdf)[[Supp]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FakeRadar_Probing_Forgery_ICCV_2025_supplemental.pdf)   
 
 
 
