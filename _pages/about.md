@@ -33,6 +33,10 @@ redirect_from:
 ### Conference
 
 
+- **Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation**  
+Yuxiang Zhou, **<u>Jichang Li</u>**, Yanhao Zhang, Haonan Lu, and Guanbin Li    
+The Fortieth AAAI Conference on Artificial Intelligence, 2026 (AAAI2026)  
+[[Project]](https://george13zyx.github.io/projects/mar)[[ArXiv]](https://arxiv.org/abs/2511.12254)[[Code]](https://github.com/george13zyx/MAR)   
 
 - **DeepShield: Fortifying Deepfake Video Detection with Local and Global Forgery Analysis**  
 Yinqi Cai, **<u>Jichang Li</u>**, Zhaolun Li, Weikai Chen, Rushi Lan, Xi Xie, Xiaonan Luo, and Guanbin Li    
