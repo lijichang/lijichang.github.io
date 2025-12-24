@@ -157,6 +157,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023/2024/2025  
   IEEE Transactions on Image Processing (TIP), 2023/2024/2025  
   IEEE Transactions on Multimedia (TMM), 2024  
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025  
   IEEE/ASME Transactions on Mechatronics, 2024  
   IEEE Transactions on Big Data (TBD), 2025  
   IEEE Transactions on Mobile Computing (TMC), 2025  
