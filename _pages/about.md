@@ -30,10 +30,10 @@ redirect_from:
 
 # 📝 Publications 
 
-<p style="font-size: 0.85em; color: #666; margin-top: 5px;">
-    <i>✉ Corresponding author; * Equal contribution</i>
-</p>
 
+<p style="font-size: 0.9em; color: #C00000; font-weight: bold; text-align: left;">
+    ✉ Corresponding author; * Equal contribution
+</p>
 
 ### Conference
 
