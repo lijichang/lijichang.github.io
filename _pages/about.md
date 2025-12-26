@@ -20,7 +20,9 @@ redirect_from:
 > - Weakly-supervised Learning
 >     -  semi-supervised learning, learning with noisy labels, domain adaptation, active leanring, etc.
 > - Machine Learning
->     - reinforcement learning, federated learning, etc.  
+>     - reinforcement learning, federated learning, etc.
+> - Others
+>     - 3D spatial understanding, physical reasoning, etc.
  
 
 
