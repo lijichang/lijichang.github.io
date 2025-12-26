@@ -11,12 +11,12 @@ redirect_from:
 > - Jichang is currently an assistant researcher at Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, in Shenzhen, led by [Prof Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), the [University of Hong Kong (HKU)](https://www.hku.hk/), kindly supervised by [Prof Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (IEEE/ACM Fellow) and closely worked with [Prof Guanbin Li](http://guanbinli.com/) (from Sun Yat-sen University). Prior to HKU, Jichang received his MEng degree in computer technology at South China University of Technology, advised by [Prof Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof  Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 > 
 > ### Research interests
-> - **Agentic Vision**<br>&nbsp;&nbsp;&nbsp;&nbsp;- agentic learning, mobile automation, etc.
-> - **Embodied AI**<br>&nbsp;&nbsp;&nbsp;&nbsp;- robotic learning from human demonstration, etc.
-> - **Visual Content Understanding**<br>&nbsp;&nbsp;&nbsp;&nbsp;- object detection, deepfake detection, vision-language models, 3D reconstruction, etc.
-> - **Weakly-supervised Learning**<br>&nbsp;&nbsp;&nbsp;&nbsp;- semi-supervised learning, learning with noisy labels, domain adaptation, active leanring, etc.
-> - **Machine Learning**<br>&nbsp;&nbsp;&nbsp;&nbsp;- reinforcement learning, federated learning, etc.
-> - **Others**<br>&nbsp;&nbsp;&nbsp;&nbsp;- 3D spatial understanding, physical reasoning, etc.
+> - **Agentic Vision** (agentic learning, mobile automation, etc.)
+> - **Embodied AI** (robotic learning from human demonstration, etc.)
+> - **Visual Content Understanding** (object detection, deepfake detection, vision-language models, 3D reconstruction, etc.)
+> - **Weakly-supervised Learning** (semi-supervised learning, learning with noisy labels, domain adaptation, active leanring, etc.)
+> - **Machine Learning** (reinforcement learning, federated learning, etc.)
+> - **Others** (3D spatial understanding, physical reasoning, etc.)
 
 
 # Educations
