@@ -12,7 +12,7 @@ redirect_from:
 > 
 > ### Research interests
 > - Agentic Vision (agentic learning, mobile automation, etc.)  
-> - Embodied AI (Robotic Learning from Human Demonstration, etc.) 
+> - Embodied AI (robotic learning from human demonstration, etc.) 
 > - Visual Content Understanding (object detection, deepfake detection, vision-language models, 3D reconstruction, etc.)  
 > - Weakly-supervised Learning (semi-supervised learning, learning with noisy labels, domain adaptation, active leanring, etc.)  
 > - Machine Learning (reinforcement learning, federated learning, etc.)  
