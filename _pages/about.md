@@ -25,6 +25,12 @@ redirect_from:
 >     - 3D spatial understanding, physical reasoning, etc.
  
 
+> - **Agentic Vision**<br>&emsp;&emsp;- agentic learning, mobile automation, etc.
+> - **Embodied AI**<br>&emsp;&emsp;- robotic learning from human demonstration, etc.
+> - **Visual Content Understanding**<br>&emsp;&emsp;- object detection, deepfake detection, vision-language models, 3D reconstruction, etc.
+> - **Weakly-supervised Learning**<br>&emsp;&emsp;- semi-supervised learning, learning with noisy labels, domain adaptation, active leanring, etc.
+> - **Machine Learning**<br>&emsp;&emsp;- reinforcement learning, federated learning, etc.
+> - **Others**<br>&emsp;&emsp;- 3D spatial understanding, physical reasoning, etc.
 
 
 # Educations
@@ -39,7 +45,7 @@ redirect_from:
 # 📝 Publications 
 
 
-**<span style="color:red; font-size: 18px; font-weight: bold;">( * Equal contribution; ✉ Corresponding author )</span>**
+**<span style="color:red; font-size: 13px; font-weight: bold;">( * Equal contribution; ✉ Corresponding author )</span>**
 
 ### Conference
 
