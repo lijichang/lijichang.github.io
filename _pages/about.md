@@ -66,12 +66,12 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)
 Duojun Huang, Xinyu Xiong, Jie Ma, **<u>Jichang Li</u>**, Zequn Jie, Lin Ma, and Guanbin Li  
 The IEEE Conference on Computer Vision and Pattern Recognition, 2024 (CVPR2024)  
 [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
-[[ArXiv]](https://arxiv.org/abs/2406.00480)[[Supp]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Huang_AlignSAM_Aligning_Segment_CVPR_2024_supplemental.pdf)[[Code]](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/CVPR2024_AlignSAM.bib)
+[[ArXiv]](https://arxiv.org/abs/2406.00480)[[Supp]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Huang_AlignSAM_Aligning_Segment_CVPR_2024_supplemental.pdf)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/CVPR2024_AlignSAM.bib)
 
 - **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**  
 **<u>Jichang Li</u>**, Guanbin Li, Hui Cheng, Zicheng Liao, and Yizhou Yu  
 The Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 (AAAI2024)  
-[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28095/28195)[[ArXiv]](http://arxiv.org/abs/2312.12263)[[Full]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)[[Supp]](https://github.com/lijichang/FLNL-FedDiv/blob/main/supp.pdf)[[Code]](https://github.com/lijichang/FLNL-FedDiv)[[Official]](https://ojs.aaai.org/index.php/AAAI/article/view/28095)[[Code]](https://github.com/lijichang/FLNL-FedDiv)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/AAAI2024_FLNL.bib)  
+[[Official]](https://ojs.aaai.org/index.php/AAAI/article/view/28095)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28095/28195)[[ArXiv]](http://arxiv.org/abs/2312.12263)[[Full]](https://github.com/lijichang/FLNL-FedDiv/blob/main/full%20paper.pdf)[[Supp]](https://github.com/lijichang/FLNL-FedDiv/blob/main/supp.pdf)[[BibTex]](https://github.com/lijichang/website/blob/main/bibtex/AAAI2024_FLNL.bib)  
 
 
 - **Divide and Adapt: Active Domain Adaptation via Customized Learning**  
