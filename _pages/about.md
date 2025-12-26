@@ -31,11 +31,7 @@ redirect_from:
 # 📝 Publications 
 
 
-<div style="text-align: left; margin: 10px 0;">
-    <span style="color: #C00000 !important; font-weight: bold !important; font-size: 0.9em;">
-        ✉ Corresponding author; * Equal contribution
-    </span>
-</div>
+**<span style="color:red"><sup>✉</sup> Corresponding author; <sup>&dagger;</sup> Equal contribution</span>**
 
 ### Conference
 
