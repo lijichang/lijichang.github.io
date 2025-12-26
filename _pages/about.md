@@ -31,7 +31,7 @@ redirect_from:
 # 📝 Publications 
 
 
-**<span style="color:red"><sup>✉</sup> Corresponding author; <sup>&dagger;</sup> Equal contribution</span>**
+**<span style="color:red">✉ Corresponding author; * Equal contribution</span>**
 
 ### Conference
 
