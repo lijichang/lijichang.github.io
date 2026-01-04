@@ -12,10 +12,10 @@ redirect_from:
 > 
 > 
 > ### Research interests
-> - **Agentic Vision**
-> - **Embodied AI**
-> - **Visual Content Understanding**
-> - **Weakly-supervised Learning** 
+> - Agentic Vision
+> - Embodied AI
+> - Visual Content Understanding
+> - Weakly-supervised Learning  
 
 
 # Educations
