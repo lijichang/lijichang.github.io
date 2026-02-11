@@ -21,6 +21,7 @@ redirect_from:
 # Educations
 - **Doctorate of Philosophy (PhD)** in Computer Science, The University of Hong Kong, 2020-2024     
 - **Master of Engineering (MEng)** in Computer Technology, South China University of Technology, 2017-2020  
+- **Bachelor of Engineering (BEng)** in Communication Engineering, South China Normal University, 2013-2017  
 
 # Experiences
 - **Assistant Researcher**,  Pengcheng Laboratory, 2024-2026  
