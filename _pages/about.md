@@ -177,7 +177,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 
 # Selected Honors and Awards
-- Shenzhen Specially Appointed Positions for Introduced Talents（深圳市高层次专业人才特别聘用岗位）, 2025    
+- Shenzhen Specially Appointed Positions for Introduced Talents, 2025    
 - Outstanding Reviewer, [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee)  
 - HKU Postgraduate Scholarship, 2020-2024    
 - National Scholarship for Postgraduates (top 1), 2020  
