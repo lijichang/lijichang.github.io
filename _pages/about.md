@@ -153,14 +153,6 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 # Professional Services
 
-- **Conference program committee/reviewers**  
-  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023-2026    
-  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
-  European Conference on Computer Vision (ECCV), 2024/2026  
-  AAAI Conference on Artificial Intelligence (AAAI), 2025/2026  
-  British Machine Vision Conference (BMVC), 2022/2026  
-  Asian Conference on Computer Vision (ACCV), 2024  
-  
   
 - **Journal reviewers**  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023-2026  
@@ -176,10 +168,20 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   The Visual Computer, 2021  
 
 
+- **Conference program committee/reviewers**  
+  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023-2026    
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
+  European Conference on Computer Vision (ECCV), 2024/2026  
+  AAAI Conference on Artificial Intelligence (AAAI), 2025/2026  
+  British Machine Vision Conference (BMVC), 2022/2026  
+  Asian Conference on Computer Vision (ACCV), 2024  
+  
+
+
 # Selected Honors and Awards
 - Shenzhen Specially Appointed Positions for Introduced Talents, 2025    
 - Outstanding Reviewer, [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee)  
 - HKU Postgraduate Scholarship, 2020-2024    
-- National Scholarship for Postgraduates (top 1), 2020  
+- National Scholarship for Postgraduates (Top 1), 2020  
 
 
