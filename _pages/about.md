@@ -17,7 +17,7 @@ redirect_from:
 > - Visual Content Understanding
 > - Weakly-supervised Learning  
 
-
+---
 # Educations
 - **Doctorate of Philosophy (PhD)** in Computer Science, The University of Hong Kong, 2020-2024     
 - **Master of Engineering (MEng)** in Computer Technology, South China University of Technology, 2017-2020  
@@ -26,7 +26,7 @@ redirect_from:
 # Experiences
 - **Assistant Researcher**,  Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
-
+---
 
 # 📝 Publications 
 
