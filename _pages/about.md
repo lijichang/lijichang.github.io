@@ -145,7 +145,7 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 ### PhD Thesis
 
-- **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**  
+- **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**
 **<u>Jichang Li</u>**  
 [[Official]](https://hub.hku.hk/handle/10722/352677)
 
