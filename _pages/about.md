@@ -161,8 +161,8 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
   IEEE Transactions on Multimedia (TMM), 2024  
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025  
   IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026  
-  IEEE Transactions on Artificial Intelligence (TAI), 2025-2026
-  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026  
+  IEEE Transactions on Artificial Intelligence (TAI), 2025-2026  
+  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026   
   IEEE/ASME Transactions on Mechatronics, 2024  
   IEEE Transactions on Big Data (TBD), 2025  
   IEEE Transactions on Mobile Computing (TMC), 2025  
@@ -183,6 +183,6 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 # Selected Honors and Awards
 - Shenzhen Specially Appointed Positions for Introduced Talents, 2025    
-- [ICCV Outstanding Reviewer](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee), 2025  
+- Outstanding Reviewer, [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee)    
 - HKU Postgraduate Scholarship, 2020-2024    
 - National Scholarship for Postgraduates (Top 1), 2020  
