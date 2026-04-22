@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 > ### Short Bio
 > - Dr. Jichang Li is currently an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, in Shenzhen, led by [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he obtained his PhD degree at the [Department of Computer Science (CS)](https://www.cs.hku.hk/), [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow) and worked closely with [Prof. Guanbin Li](http://guanbinli.com/). Prior to HKU, Jichang received his MEng degree in computer technology at South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).  
 > 
