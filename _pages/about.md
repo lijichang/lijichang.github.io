@@ -104,8 +104,10 @@ The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)�
 
 ### Journal
 
-- **Benefiting from OOD Samples in Open-Set Semi-Supervised Object Detection**  
+- **Benefiting from OOD Samples in Open-Set Semi-Supervised Object Detection**
+  
 Yiqi Zou, Kuo Wang, **<u>Jichang Li</u>****\***, Chuan Wang, Shuangyin Liu\*, Liang Lin, and Guanbin Li\*   
+
 IEEE Transactions on Neural Networks and Learning Systems, 2026 (IEEE TNNLS2026)  
 
 - **Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal**  
