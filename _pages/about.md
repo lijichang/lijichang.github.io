@@ -44,7 +44,7 @@ redirect_from:
   [[Official]](https://openaccess.thecvf.com/content/ICCV2025/html/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.html)[[ArXiv]](https://arxiv.org/abs/2510.25237)[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_DeepShield_Fortifying_Deepfake_Video_Detection_with_Local_and_Global_Forgery_ICCV_2025_paper.pdf)[[Supp]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Cai_DeepShield_Fortifying_Deepfake_ICCV_2025_supplemental.pdf)[[Code]](https://github.com/lijichang/DeepShield)
 
 - **FakeRadar: Probing Forgery Outliers to Detect Unknown Deepfake Videos**<br>
-  Zhaolun Li, **<u>Jichang Li</u>***, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, and Rushi Lan*<br>
+  Zhaolun Li, **<u>Jichang Li</u>\***, Yinqi Cai, Junye Chen, Xiaonan Luo, Guanbin Li, and Rushi Lan*<br>
   International Conference on Computer Vision, 2025 (ICCV2025)<br>
   [[Official]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.html)[[ArXiv]](https://arxiv.org/abs/2512.14601)[[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FakeRadar_Probing_Forgery_Outliers_to_Detect_Unknown_Deepfake_Videos_ICCV_2025_paper.pdf)[[Supp]](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FakeRadar_Probing_Forgery_ICCV_2025_supplemental.pdf)
 
@@ -91,7 +91,7 @@ redirect_from:
 ### Journal
 
 - **Benefiting from OOD Samples in Open-Set Semi-Supervised Object Detection**<br>
-  Yiqi Zou, Kuo Wang, **<u>Jichang Li</u>***, Chuan Wang, Shuangyin Liu*, Liang Lin, and Guanbin Li*<br>
+  Yiqi Zou, Kuo Wang, **<u>Jichang Li</u>\***, Chuan Wang, Shuangyin Liu*, Liang Lin, and Guanbin Li*<br>
   IEEE Transactions on Neural Networks and Learning Systems, 2026 (IEEE TNNLS2026)
 
 - **Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal**<br>
