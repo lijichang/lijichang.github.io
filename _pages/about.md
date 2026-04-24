@@ -162,3 +162,4 @@ redirect_from:
 - Outstanding Reviewer, [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee)  
 - HKU Postgraduate Scholarship, 2020-2024  
 - National Scholarship for Postgraduates (Top 1), 2020
+- First Prize Scholarship, 2016  
