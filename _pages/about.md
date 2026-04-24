@@ -148,7 +148,7 @@ redirect_from:
   Information Sciences, 2023-2024<br>
   The Visual Computer, 2021
 
-- **Conference program committee members/reviewers**<br>
+- **Conference reviewers/program committee members**<br>
   IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023-2026<br>
   IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025<br>
   European Conference on Computer Vision (ECCV), 2024/2026<br>
