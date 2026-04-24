@@ -24,7 +24,7 @@ redirect_from:
 - **Master of Engineering (MEng)** in Computer Technology, South China University of Technology, 2017-2020  
 
 # Experiences
-- **Assistant Researcher**, Pengcheng Laboratory, 2024-2026  
+- **Assistant Researcher** (with PhD supervision), Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 
 # 📝 Publications 
