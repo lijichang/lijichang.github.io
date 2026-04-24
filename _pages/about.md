@@ -37,7 +37,7 @@ redirect_from:
 
 
 
-- **Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation**  
+- **Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation**    
 Yuxiang Zhou#, **<u>Jichang Li</u>****#**, Yanhao Zhang, Haonan Lu, and Guanbin Li    
 The Fortieth AAAI Conference on Artificial Intelligence, 2026 (AAAI2026)  
 [[Project]](https://george13zyx.github.io/projects/mar)[[Official]](https://ojs.aaai.org/index.php/AAAI/article/view/40241)[[ArXiv]](https://arxiv.org/abs/2511.12254)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/40241/44202)[[Video]](https://underline.io/lecture/139249-mobile-agent-rag-driving-smart-multi-agent-coordination-with-contextual-knowledge-empowerment-for-long-horizon-mobile-automation)[[Code]](https://github.com/george13zyx/MAR)[[BibTex]](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=40241&publicationId=38499)   
@@ -172,13 +172,13 @@ Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Gu
 
 
 - **Conference program committee members/reviewers**  
-  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023-2026    
-  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
-  European Conference on Computer Vision (ECCV), 2024/2026  
-  Annual Conference on Neural Information Processing Systems (NeurIPS), 2026  
-  AAAI Conference on Artificial Intelligence (AAAI), 2025/2026  
-  British Machine Vision Conference (BMVC), 2022/2026  
-  Asian Conference on Computer Vision (ACCV), 2024  
+IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023-2026    
+IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025  
+European Conference on Computer Vision (ECCV), 2024/2026  
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2026  
+AAAI Conference on Artificial Intelligence (AAAI), 2025/2026  
+British Machine Vision Conference (BMVC), 2022/2026  
+Asian Conference on Computer Vision (ACCV), 2024  
   
 
 
