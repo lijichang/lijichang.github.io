@@ -145,7 +145,7 @@ redirect_from:
   IEEE/ASME Transactions on Mechatronics, 2024<br>
   IEEE Transactions on Big Data (TBD), 2025<br>
   IEEE Transactions on Mobile Computing (TMC), 2025<br>
-  Information Sciences, 2023/2024<br>
+  Information Sciences, 2023-2024<br>
   The Visual Computer, 2021
 
 - **Conference program committee members/reviewers**<br>
@@ -153,9 +153,9 @@ redirect_from:
   IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025<br>
   European Conference on Computer Vision (ECCV), 2024/2026<br>
   Annual Conference on Neural Information Processing Systems (NeurIPS), 2026<br>
-  AAAI Conference on Artificial Intelligence (AAAI), 2025/2026<br>
+  AAAI Conference on Artificial Intelligence (AAAI), 2025-2026<br>
   British Machine Vision Conference (BMVC), 2022/2026<br>
-  Asian Conference on Computer Vision (ACCV), 2024
+  Asian Conference on Computer Vision (ACCV), 2024/2026<br>
 
 # Selected Honors and Awards
 - Shenzhen Specially Appointed Positions for Introduced Talents, 2025  
