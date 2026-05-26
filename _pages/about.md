@@ -139,7 +139,7 @@ redirect_from:
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023-2026<br>
   IEEE Transactions on Image Processing (TIP), 2023-2026<br>
   IEEE Transactions on Multimedia (TMM), 2024<br>
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025<br>
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025-2026<br>
   IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026<br>
   IEEE Transactions on Artificial Intelligence (TAI), 2025-2026<br>
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026<br>
