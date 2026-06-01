@@ -159,7 +159,6 @@ redirect_from:
   Asian Conference on Computer Vision (ACCV), 2024/2026<br>
 
 # Selected Honors and Awards
-- Shenzhen Specially Appointed Positions for Introduced Talents, 2025  
 - Outstanding Reviewer, [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee)  
 - HKU Postgraduate Scholarship, 2020-2024  
 - National Scholarship for Postgraduates (Top 1), 2020
