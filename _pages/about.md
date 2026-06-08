@@ -19,7 +19,7 @@ redirect_from:
 > - Weakly-supervised Learning
 > 
 > 
->  **<span style="color:red; font-size: 15px; font-weight: bold;">(I am looking for self-motivated **PhD/Master students (for 2027 Fall intake)** and **Postdocs/RAs** to join my group. We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in Foundation Models, Open-world Learning, and Spatial / Physical / Agentic / Embodied AI. If you are interested, please feel free to reach out via email. </span>**
+>  **<span style="color:red; font-size: 15px; font-weight: bold;">I am looking for self-motivated **PhD/Master students (for 2027 Fall intake)** and **Postdocs/RAs** to join my group. We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in Foundation Models, Open-world Learning, and Spatial / Physical / Agentic / Embodied AI. If you are interested, please feel free to reach out via email. </span>**
 
 
 # Educations
