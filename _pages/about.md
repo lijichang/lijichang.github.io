@@ -14,11 +14,11 @@ redirect_from:
 > 
 > 
 > ### We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in: 
-> - Spatial / Physical / Agentic / Embodied AI
 > - Visual Content Understanding
+> - Spatial / Physical / Agentic / Embodied AI
 > - Open-world Learning
-> - Weakly-supervised Learning
 > - Foundation Models
+> - Weakly-supervised Learning
 > 
 >  📢 **<span style="color:red; font-size: 15px; ">  I am looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
 
