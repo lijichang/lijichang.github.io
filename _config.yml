@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jichang Li"
+title                    : "Jichang Li (李继昌)"
 description              : ""# "From a Researcher to a Scientist."
 repository               : "lijichang/lijichang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jichang LI"
+  name             : "Jichang LI (李继昌)"
   avatar           : "images/lijichang.png"
   bio              : "TT-Assoc./Prof.@SYSU-HCP"
   location         : "Guangzhou, China"
