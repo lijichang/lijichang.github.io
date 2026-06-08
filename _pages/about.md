@@ -13,13 +13,13 @@ redirect_from:
 > 
 > 
 > ### We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in: 
-> - Visual Content Understanding
 > - Spatial / Physical / Agentic / Embodied AI
-> - Open-world Learning
 > - Foundation Models
+> - Visual Content Understanding
+> - Open-world Learning
 > - Weakly-supervised Learning
 > 
->  📢 **<span style="color:red; font-size: 15px; ">  I am looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
+>  📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
 
 
 # Educations
@@ -28,7 +28,7 @@ redirect_from:
 - **Bachelor of Engineering (BEng)** in Communication Engineering, South China Normal University, 2013-2017  
 
 # Experiences
-- **Tenure-track Associate Professor** (with Master/PhD supervision), Sun Yat-sen University, 2026-2026  
+- **Tenure-Track Associate Professor** (with Master/PhD supervision), Sun Yat-sen University, 2026-2026  
 - **Assistant Researcher** (with PhD supervision), Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 
