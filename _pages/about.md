@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 > ### Short Bio
-> -  Dr. Jichang Li is an incoming Tenure-track Associate Professor at the [SYSU-HCP Lab](https://www.sysu-hcp.net/), Sun Yat-sen University, where he is authorized to supervise Master’s and PhD students. He currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD from the Department of Computer Science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his MEng in Computer Technology from the South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
+> -  Dr. Jichang Li is an incoming Tenure-track Associate Professor at the [SYSU-HCP Lab](https://www.sysu-hcp.net/), supervised by [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow), where he is authorized to supervise Master’s and PhD students. He currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD in computer science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his MEng in Computer Technology from the South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
 > 
 > 
 > ### Research interests
@@ -18,7 +18,7 @@ redirect_from:
 > - Visual Content Understanding
 > - Weakly-supervised Learning
 > 
-> - ### 📢 Recruiting: 2027 Fall PhD/Master Students, Postdocs & RAs
+> 
 > - **<span style="color:red; font-size: 15px; font-weight: bold;">(I am looking for self-motivated **PhD/Master students (for 2027 Fall intake)** and **Postdocs/RAs** to join my group. We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in Foundation Models, Open-world Learning, and Spatial / Physical / Agentic / Embodied AI. If you are interested, please feel free to reach out via email. )</span>**
 
 
