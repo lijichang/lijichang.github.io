@@ -147,9 +147,10 @@ redirect_from:
   IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026<br>
   IEEE Transactions on Artificial Intelligence (TAI), 2025-2026<br>
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026<br>
-  IEEE/ASME Transactions on Mechatronics, 2024<br>
   IEEE Transactions on Big Data (TBD), 2025<br>
   IEEE Transactions on Mobile Computing (TMC), 2025<br>
+  IEEE/ASME Transactions on Mechatronics, 2024<br>
+  Pattern Recognition, 2026
   Information Sciences, 2023-2024<br>
   The Visual Computer, 2021
 
