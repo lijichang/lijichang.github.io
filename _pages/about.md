@@ -12,14 +12,14 @@ redirect_from:
 > -  Dr. Jichang Li is an incoming Tenure-Track Associate Professor at [SYSU-HCP Lab](https://www.sysu-hcp.net/), [Sun Yat-sen University](https://cse.sysu.edu.cn/), where he is authorized to supervise Master’s and PhD students. He also currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD of computer science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his MEng in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
 > 
 > 
->  ### 🔬 We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in: 
+> 🔬 **<span style="color:black; font-size: 15px; "> We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in:  </span>**
 > - Spatial / Physical / Agentic / Embodied AI
 > - Foundation Models
 > - Visual Content Understanding
 > - Open-world Learning
 > - Weakly-supervised Learning
 > 
->  ### 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
+> 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
 
 
 # Educations
