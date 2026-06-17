@@ -35,6 +35,8 @@ redirect_from:
 # 📝 Publications 
 
 
+**<span style="color:red; font-size: 15px; font-weight: bold;">( # Equal contribution; * Corresponding author )</span>**
+
 
 ### Conference
 
