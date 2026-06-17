@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 > ### Short Bio
-> -  Dr. Jichang Li will join [SYSU-HCP Lab](https://www.sysu-hcp.net/), as a tenure-track associate professor and a supervisor for PhD and master students, at the School of Computer Science and Engineering, Sun Yat-sen University. He also currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD of computer science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his MEng in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
+> -  Dr. Jichang Li will join [SYSU-HCP Lab](https://www.sysu-hcp.net/), as a tenure-track associate professor and a supervisor for Ph.D. and master students, at the School of Computer Science and Engineering, Sun Yat-sen University. He also currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his Ph.D. of computer science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his M.Eng. degree in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
 > 
 > 
 > 🔬 **<span style="color:black; font-size: 15px; "> We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in:  </span>**
@@ -19,17 +19,17 @@ redirect_from:
 > - Open-world Learning
 > - Weakly-supervised Learning
 > 
-> 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
+> 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated Ph.D./Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
 
 
 # Educations
-- **Doctorate of Philosophy (PhD)** in Computer Science, The University of Hong Kong, 2020-2024      
-- **Master of Engineering (MEng)** in Computer Technology, South China University of Technology, 2017-2020
-- **Bachelor of Engineering (BEng)** in Communication Engineering, South China Normal University, 2013-2017  
+- **Doctorate of Philosophy (Ph.D.)** in Computer Science, The University of Hong Kong, 2020-2024      
+- **Master of Engineering (M.Eng.)** in Computer Technology, South China University of Technology, 2017-2020
+- **Bachelor of Engineering (B.Eng.)** in Communication Engineering, South China Normal University, 2013-2017  
 
 # Experiences
-- **Tenure-Track Associate Professor** (with Master/PhD supervision), Sun Yat-sen University, 2026-2026  
-- **Assistant Researcher** (with PhD supervision), Pengcheng Laboratory, 2024-2026  
+- **Tenure-Track Associate Professor** (with Master/Ph.D. supervision), Sun Yat-sen University, 2026-2026  
+- **Assistant Researcher** (with Ph.D. supervision), Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 
 # 📝 Publications 
@@ -135,7 +135,7 @@ redirect_from:
   Weizhi Zhong, **<u>Jichang Li</u>**, Yinqi Cai, Ming Li, Feng Gao, Liang Lin, Guanbin Li<br>
   [[ArXiv]](https://arxiv.org/abs/2408.05412)
 
-### PhD Thesis
+### Ph.D. Thesis
 
 - **Robust Visual Learning under Imperfection: Navigating Limited Supervision and Label Uncertainty**<br>
   **<u>Jichang Li</u>**<br>
