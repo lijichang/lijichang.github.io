@@ -97,7 +97,10 @@ redirect_from:
 
 - **Benefiting from OOD Samples in Open-Set Semi-Supervised Object Detection**<br>
   Yiqi Zou, Kuo Wang, **<u>Jichang Li</u>\***, Chuan Wang, Shuangyin Liu*, Liang Lin, and Guanbin Li*<br>
-  IEEE Transactions on Neural Networks and Learning Systems, 2026 (IEEE TNNLS2026)
+  IEEE Transactions on Neural Networks and Learning Systems, 2026 (IEEE TNNLS2026)<br>
+  [[Official]](https://ieeexplore.ieee.org/document/11563581)[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11563581)   
+
+  
 
 - **Decouple and Couple: Exploiting Prior Knowledge for Visible Video Watermark Removal**<br>
   Junye Chen, Chaowei Fang, **<u>Jichang Li</u>**, Yicheng Leng, and Guanbin Li<br>
