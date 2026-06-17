@@ -164,6 +164,7 @@ redirect_from:
   Annual Conference on Neural Information Processing Systems (NeurIPS), 2026<br>
   AAAI Conference on Artificial Intelligence (AAAI), 2025-2026<br>
   British Machine Vision Conference (BMVC), 2022/2026<br>
+  The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027<br>
   Asian Conference on Computer Vision (ACCV), 2024/2026<br>
 
 # Selected Honors and Awards
