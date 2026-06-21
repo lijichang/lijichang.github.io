@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 > ### Short Bio
-> -  Dr. Jichang Li will join [SYSU-HCP Lab](https://www.sysu-hcp.net/), as a tenure-track associate professor and a supervisor for Ph.D. and master students, at the School of Computer Science and Engineering, Sun Yat-sen University. He also currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his Ph.D. of computer science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his M.Eng. degree in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
+> -  Dr. Jichang Li will join [SYSU-HCP Lab](https://www.sysu-hcp.net/), as a tenure-track associate professor and a supervisor for Ph.D. and master students, at the School of Computer Science and Engineering ([CSE](https://cse.sysu.edu.cn/)), Sun Yat-sen University ([SYSU](https://www.sysu.edu.cn/)). He also currently serves as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his Ph.D. of computer science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow), and maintained close collaboration with [Prof. Guanbin Li](http://guanbinli.com/). He received his M.Eng. degree in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
 > 
 > 
 > 🔬 **<span style="color:black; font-size: 15px; "> We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in:  </span>**
@@ -28,7 +28,7 @@ redirect_from:
 - **Bachelor of Engineering (B.Eng.)** in Communication Engineering, South China Normal University, 2013-2017  
 
 # Experiences
-- **Tenure-Track Associate Professor** (with Master/Ph.D. supervision), Sun Yat-sen University, 2026-2026  
+- **Associate Professor (Tenure-Track)** (with Master/Ph.D. supervision), Sun Yat-sen University, 2026-2026  
 - **Assistant Researcher** (with Ph.D. supervision), Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 
