@@ -23,8 +23,8 @@ redirect_from:
 
 
 # Experiences
-- **Associate Professor** (**Tenure-Track**, Master/PhD supervisor), Sun Yat-sen University, 2026-2026  
-- **Assistant Researcher** (PhD supervisor), Pengcheng Laboratory, 2024-2026  
+- **Tenure-Track Associate Professor**, Sun Yat-sen University, 2026-2026  
+- **Assistant Researcher**, Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 
 # Educations
