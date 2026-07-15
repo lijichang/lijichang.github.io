@@ -11,7 +11,7 @@ redirect_from:
 > ### Short Bio
 > -  Dr. Jichang Li is currently a Tenure-Track Associate Professor at the School of Computer Science and Engineering (CSE), Sun Yat-sen University (SYSU), where he is affiliated with the [SYSU-HCP Lab](https://www.sysu-hcp.net/). Prior to joining SYSU, he worked as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD in Computer Science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow) and co-supervised by [Prof. Guanbin Li](http://guanbinli.com/). Earlier, he received his M.Eng. degree in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
 > 
-> **Links:** [[SYSU profile (Chinese)]](https://cse.sysu.edu.cn/teacher/); [[HCP profile (Chinese)]](https://www.sysu-hcp.net/faculty/568.html)
+> **Links:** [[SYSU profile (in Chinese)]](https://cse.sysu.edu.cn/teacher/); [[HCP profile (in Chinese)]](https://www.sysu-hcp.net/faculty/568.html)
 > 
 > 🔬 **<span style="color:black; font-size: 15px; "> We focus on cutting-edge research in Computer Vision and Machine Learning, with particular interests in:  </span>**
 > - Spatial / Physical / Agentic / Embodied AI
