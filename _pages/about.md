@@ -145,31 +145,11 @@ redirect_from:
 
 # Professional Services
 
-- **Journal reviewers**<br>
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023-2026<br>
-  IEEE Transactions on Image Processing (TIP), 2023-2026<br>
-  IEEE Transactions on Multimedia (TMM), 2024<br>
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025-2026<br>
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026<br>
-  IEEE Transactions on Artificial Intelligence (TAI), 2025-2026<br>
-  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026<br>
-  IEEE Transactions on Big Data (TBD), 2025<br>
-  IEEE Transactions on Mobile Computing (TMC), 2025<br>
-  IEEE Transactions on Communications (TCOM), 2026<br>
-  IEEE/ASME Transactions on Mechatronics, 2024<br>
-  Pattern Recognition, 2026<br>
-  Information Sciences, 2023-2024<br>
-  The Visual Computer, 2021
+- **Conference Reviewer / Program Committee Member**:
+CVPR (2023–2026), ICCV (2023, 2025), ECCV (2024, 2026), NeurIPS (2026), AAAI (2025–2026), BMVC (2022, 2026), WACV (2027), ACCV (2024, 2026)
 
-- **Conference reviewers/program committee members**<br>
-  IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023-2026<br>
-  IEEE/CVF International Conference on Computer Vision (ICCV), 2023/2025<br>
-  European Conference on Computer Vision (ECCV), 2024/2026<br>
-  Annual Conference on Neural Information Processing Systems (NeurIPS), 2026<br>
-  AAAI Conference on Artificial Intelligence (AAAI), 2025-2026<br>
-  British Machine Vision Conference (BMVC), 2022/2026<br>
-  The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027<br>
-  Asian Conference on Computer Vision (ACCV), 2024/2026<br>
+- **Journal Reviewer**:
+IEEE TPAMI (2023–2026), IEEE TIP (2023–2026), IEEE TMM (2024), IEEE TCSVT (2025–2026), IEEE TNNLS (2026), IEEE TAI (2025–2026), IEEE TKDE (2026), IEEE TBD (2025), IEEE TMC (2025), IEEE TCOM (2026), IEEE/ASME Transactions on Mechatronics (2024), Pattern Recognition (2026), Information Sciences (2023–2024), The Visual Computer (2021)
 
 # Selected Honors and Awards
 - Outstanding Reviewer, [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee)  
