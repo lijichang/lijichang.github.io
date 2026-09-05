@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 > ### Short Bio
-> -  Dr. Jichang Li is currently a Tenure-Track Associate Professor at the School of Computer Science and Engineering (CSE), Sun Yat-sen University (SYSU). Prior to joining SYSU, he worked as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD in Computer Science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow) and co-supervised by [Prof. Guanbin Li](http://guanbinli.com/). Earlier, he received his M.Eng. degree in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
+> -  Dr. Jichang Li is currently an associate professor at the School of Computer Science and Engineering (CSE), Sun Yat-sen University (SYSU). Prior to joining SYSU, he worked as an Assistant Researcher at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory, under the leadership of [Prof. Liang Lin](http://www.linliang.net/) (IEEE Fellow). Previously, he earned his PhD in Computer Science at [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/) (ACM/IEEE Fellow) and co-supervised by [Prof. Guanbin Li](http://guanbinli.com/). Earlier, he received his M.Eng. degree in Computer Technology from South China University of Technology, advised by [Prof. Si Wu](https://scholar.google.com.hk/citations?user=RtkXrnwAAAAJ&hl=en) and [Prof. Zhiwen Yu](https://scholar.google.com/citations?user=uawKm4wAAAAJ&hl=en).
 > 
 
 > 
@@ -24,7 +24,7 @@ redirect_from:
 
 
 # Experiences
-- **Tenure-Track Associate Professor**, Sun Yat-sen University, 2026-2026  
+- **Associate Professor**, Sun Yat-sen University, 2026-2026  
 - **Assistant Researcher**, Pengcheng Laboratory, 2024-2026  
 - **Teaching Assistant**, The University of Hong Kong, 2020-2024  
 
