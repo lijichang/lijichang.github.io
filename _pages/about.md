@@ -21,7 +21,8 @@ redirect_from:
 > - Weakly-supervised Learning
 > 
 > 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2028 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
-> **<span style="color:black; font-size: 15px; "> (2027 FALL入学直博/普博/学硕/专硕招生名额皆已满！) </span>**
+>
+> **<span style="color:black; font-size: 15px; "> (2027 FALL入学直博/普博/学硕/专硕招生名额已满！) </span>**
 
 
 # Experiences
