@@ -20,7 +20,8 @@ redirect_from:
 > - Open-world Learning
 > - Weakly-supervised Learning
 > 
-> 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2027 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
+> 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2028 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
+> **<span style="color🐦‍⬛; font-size: 15px; "> (2027FALL入学直博生或学硕/专硕名额已满！) </span>**
 
 
 # Experiences
