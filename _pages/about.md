@@ -1,4 +1,4 @@
----
+<img width="554" height="300" alt="image" src="https://github.com/user-attachments/assets/81e80384-4007-4498-878b-0edde226ac34" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,7 +21,7 @@ redirect_from:
 > - Weakly-supervised Learning
 > 
 > 📢 **<span style="color:red; font-size: 15px; ">  We are looking for self-motivated PhD/Master students (for 2028 Fall intake) and Postdocs/RAs to join our group. If you are interested, please feel free to reach out via email. </span>**
->
+> - **<span style="color:green; font-size: 15px; "> (For international applicants, we regret that there are no available positions at this time.) </span>**
 
 
 
