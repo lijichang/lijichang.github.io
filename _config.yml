@@ -21,10 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : >-
-                      <span style="display: block; text-align: center;">
-                        JICHANG LI
-                        </span>
+  name             : "JICHANG LI"
   avatar           : "images/lijichang.png"
   bio              :  >-
                       <span style="display: block; text-align: center;">
