@@ -23,7 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jichang LI"
   avatar           : "images/lijichang.png"
-  bio              : "<span style="display: block; text-align: center;">Associate Professor<br>@SYSU CSE<br>PhD@HKU CS</span>"
+  bio              :  >-
+                      <span style="display: block; text-align: center;">
+                        Associate Professor<br>
+                        @SYSU CSE<br>
+                        PhD@HKU CS
+                        </span>
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
