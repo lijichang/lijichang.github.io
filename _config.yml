@@ -23,11 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "JICHANG LI"
   avatar           : "images/lijichang.png"
-  bio              :  >-
-                      <span style="display: block; text-align: center;">
-                        Associate Professor<br>
-                        @Sun Yat-sen University
-                        </span>
+  bio              : "Associate Professor<br>@Sun Yat-sen University"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
