@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "JICHANG LI"
+  name             : 
   avatar           : "images/lijichang.png"
-  bio              : "Associate Professor<br>@Sun Yat-sen University"
+  bio              : "<span style="display: block; text-align: center;"><strong>JICHANG LI</strong><br>Associate Professor<br>@Sun Yat-sen University</span>"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
